@@ -30,12 +30,18 @@ android {
     }
 
     signingConfigs {
+        getByName("debug") {
+            enableV1Signing = true
+            enableV2Signing = true
+        }
         if (releaseKeystore != null) {
             create("release") {
                 storeFile = file(releaseKeystore)
                 storePassword = System.getenv("VSG_KEYSTORE_PASSWORD")
                 keyAlias = System.getenv("VSG_KEY_ALIAS")
                 keyPassword = System.getenv("VSG_KEY_PASSWORD")
+                enableV1Signing = true
+                enableV2Signing = true
             }
         }
     }
