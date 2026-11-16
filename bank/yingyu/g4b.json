@@ -1,0 +1,4297 @@
+[
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“sorry” 的中文意思是：",
+  "options": [
+   "对不起",
+   "整洁的；整理",
+   "迟到；晚",
+   "报纸"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“对不起” 用英语怎么说？",
+  "options": [
+   "sorry",
+   "ready",
+   "turn off",
+   "hand out"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：对不起",
+  "answers": [
+   "sorry"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“hurry up” 的中文意思是：",
+  "options": [
+   "快点",
+   "音乐",
+   "报纸",
+   "规则"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“快点” 用英语怎么说？",
+  "options": [
+   "hurry up",
+   "class",
+   "hand out",
+   "light"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：快点",
+  "answers": [
+   "hurry up"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“late” 的中文意思是：",
+  "options": [
+   "迟到；晚",
+   "窗户",
+   "对不起",
+   "报纸"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“迟到；晚” 用英语怎么说？",
+  "options": [
+   "late",
+   "class",
+   "window",
+   "door"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：迟到；晚",
+  "answers": [
+   "late"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“class” 的中文意思是：",
+  "options": [
+   "课；班级",
+   "风扇",
+   "关掉",
+   "当…时；何时"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“课；班级” 用英语怎么说？",
+  "options": [
+   "class",
+   "ready",
+   "music",
+   "door"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：课；班级",
+  "answers": [
+   "class"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“ready” 的中文意思是：",
+  "options": [
+   "准备好的",
+   "对不起",
+   "椅子",
+   "门"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“准备好的” 用英语怎么说？",
+  "options": [
+   "ready",
+   "rule",
+   "hurry up",
+   "wall"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：准备好的",
+  "answers": [
+   "ready"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“rule” 的中文意思是：",
+  "options": [
+   "规则",
+   "对不起",
+   "音乐",
+   "课；班级"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“规则” 用英语怎么说？",
+  "options": [
+   "rule",
+   "ready",
+   "classroom",
+   "class"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：规则",
+  "answers": [
+   "rule"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“classroom” 的中文意思是：",
+  "options": [
+   "教室",
+   "课；班级",
+   "黑板",
+   "窗户"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“教室” 用英语怎么说？",
+  "options": [
+   "classroom",
+   "class",
+   "door",
+   "workbook"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：教室",
+  "answers": [
+   "classroom"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“turn off” 的中文意思是：",
+  "options": [
+   "关掉",
+   "准备好的",
+   "窗户",
+   "整洁的；整理"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“关掉” 用英语怎么说？",
+  "options": [
+   "turn off",
+   "when",
+   "late",
+   "newspaper"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：关掉",
+  "answers": [
+   "turn off"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“light” 的中文意思是：",
+  "options": [
+   "灯",
+   "分发",
+   "快点",
+   "风扇"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“灯” 用英语怎么说？",
+  "options": [
+   "light",
+   "wall",
+   "class",
+   "ready"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：灯",
+  "answers": [
+   "light"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“blackboard” 的中文意思是：",
+  "options": [
+   "黑板",
+   "课；班级",
+   "懂；理解",
+   "椅子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“黑板” 用英语怎么说？",
+  "options": [
+   "blackboard",
+   "door",
+   "hurry up",
+   "newspaper"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：黑板",
+  "answers": [
+   "blackboard"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“desk” 的中文意思是：",
+  "options": [
+   "书桌",
+   "墙",
+   "教室",
+   "对不起"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“书桌” 用英语怎么说？",
+  "options": [
+   "desk",
+   "hurry up",
+   "door",
+   "when"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：书桌",
+  "answers": [
+   "desk"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“chair” 的中文意思是：",
+  "options": [
+   "椅子",
+   "当…时；何时",
+   "规则",
+   "迟到；晚"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“椅子” 用英语怎么说？",
+  "options": [
+   "chair",
+   "tidy",
+   "hand out",
+   "classroom"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：椅子",
+  "answers": [
+   "chair"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“tidy” 的中文意思是：",
+  "options": [
+   "整洁的；整理",
+   "音乐",
+   "书桌",
+   "黑板"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“整洁的；整理” 用英语怎么说？",
+  "options": [
+   "tidy",
+   "ready",
+   "workbook",
+   "door"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：整洁的；整理",
+  "answers": [
+   "tidy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“music” 的中文意思是：",
+  "options": [
+   "音乐",
+   "窗户",
+   "懂；理解",
+   "墙"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“音乐” 用英语怎么说？",
+  "options": [
+   "music",
+   "blackboard",
+   "class",
+   "light"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：音乐",
+  "answers": [
+   "music"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“door” 的中文意思是：",
+  "options": [
+   "门",
+   "准备好的",
+   "黑板",
+   "规则"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“门” 用英语怎么说？",
+  "options": [
+   "door",
+   "window",
+   "music",
+   "late"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：门",
+  "answers": [
+   "door"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“window” 的中文意思是：",
+  "options": [
+   "窗户",
+   "快点",
+   "规则",
+   "整洁的；整理"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“窗户” 用英语怎么说？",
+  "options": [
+   "window",
+   "classroom",
+   "blackboard",
+   "ready"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：窗户",
+  "answers": [
+   "window"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“fan” 的中文意思是：",
+  "options": [
+   "风扇",
+   "教室",
+   "整洁的；整理",
+   "墙"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“风扇” 用英语怎么说？",
+  "options": [
+   "fan",
+   "ready",
+   "light",
+   "tidy"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：风扇",
+  "answers": [
+   "fan"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“when” 的中文意思是：",
+  "options": [
+   "当…时；何时",
+   "门",
+   "分发",
+   "灯"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“当…时；何时” 用英语怎么说？",
+  "options": [
+   "when",
+   "chair",
+   "desk",
+   "understand"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：当…时；何时",
+  "answers": [
+   "when"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“understand” 的中文意思是：",
+  "options": [
+   "懂；理解",
+   "窗户",
+   "墙",
+   "整洁的；整理"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“懂；理解” 用英语怎么说？",
+  "options": [
+   "understand",
+   "desk",
+   "ready",
+   "turn off"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：懂；理解",
+  "answers": [
+   "understand"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“wall” 的中文意思是：",
+  "options": [
+   "墙",
+   "规则",
+   "迟到；晚",
+   "对不起"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“墙” 用英语怎么说？",
+  "options": [
+   "wall",
+   "class",
+   "hand out",
+   "blackboard"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：墙",
+  "answers": [
+   "wall"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“newspaper” 的中文意思是：",
+  "options": [
+   "报纸",
+   "课；班级",
+   "对不起",
+   "门"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“报纸” 用英语怎么说？",
+  "options": [
+   "newspaper",
+   "turn off",
+   "hand out",
+   "desk"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：报纸",
+  "answers": [
+   "newspaper"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“hand out” 的中文意思是：",
+  "options": [
+   "分发",
+   "当…时；何时",
+   "迟到；晚",
+   "墙"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“分发” 用英语怎么说？",
+  "options": [
+   "hand out",
+   "blackboard",
+   "late",
+   "class"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：分发",
+  "answers": [
+   "hand out"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“workbook” 的中文意思是：",
+  "options": [
+   "练习册",
+   "整洁的；整理",
+   "窗户",
+   "迟到；晚"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "“练习册” 用英语怎么说？",
+  "options": [
+   "workbook",
+   "light",
+   "rule",
+   "desk"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Class rules",
+  "q": "写出英文单词（不区分大小写）：练习册",
+  "answers": [
+   "workbook"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“watch” 的中文意思是：",
+  "options": [
+   "看",
+   "想；思考",
+   "洗",
+   "电视"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“看” 用英语怎么说？",
+  "options": [
+   "watch",
+   "living room",
+   "bathroom",
+   "follow"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：看",
+  "answers": [
+   "watch"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“TV” 的中文意思是：",
+  "options": [
+   "电视",
+   "洗",
+   "睡觉",
+   "努力地"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“电视” 用英语怎么说？",
+  "options": [
+   "TV",
+   "first",
+   "bedroom",
+   "run"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：电视",
+  "answers": [
+   "TV"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“homework” 的中文意思是：",
+  "options": [
+   "作业",
+   "遵循；听从",
+   "书房",
+   "厨房"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“作业” 用英语怎么说？",
+  "options": [
+   "homework",
+   "study",
+   "work",
+   "living room"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：作业",
+  "answers": [
+   "homework"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“first” 的中文意思是：",
+  "options": [
+   "首先；第一",
+   "有帮助的",
+   "想；思考",
+   "浴室；洗手间"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“首先；第一” 用英语怎么说？",
+  "options": [
+   "first",
+   "study",
+   "bathroom",
+   "hard"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：首先；第一",
+  "answers": [
+   "first"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“wet” 的中文意思是：",
+  "options": [
+   "湿的",
+   "安全的",
+   "浴室；洗手间",
+   "看"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“湿的” 用英语怎么说？",
+  "options": [
+   "wet",
+   "study",
+   "watch",
+   "think"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：湿的",
+  "answers": [
+   "wet"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“run” 的中文意思是：",
+  "options": [
+   "跑",
+   "话语；单词",
+   "睡觉",
+   "努力地"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“跑” 用英语怎么说？",
+  "options": [
+   "run",
+   "feel",
+   "safe",
+   "helpful"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：跑",
+  "answers": [
+   "run"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“living room” 的中文意思是：",
+  "options": [
+   "客厅",
+   "书房",
+   "安全的",
+   "作业"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“客厅” 用英语怎么说？",
+  "options": [
+   "living room",
+   "sleep",
+   "bathroom",
+   "run"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：客厅",
+  "answers": [
+   "living room"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“safe” 的中文意思是：",
+  "options": [
+   "安全的",
+   "作业",
+   "跑",
+   "想；思考"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“安全的” 用英语怎么说？",
+  "options": [
+   "safe",
+   "bathroom",
+   "sleep",
+   "word"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：安全的",
+  "answers": [
+   "safe"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“word” 的中文意思是：",
+  "options": [
+   "话语；单词",
+   "睡觉",
+   "湿的",
+   "跑"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“话语；单词” 用英语怎么说？",
+  "options": [
+   "word",
+   "follow",
+   "work",
+   "think"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：话语；单词",
+  "answers": [
+   "word"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“wash” 的中文意思是：",
+  "options": [
+   "洗",
+   "跑",
+   "睡觉",
+   "做；工作"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“洗” 用英语怎么说？",
+  "options": [
+   "wash",
+   "hard",
+   "study",
+   "living room"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：洗",
+  "answers": [
+   "wash"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“helpful” 的中文意思是：",
+  "options": [
+   "有帮助的",
+   "客厅",
+   "遵循；听从",
+   "厨房"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“有帮助的” 用英语怎么说？",
+  "options": [
+   "helpful",
+   "follow",
+   "kitchen",
+   "word"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：有帮助的",
+  "answers": [
+   "helpful"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“loud” 的中文意思是：",
+  "options": [
+   "大声的；吵闹的",
+   "首先；第一",
+   "厨房",
+   "电视"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“大声的；吵闹的” 用英语怎么说？",
+  "options": [
+   "loud",
+   "study",
+   "first",
+   "wash"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：大声的；吵闹的",
+  "answers": [
+   "loud"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“sleep” 的中文意思是：",
+  "options": [
+   "睡觉",
+   "厨房",
+   "想；思考",
+   "话语；单词"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“睡觉” 用英语怎么说？",
+  "options": [
+   "sleep",
+   "hard",
+   "think",
+   "wash"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：睡觉",
+  "answers": [
+   "sleep"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“bedroom” 的中文意思是：",
+  "options": [
+   "卧室",
+   "想；思考",
+   "跑",
+   "首先；第一"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“卧室” 用英语怎么说？",
+  "options": [
+   "bedroom",
+   "helpful",
+   "safe",
+   "work"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：卧室",
+  "answers": [
+   "bedroom"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“kitchen” 的中文意思是：",
+  "options": [
+   "厨房",
+   "努力地",
+   "客厅",
+   "作业"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“厨房” 用英语怎么说？",
+  "options": [
+   "kitchen",
+   "run",
+   "living room",
+   "loud"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：厨房",
+  "answers": [
+   "kitchen"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“study” 的中文意思是：",
+  "options": [
+   "书房",
+   "首先；第一",
+   "大声的；吵闹的",
+   "看"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“书房” 用英语怎么说？",
+  "options": [
+   "study",
+   "work",
+   "homework",
+   "first"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：书房",
+  "answers": [
+   "study"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“bathroom” 的中文意思是：",
+  "options": [
+   "浴室；洗手间",
+   "看",
+   "卧室",
+   "厨房"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“浴室；洗手间” 用英语怎么说？",
+  "options": [
+   "bathroom",
+   "run",
+   "bedroom",
+   "wet"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：浴室；洗手间",
+  "answers": [
+   "bathroom"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“think” 的中文意思是：",
+  "options": [
+   "想；思考",
+   "遵循；听从",
+   "大声的；吵闹的",
+   "有帮助的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“想；思考” 用英语怎么说？",
+  "options": [
+   "think",
+   "TV",
+   "run",
+   "study"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：想；思考",
+  "answers": [
+   "think"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“work” 的中文意思是：",
+  "options": [
+   "做；工作",
+   "卧室",
+   "书房",
+   "安全的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“做；工作” 用英语怎么说？",
+  "options": [
+   "work",
+   "TV",
+   "first",
+   "watch"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：做；工作",
+  "answers": [
+   "work"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“hard” 的中文意思是：",
+  "options": [
+   "努力地",
+   "书房",
+   "看",
+   "客厅"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“努力地” 用英语怎么说？",
+  "options": [
+   "hard",
+   "first",
+   "helpful",
+   "bedroom"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：努力地",
+  "answers": [
+   "hard"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“follow” 的中文意思是：",
+  "options": [
+   "遵循；听从",
+   "做；工作",
+   "安全的",
+   "洗"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“遵循；听从” 用英语怎么说？",
+  "options": [
+   "follow",
+   "sleep",
+   "first",
+   "wet"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：遵循；听从",
+  "answers": [
+   "follow"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“feel” 的中文意思是：",
+  "options": [
+   "觉得；感到",
+   "浴室；洗手间",
+   "看",
+   "努力地"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "“觉得；感到” 用英语怎么说？",
+  "options": [
+   "feel",
+   "sleep",
+   "helpful",
+   "run"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Family rules",
+  "q": "写出英文单词（不区分大小写）：觉得；感到",
+  "answers": [
+   "feel"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“over” 的中文意思是：",
+  "options": [
+   "结束的",
+   "分钟",
+   "美术",
+   "想要"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“结束的” 用英语怎么说？",
+  "options": [
+   "over",
+   "get up",
+   "just",
+   "lunch"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：结束的",
+  "answers": [
+   "over"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“kid” 的中文意思是：",
+  "options": [
+   "小孩",
+   "只是；正要",
+   "回家",
+   "时钟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“小孩” 用英语怎么说？",
+  "options": [
+   "kid",
+   "just",
+   "over",
+   "go to bed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：小孩",
+  "answers": [
+   "kid"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“dinner” 的中文意思是：",
+  "options": [
+   "晚饭；正餐",
+   "起床",
+   "午餐",
+   "时钟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“晚饭；正餐” 用英语怎么说？",
+  "options": [
+   "dinner",
+   "clock",
+   "go to school",
+   "go to bed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：晚饭；正餐",
+  "answers": [
+   "dinner"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“art” 的中文意思是：",
+  "options": [
+   "美术",
+   "想要",
+   "数学",
+   "只是；正要"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“美术” 用英语怎么说？",
+  "options": [
+   "art",
+   "maths",
+   "lunch",
+   "go home"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：美术",
+  "answers": [
+   "art"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“lunch” 的中文意思是：",
+  "options": [
+   "午餐",
+   "想要",
+   "回家",
+   "小孩"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“午餐” 用英语怎么说？",
+  "options": [
+   "lunch",
+   "minute",
+   "art",
+   "go to bed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：午餐",
+  "answers": [
+   "lunch"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“maths” 的中文意思是：",
+  "options": [
+   "数学",
+   "上学",
+   "时钟",
+   "回家"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“数学” 用英语怎么说？",
+  "options": [
+   "maths",
+   "over",
+   "minute",
+   "lunch"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：数学",
+  "answers": [
+   "maths"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“get up” 的中文意思是：",
+  "options": [
+   "起床",
+   "数学",
+   "小孩",
+   "只是；正要"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“起床” 用英语怎么说？",
+  "options": [
+   "get up",
+   "art",
+   "dinner",
+   "over"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：起床",
+  "answers": [
+   "get up"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“go to school” 的中文意思是：",
+  "options": [
+   "上学",
+   "想要",
+   "数学",
+   "上床睡觉"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“上学” 用英语怎么说？",
+  "options": [
+   "go to school",
+   "get up",
+   "dinner",
+   "want"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：上学",
+  "answers": [
+   "go to school"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“go home” 的中文意思是：",
+  "options": [
+   "回家",
+   "想要",
+   "小孩",
+   "结束的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“回家” 用英语怎么说？",
+  "options": [
+   "go home",
+   "minute",
+   "clock",
+   "maths"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：回家",
+  "answers": [
+   "go home"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“go to bed” 的中文意思是：",
+  "options": [
+   "上床睡觉",
+   "数学",
+   "起床",
+   "想要"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“上床睡觉” 用英语怎么说？",
+  "options": [
+   "go to bed",
+   "go home",
+   "just",
+   "art"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：上床睡觉",
+  "answers": [
+   "go to bed"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“want” 的中文意思是：",
+  "options": [
+   "想要",
+   "小孩",
+   "起床",
+   "只是；正要"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“想要” 用英语怎么说？",
+  "options": [
+   "want",
+   "maths",
+   "clock",
+   "over"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：想要",
+  "answers": [
+   "want"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“clock” 的中文意思是：",
+  "options": [
+   "时钟",
+   "小孩",
+   "上学",
+   "数学"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“时钟” 用英语怎么说？",
+  "options": [
+   "clock",
+   "minute",
+   "go to bed",
+   "get up"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：时钟",
+  "answers": [
+   "clock"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“just” 的中文意思是：",
+  "options": [
+   "只是；正要",
+   "上床睡觉",
+   "午餐",
+   "分钟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“只是；正要” 用英语怎么说？",
+  "options": [
+   "just",
+   "get up",
+   "go to bed",
+   "go home"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：只是；正要",
+  "answers": [
+   "just"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“minute” 的中文意思是：",
+  "options": [
+   "分钟",
+   "起床",
+   "上学",
+   "晚饭；正餐"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "“分钟” 用英语怎么说？",
+  "options": [
+   "minute",
+   "clock",
+   "get up",
+   "just"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Time for school",
+  "q": "写出英文单词（不区分大小写）：分钟",
+  "answers": [
+   "minute"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“trousers” 的中文意思是：",
+  "options": [
+   "裤子",
+   "免费的",
+   "任何的",
+   "一条；一副"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“裤子” 用英语怎么说？",
+  "options": [
+   "trousers",
+   "cheap",
+   "those",
+   "free"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：裤子",
+  "answers": [
+   "trousers"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“pair” 的中文意思是：",
+  "options": [
+   "一条；一副",
+   "夹克衫",
+   "太阳镜",
+   "买下"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“一条；一副” 用英语怎么说？",
+  "options": [
+   "pair",
+   "cheap",
+   "list",
+   "those"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：一条；一副",
+  "answers": [
+   "pair"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“clothes” 的中文意思是：",
+  "options": [
+   "衣服",
+   "太阳镜",
+   "短裤",
+   "一条；一副"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“衣服” 用英语怎么说？",
+  "options": [
+   "clothes",
+   "hat",
+   "large",
+   "jacket"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：衣服",
+  "answers": [
+   "clothes"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“those” 的中文意思是：",
+  "options": [
+   "那些",
+   "清单",
+   "裙子",
+   "美丽的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“那些” 用英语怎么说？",
+  "options": [
+   "those",
+   "trousers",
+   "skirt",
+   "expensive"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：那些",
+  "answers": [
+   "those"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“shorts” 的中文意思是：",
+  "options": [
+   "短裤",
+   "亲爱的",
+   "裙子",
+   "衣服"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“短裤” 用英语怎么说？",
+  "options": [
+   "shorts",
+   "those",
+   "sunglasses",
+   "large"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：短裤",
+  "answers": [
+   "shorts"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“jacket” 的中文意思是：",
+  "options": [
+   "夹克衫",
+   "大号的",
+   "那些",
+   "任何的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“夹克衫” 用英语怎么说？",
+  "options": [
+   "jacket",
+   "size",
+   "beautiful",
+   "any"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：夹克衫",
+  "answers": [
+   "jacket"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“skirt” 的中文意思是：",
+  "options": [
+   "裙子",
+   "任何的",
+   "试穿",
+   "昂贵的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“裙子” 用英语怎么说？",
+  "options": [
+   "skirt",
+   "large",
+   "list",
+   "hat"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：裙子",
+  "answers": [
+   "skirt"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“dear” 的中文意思是：",
+  "options": [
+   "亲爱的",
+   "免费的",
+   "衣服",
+   "尺码"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“亲爱的” 用英语怎么说？",
+  "options": [
+   "dear",
+   "clothes",
+   "try on",
+   "jacket"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：亲爱的",
+  "answers": [
+   "dear"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“expensive” 的中文意思是：",
+  "options": [
+   "昂贵的",
+   "夹克衫",
+   "清单",
+   "大号的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“昂贵的” 用英语怎么说？",
+  "options": [
+   "expensive",
+   "those",
+   "jacket",
+   "sunglasses"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：昂贵的",
+  "answers": [
+   "expensive"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“take” 的中文意思是：",
+  "options": [
+   "买下",
+   "便宜的",
+   "亲爱的",
+   "衣服"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“买下” 用英语怎么说？",
+  "options": [
+   "take",
+   "size",
+   "cheap",
+   "pair"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：买下",
+  "answers": [
+   "take"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“cheap” 的中文意思是：",
+  "options": [
+   "便宜的",
+   "裤子",
+   "亲爱的",
+   "任何的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“便宜的” 用英语怎么说？",
+  "options": [
+   "cheap",
+   "any",
+   "jacket",
+   "shoe"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：便宜的",
+  "answers": [
+   "cheap"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“shoe” 的中文意思是：",
+  "options": [
+   "鞋",
+   "清单",
+   "那些",
+   "帽子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“鞋” 用英语怎么说？",
+  "options": [
+   "shoe",
+   "any",
+   "trousers",
+   "expensive"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：鞋",
+  "answers": [
+   "shoe"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“beautiful” 的中文意思是：",
+  "options": [
+   "美丽的",
+   "清单",
+   "鞋",
+   "太阳镜"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“美丽的” 用英语怎么说？",
+  "options": [
+   "beautiful",
+   "hat",
+   "jacket",
+   "cheap"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：美丽的",
+  "answers": [
+   "beautiful"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“hat” 的中文意思是：",
+  "options": [
+   "帽子",
+   "太阳镜",
+   "衣服",
+   "亲爱的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“帽子” 用英语怎么说？",
+  "options": [
+   "hat",
+   "list",
+   "expensive",
+   "size"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：帽子",
+  "answers": [
+   "hat"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“sunglasses” 的中文意思是：",
+  "options": [
+   "太阳镜",
+   "便宜的",
+   "衣服",
+   "任何的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“太阳镜” 用英语怎么说？",
+  "options": [
+   "sunglasses",
+   "size",
+   "pair",
+   "try on"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：太阳镜",
+  "answers": [
+   "sunglasses"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“free” 的中文意思是：",
+  "options": [
+   "免费的",
+   "帽子",
+   "裙子",
+   "清单"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“免费的” 用英语怎么说？",
+  "options": [
+   "free",
+   "cheap",
+   "those",
+   "sunglasses"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：免费的",
+  "answers": [
+   "free"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“large” 的中文意思是：",
+  "options": [
+   "大号的",
+   "那些",
+   "短裤",
+   "清单"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“大号的” 用英语怎么说？",
+  "options": [
+   "large",
+   "size",
+   "take",
+   "hat"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：大号的",
+  "answers": [
+   "large"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“size” 的中文意思是：",
+  "options": [
+   "尺码",
+   "亲爱的",
+   "鞋",
+   "便宜的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“尺码” 用英语怎么说？",
+  "options": [
+   "size",
+   "large",
+   "hat",
+   "cheap"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：尺码",
+  "answers": [
+   "size"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“list” 的中文意思是：",
+  "options": [
+   "清单",
+   "试穿",
+   "鞋",
+   "美丽的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“清单” 用英语怎么说？",
+  "options": [
+   "list",
+   "shoe",
+   "sunglasses",
+   "try on"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：清单",
+  "answers": [
+   "list"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“try on” 的中文意思是：",
+  "options": [
+   "试穿",
+   "大号的",
+   "夹克衫",
+   "免费的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“试穿” 用英语怎么说？",
+  "options": [
+   "try on",
+   "any",
+   "shoe",
+   "take"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：试穿",
+  "answers": [
+   "try on"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“any” 的中文意思是：",
+  "options": [
+   "任何的",
+   "亲爱的",
+   "尺码",
+   "昂贵的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "“任何的” 用英语怎么说？",
+  "options": [
+   "any",
+   "list",
+   "hat",
+   "sunglasses"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Going shopping",
+  "q": "写出英文单词（不区分大小写）：任何的",
+  "answers": [
+   "any"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“cow” 的中文意思是：",
+  "options": [
+   "奶牛",
+   "土豆",
+   "罐；罐头",
+   "胡萝卜"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“奶牛” 用英语怎么说？",
+  "options": [
+   "cow",
+   "sheep",
+   "green bean",
+   "bee"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：奶牛",
+  "answers": [
+   "cow"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“horse” 的中文意思是：",
+  "options": [
+   "马",
+   "四季豆",
+   "羊",
+   "罐；罐头"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“马” 用英语怎么说？",
+  "options": [
+   "horse",
+   "chicken",
+   "sheep",
+   "tomato"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：马",
+  "answers": [
+   "horse"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“sheep” 的中文意思是：",
+  "options": [
+   "羊",
+   "四季豆",
+   "蜜蜂",
+   "罐；罐头"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“羊” 用英语怎么说？",
+  "options": [
+   "sheep",
+   "carrot",
+   "chicken",
+   "tomato"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：羊",
+  "answers": [
+   "sheep"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“pig” 的中文意思是：",
+  "options": [
+   "猪",
+   "鸡；鸡肉",
+   "土豆",
+   "罐；罐头"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“猪” 用英语怎么说？",
+  "options": [
+   "pig",
+   "mouse",
+   "bee",
+   "a box of"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：猪",
+  "answers": [
+   "pig"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“chicken” 的中文意思是：",
+  "options": [
+   "鸡；鸡肉",
+   "马",
+   "胡萝卜",
+   "一盒"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“鸡；鸡肉” 用英语怎么说？",
+  "options": [
+   "chicken",
+   "pig",
+   "can",
+   "sheep"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：鸡；鸡肉",
+  "answers": [
+   "chicken"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“tomato” 的中文意思是：",
+  "options": [
+   "西红柿",
+   "羊",
+   "马",
+   "一盒"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“西红柿” 用英语怎么说？",
+  "options": [
+   "tomato",
+   "bee",
+   "carrot",
+   "pig"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：西红柿",
+  "answers": [
+   "tomato"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“bee” 的中文意思是：",
+  "options": [
+   "蜜蜂",
+   "羊",
+   "罐；罐头",
+   "胡萝卜"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“蜜蜂” 用英语怎么说？",
+  "options": [
+   "bee",
+   "a box of",
+   "can",
+   "chicken"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：蜜蜂",
+  "answers": [
+   "bee"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“mouse” 的中文意思是：",
+  "options": [
+   "老鼠",
+   "土豆",
+   "奶牛",
+   "一盒"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“老鼠” 用英语怎么说？",
+  "options": [
+   "mouse",
+   "tomato",
+   "can",
+   "a box of"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：老鼠",
+  "answers": [
+   "mouse"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“carrot” 的中文意思是：",
+  "options": [
+   "胡萝卜",
+   "四季豆",
+   "蜜蜂",
+   "一盒"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“胡萝卜” 用英语怎么说？",
+  "options": [
+   "carrot",
+   "can",
+   "mouse",
+   "chicken"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：胡萝卜",
+  "answers": [
+   "carrot"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“potato” 的中文意思是：",
+  "options": [
+   "土豆",
+   "胡萝卜",
+   "马",
+   "蜜蜂"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“土豆” 用英语怎么说？",
+  "options": [
+   "potato",
+   "sheep",
+   "carrot",
+   "pig"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：土豆",
+  "answers": [
+   "potato"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“green bean” 的中文意思是：",
+  "options": [
+   "四季豆",
+   "土豆",
+   "奶牛",
+   "马"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“四季豆” 用英语怎么说？",
+  "options": [
+   "green bean",
+   "potato",
+   "cow",
+   "carrot"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：四季豆",
+  "answers": [
+   "green bean"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“can” 的中文意思是：",
+  "options": [
+   "罐；罐头",
+   "四季豆",
+   "鸡；鸡肉",
+   "猪"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“罐；罐头” 用英语怎么说？",
+  "options": [
+   "can",
+   "cow",
+   "carrot",
+   "green bean"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：罐；罐头",
+  "answers": [
+   "can"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“a box of” 的中文意思是：",
+  "options": [
+   "一盒",
+   "罐；罐头",
+   "胡萝卜",
+   "老鼠"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "“一盒” 用英语怎么说？",
+  "options": [
+   "a box of",
+   "can",
+   "tomato",
+   "horse"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Farms and us",
+  "q": "写出英文单词（不区分大小写）：一盒",
+  "answers": [
+   "a box of"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“feed” 的中文意思是：",
+  "options": [
+   "喂；饲养",
+   "收拾餐桌",
+   "美味的",
+   "沙拉"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“喂；饲养” 用英语怎么说？",
+  "options": [
+   "feed",
+   "fork",
+   "milk",
+   "food"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：喂；饲养",
+  "answers": [
+   "feed"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“pass” 的中文意思是：",
+  "options": [
+   "递；给",
+   "勺子",
+   "收拾餐桌",
+   "她自己"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“递；给” 用英语怎么说？",
+  "options": [
+   "pass",
+   "food",
+   "clear the table",
+   "supermarket"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：递；给",
+  "answers": [
+   "pass"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“pick” 的中文意思是：",
+  "options": [
+   "采；摘",
+   "摆放餐具",
+   "挤奶",
+   "碗"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“采；摘” 用英语怎么说？",
+  "options": [
+   "pick",
+   "chopstick",
+   "salad",
+   "milk"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：采；摘",
+  "answers": [
+   "pick"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“milk” 的中文意思是：",
+  "options": [
+   "挤奶",
+   "浪费",
+   "采；摘",
+   "摆放餐具"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“挤奶” 用英语怎么说？",
+  "options": [
+   "milk",
+   "knife",
+   "herself",
+   "set the table"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：挤奶",
+  "answers": [
+   "milk"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“knife” 的中文意思是：",
+  "options": [
+   "刀",
+   "勺子",
+   "周；星期",
+   "超市"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“刀” 用英语怎么说？",
+  "options": [
+   "knife",
+   "supermarket",
+   "herself",
+   "milk"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：刀",
+  "answers": [
+   "knife"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“fork” 的中文意思是：",
+  "options": [
+   "餐叉",
+   "递；给",
+   "挤奶",
+   "刀"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“餐叉” 用英语怎么说？",
+  "options": [
+   "fork",
+   "pass",
+   "delicious",
+   "knife"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：餐叉",
+  "answers": [
+   "fork"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“chopstick” 的中文意思是：",
+  "options": [
+   "筷子",
+   "超市",
+   "食物",
+   "收拾餐桌"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“筷子” 用英语怎么说？",
+  "options": [
+   "chopstick",
+   "pick",
+   "clear the table",
+   "supermarket"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：筷子",
+  "answers": [
+   "chopstick"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“waste” 的中文意思是：",
+  "options": [
+   "浪费",
+   "喂；饲养",
+   "挤奶",
+   "她自己"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“浪费” 用英语怎么说？",
+  "options": [
+   "waste",
+   "supermarket",
+   "feed",
+   "delicious"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：浪费",
+  "answers": [
+   "waste"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“food” 的中文意思是：",
+  "options": [
+   "食物",
+   "采；摘",
+   "收拾餐桌",
+   "递；给"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“食物” 用英语怎么说？",
+  "options": [
+   "food",
+   "herself",
+   "waste",
+   "delicious"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：食物",
+  "answers": [
+   "food"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“delicious” 的中文意思是：",
+  "options": [
+   "美味的",
+   "食物",
+   "餐叉",
+   "勺子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“美味的” 用英语怎么说？",
+  "options": [
+   "delicious",
+   "supermarket",
+   "milk",
+   "herself"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：美味的",
+  "answers": [
+   "delicious"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“clear the table” 的中文意思是：",
+  "options": [
+   "收拾餐桌",
+   "挤奶",
+   "筷子",
+   "她自己"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“收拾餐桌” 用英语怎么说？",
+  "options": [
+   "clear the table",
+   "week",
+   "pass",
+   "feed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：收拾餐桌",
+  "answers": [
+   "clear the table"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“set the table” 的中文意思是：",
+  "options": [
+   "摆放餐具",
+   "餐叉",
+   "她自己",
+   "勺子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“摆放餐具” 用英语怎么说？",
+  "options": [
+   "set the table",
+   "salad",
+   "spoon",
+   "feed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：摆放餐具",
+  "answers": [
+   "set the table"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“bowl” 的中文意思是：",
+  "options": [
+   "碗",
+   "美味的",
+   "挤奶",
+   "递；给"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“碗” 用英语怎么说？",
+  "options": [
+   "bowl",
+   "clear the table",
+   "herself",
+   "pass"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：碗",
+  "answers": [
+   "bowl"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“spoon” 的中文意思是：",
+  "options": [
+   "勺子",
+   "刀",
+   "筷子",
+   "餐叉"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“勺子” 用英语怎么说？",
+  "options": [
+   "spoon",
+   "salad",
+   "feed",
+   "clear the table"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：勺子",
+  "answers": [
+   "spoon"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“supermarket” 的中文意思是：",
+  "options": [
+   "超市",
+   "挤奶",
+   "刀",
+   "摆放餐具"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“超市” 用英语怎么说？",
+  "options": [
+   "supermarket",
+   "knife",
+   "spoon",
+   "waste"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：超市",
+  "answers": [
+   "supermarket"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“herself” 的中文意思是：",
+  "options": [
+   "她自己",
+   "美味的",
+   "收拾餐桌",
+   "餐叉"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“她自己” 用英语怎么说？",
+  "options": [
+   "herself",
+   "pick",
+   "fork",
+   "clear the table"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：她自己",
+  "answers": [
+   "herself"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“week” 的中文意思是：",
+  "options": [
+   "周；星期",
+   "浪费",
+   "递；给",
+   "挤奶"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“周；星期” 用英语怎么说？",
+  "options": [
+   "week",
+   "knife",
+   "pick",
+   "fork"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：周；星期",
+  "answers": [
+   "week"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“salad” 的中文意思是：",
+  "options": [
+   "沙拉",
+   "递；给",
+   "碗",
+   "喂；饲养"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "“沙拉” 用英语怎么说？",
+  "options": [
+   "salad",
+   "pick",
+   "milk",
+   "knife"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 From farm to table",
+  "q": "写出英文单词（不区分大小写）：沙拉",
+  "answers": [
+   "salad"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Class rules",
+  "q": "Hurry up! Don't be ______ for class!",
+  "options": [
+   "late",
+   "ready",
+   "tidy",
+   "sorry"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Class rules",
+  "q": "You can take this apple, but don't ______ it in class.",
+  "options": [
+   "eat",
+   "eats",
+   "eating",
+   "to eat"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Class rules",
+  "q": "Our classroom is clean and ______!",
+  "options": [
+   "tidy",
+   "late",
+   "loud",
+   "wet"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Class rules",
+  "q": "选出不同类的一项：chair、desk、music、window",
+  "options": [
+   "music",
+   "desk",
+   "chair",
+   "window"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Family rules",
+  "q": "— Mum, can I watch TV?\n— You have to do your ______ first.",
+  "options": [
+   "homework",
+   "kitchen",
+   "bedroom",
+   "word"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Family rules",
+  "q": "Don't ______ in the living room. It's not safe.",
+  "options": [
+   "run",
+   "runs",
+   "running",
+   "to run"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Family rules",
+  "q": "— Where is Mum?\n— She's in the ______.",
+  "options": [
+   "kitchen",
+   "homework",
+   "word",
+   "safe"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Family rules",
+  "q": "选出不同类的一项：bathroom、bedroom、kitchen、wash",
+  "options": [
+   "wash",
+   "bedroom",
+   "kitchen",
+   "bathroom"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Time for school",
+  "q": "— What time is it?\n— ______",
+  "options": [
+   "It's 5 o'clock.",
+   "It's sunny.",
+   "It's my clock.",
+   "It's Monday."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Time for school",
+  "q": "It's 6 o'clock. It's time ______ dinner.",
+  "options": [
+   "for",
+   "to",
+   "at",
+   "in"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Time for school",
+  "q": "It's 7 o'clock. It's time to ______ up.",
+  "options": [
+   "get",
+   "go",
+   "have",
+   "make"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Time for school",
+  "q": "选出不同类的一项：art、clock、maths、music",
+  "options": [
+   "clock",
+   "art",
+   "maths",
+   "music"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Going shopping",
+  "q": "— How much is it?\n— ______",
+  "options": [
+   "It's 180 yuan.",
+   "It's a dress.",
+   "I like it.",
+   "Yes, you can."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Going shopping",
+  "q": "Those shorts are nice. Can I buy a ______?",
+  "options": [
+   "pair",
+   "list",
+   "size",
+   "dear"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Going shopping",
+  "q": "I'm sorry, dear. That's ______.",
+  "options": [
+   "expensive",
+   "cheap",
+   "free",
+   "beautiful"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Going shopping",
+  "q": "选出不同类的一项：cheap、jacket、skirt、trousers",
+  "options": [
+   "cheap",
+   "trousers",
+   "skirt",
+   "jacket"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Farms and us",
+  "q": "— How many cows do you have?\n— ______",
+  "options": [
+   "I have 20.",
+   "They're cows.",
+   "It's 20 yuan.",
+   "Yes, I do."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Farms and us",
+  "q": "— What are these?\n— They're ______.",
+  "options": [
+   "tomatoes",
+   "tomato",
+   "a tomato",
+   "tomatos"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Farms and us",
+  "q": "选出不同类的一项：carrot、cow、horse、pig",
+  "options": [
+   "carrot",
+   "cow",
+   "horse",
+   "pig"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 From farm to table",
+  "q": "Can you please ______ me the vegetables?",
+  "options": [
+   "pass",
+   "feed",
+   "pick",
+   "waste"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 From farm to table",
+  "q": "Would you like a knife and ______?",
+  "options": [
+   "fork",
+   "chicken",
+   "salad",
+   "supermarket"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 From farm to table",
+  "q": "Don't ______ food, please.",
+  "options": [
+   "waste",
+   "pass",
+   "feed",
+   "set"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 From farm to table",
+  "q": "选出不同类的一项：delicious、fork、knife、spoon",
+  "options": [
+   "delicious",
+   "knife",
+   "fork",
+   "spoon"
+  ]
+ }
+]

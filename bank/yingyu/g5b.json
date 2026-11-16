@@ -1,0 +1,5390 @@
+[
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“must” 的中文意思是：",
+  "options": [
+   "必须",
+   "写",
+   "密码",
+   "吸烟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“必须” 用英语怎么说？",
+  "options": [
+   "must",
+   "line",
+   "inside",
+   "borrow"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：必须",
+  "answers": [
+   "must"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“sir” 的中文意思是：",
+  "options": [
+   "先生",
+   "门卫；看守",
+   "等待",
+   "惊吓；使害怕"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“先生” 用英语怎么说？",
+  "options": [
+   "sir",
+   "must",
+   "inside",
+   "return"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：先生",
+  "answers": [
+   "sir"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“inside” 的中文意思是：",
+  "options": [
+   "在…里面",
+   "等待",
+   "队伍；线",
+   "必须"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“在…里面” 用英语怎么说？",
+  "options": [
+   "inside",
+   "guard",
+   "sir",
+   "scare"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：在…里面",
+  "answers": [
+   "inside"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“scare” 的中文意思是：",
+  "options": [
+   "惊吓；使害怕",
+   "借",
+   "门卫；看守",
+   "队伍；线"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“惊吓；使害怕” 用英语怎么说？",
+  "options": [
+   "scare",
+   "open",
+   "flash",
+   "borrow"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：惊吓；使害怕",
+  "answers": [
+   "scare"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“password” 的中文意思是：",
+  "options": [
+   "密码",
+   "队伍；线",
+   "借",
+   "吸烟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“密码” 用英语怎么说？",
+  "options": [
+   "password",
+   "return",
+   "shout",
+   "inside"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：密码",
+  "answers": [
+   "password"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“line” 的中文意思是：",
+  "options": [
+   "队伍；线",
+   "密码",
+   "必须",
+   "归还；返回"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“队伍；线” 用英语怎么说？",
+  "options": [
+   "line",
+   "borrow",
+   "flash",
+   "shout"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：队伍；线",
+  "answers": [
+   "line"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“wait” 的中文意思是：",
+  "options": [
+   "等待",
+   "惊吓；使害怕",
+   "借",
+   "大声喊"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“等待” 用英语怎么说？",
+  "options": [
+   "wait",
+   "guard",
+   "scare",
+   "open"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：等待",
+  "answers": [
+   "wait"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“guard” 的中文意思是：",
+  "options": [
+   "门卫；看守",
+   "队伍；线",
+   "写",
+   "惊吓；使害怕"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“门卫；看守” 用英语怎么说？",
+  "options": [
+   "guard",
+   "password",
+   "must",
+   "open"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：门卫；看守",
+  "answers": [
+   "guard"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“stand” 的中文意思是：",
+  "options": [
+   "站",
+   "先生",
+   "归还；返回",
+   "惊吓；使害怕"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“站” 用英语怎么说？",
+  "options": [
+   "stand",
+   "smoke",
+   "inside",
+   "guard"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：站",
+  "answers": [
+   "stand"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“shout” 的中文意思是：",
+  "options": [
+   "大声喊",
+   "惊吓；使害怕",
+   "闪光灯",
+   "门卫；看守"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“大声喊” 用英语怎么说？",
+  "options": [
+   "shout",
+   "password",
+   "write",
+   "stand"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：大声喊",
+  "answers": [
+   "shout"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“smoke” 的中文意思是：",
+  "options": [
+   "吸烟",
+   "等待",
+   "在…里面",
+   "惊吓；使害怕"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“吸烟” 用英语怎么说？",
+  "options": [
+   "smoke",
+   "must",
+   "inside",
+   "line"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：吸烟",
+  "answers": [
+   "smoke"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“flash” 的中文意思是：",
+  "options": [
+   "闪光灯",
+   "吸烟",
+   "归还；返回",
+   "必须"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“闪光灯” 用英语怎么说？",
+  "options": [
+   "flash",
+   "smoke",
+   "shout",
+   "borrow"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：闪光灯",
+  "answers": [
+   "flash"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“open” 的中文意思是：",
+  "options": [
+   "打开；开放",
+   "必须",
+   "门卫；看守",
+   "闪光灯"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“打开；开放” 用英语怎么说？",
+  "options": [
+   "open",
+   "password",
+   "borrow",
+   "wait"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：打开；开放",
+  "answers": [
+   "open"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“return” 的中文意思是：",
+  "options": [
+   "归还；返回",
+   "密码",
+   "站",
+   "在…里面"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“归还；返回” 用英语怎么说？",
+  "options": [
+   "return",
+   "line",
+   "smoke",
+   "guard"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：归还；返回",
+  "answers": [
+   "return"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“borrow” 的中文意思是：",
+  "options": [
+   "借",
+   "打开；开放",
+   "门卫；看守",
+   "吸烟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“借” 用英语怎么说？",
+  "options": [
+   "borrow",
+   "wait",
+   "stand",
+   "shout"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：借",
+  "answers": [
+   "borrow"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“write” 的中文意思是：",
+  "options": [
+   "写",
+   "门卫；看守",
+   "密码",
+   "在…里面"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "“写” 用英语怎么说？",
+  "options": [
+   "write",
+   "sir",
+   "inside",
+   "return"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Following the rules",
+  "q": "写出英文单词（不区分大小写）：写",
+  "answers": [
+   "write"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“along” 的中文意思是：",
+  "options": [
+   "沿着",
+   "在…之间",
+   "居住",
+   "左边；向左"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“沿着” 用英语怎么说？",
+  "options": [
+   "along",
+   "scientist",
+   "litter",
+   "Ms"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：沿着",
+  "answers": [
+   "along"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“street” 的中文意思是：",
+  "options": [
+   "街道",
+   "交通",
+   "居住",
+   "女士"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“街道” 用英语怎么说？",
+  "options": [
+   "street",
+   "between",
+   "scientist",
+   "left"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：街道",
+  "answers": [
+   "street"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“station” 的中文意思是：",
+  "options": [
+   "局；站",
+   "沿着",
+   "街道",
+   "火车"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“局；站” 用英语怎么说？",
+  "options": [
+   "station",
+   "recycle",
+   "behind",
+   "traffic"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：局；站",
+  "answers": [
+   "station"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“next” 的中文意思是：",
+  "options": [
+   "紧邻",
+   "科学家",
+   "教",
+   "在…之间"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“紧邻” 用英语怎么说？",
+  "options": [
+   "next",
+   "note",
+   "city",
+   "sign"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：紧邻",
+  "answers": [
+   "next"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“far” 的中文意思是：",
+  "options": [
+   "远的",
+   "回收利用",
+   "志愿者",
+   "城市"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“远的” 用英语怎么说？",
+  "options": [
+   "far",
+   "street",
+   "traffic",
+   "foreign"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：远的",
+  "answers": [
+   "far"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“cinema” 的中文意思是：",
+  "options": [
+   "电影院",
+   "城市",
+   "远的",
+   "艺术家"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“电影院” 用英语怎么说？",
+  "options": [
+   "cinema",
+   "live",
+   "next",
+   "far"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：电影院",
+  "answers": [
+   "cinema"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“between” 的中文意思是：",
+  "options": [
+   "在…之间",
+   "游客",
+   "电影院",
+   "局；站"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“在…之间” 用英语怎么说？",
+  "options": [
+   "between",
+   "litter",
+   "behind",
+   "station"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：在…之间",
+  "answers": [
+   "between"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“city” 的中文意思是：",
+  "options": [
+   "城市",
+   "迷路的",
+   "在…后面",
+   "交通"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“城市” 用英语怎么说？",
+  "options": [
+   "city",
+   "street",
+   "foreign",
+   "between"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：城市",
+  "answers": [
+   "city"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“behind” 的中文意思是：",
+  "options": [
+   "在…后面",
+   "艺术家",
+   "在…之间",
+   "女士"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“在…后面” 用英语怎么说？",
+  "options": [
+   "behind",
+   "lost",
+   "visitor",
+   "cinema"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：在…后面",
+  "answers": [
+   "behind"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“left” 的中文意思是：",
+  "options": [
+   "左边；向左",
+   "在…之间",
+   "外国的",
+   "迷路的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“左边；向左” 用英语怎么说？",
+  "options": [
+   "left",
+   "train",
+   "artist",
+   "cinema"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：左边；向左",
+  "answers": [
+   "left"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“teach” 的中文意思是：",
+  "options": [
+   "教",
+   "城市",
+   "电影院",
+   "在…后面"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“教” 用英语怎么说？",
+  "options": [
+   "teach",
+   "far",
+   "taxi",
+   "traffic"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：教",
+  "answers": [
+   "teach"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“litter” 的中文意思是：",
+  "options": [
+   "垃圾",
+   "街道",
+   "交通",
+   "电影院"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“垃圾” 用英语怎么说？",
+  "options": [
+   "litter",
+   "sign",
+   "live",
+   "between"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：垃圾",
+  "answers": [
+   "litter"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“recycle” 的中文意思是：",
+  "options": [
+   "回收利用",
+   "便条",
+   "垃圾",
+   "女士"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“回收利用” 用英语怎么说？",
+  "options": [
+   "recycle",
+   "traffic",
+   "note",
+   "far"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：回收利用",
+  "answers": [
+   "recycle"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“taxi” 的中文意思是：",
+  "options": [
+   "出租车",
+   "在…后面",
+   "标志",
+   "紧邻"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“出租车” 用英语怎么说？",
+  "options": [
+   "taxi",
+   "Ms",
+   "artist",
+   "left"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：出租车",
+  "answers": [
+   "taxi"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“traffic” 的中文意思是：",
+  "options": [
+   "交通",
+   "游客",
+   "火车",
+   "居住"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“交通” 用英语怎么说？",
+  "options": [
+   "traffic",
+   "sign",
+   "volunteer",
+   "city"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：交通",
+  "answers": [
+   "traffic"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“direct” 的中文意思是：",
+  "options": [
+   "指路；指挥",
+   "沿着",
+   "出租车",
+   "标志"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“指路；指挥” 用英语怎么说？",
+  "options": [
+   "direct",
+   "train",
+   "street",
+   "litter"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：指路；指挥",
+  "answers": [
+   "direct"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“artist” 的中文意思是：",
+  "options": [
+   "艺术家",
+   "在…之间",
+   "教",
+   "指路；指挥"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“艺术家” 用英语怎么说？",
+  "options": [
+   "artist",
+   "Ms",
+   "direct",
+   "taxi"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：艺术家",
+  "answers": [
+   "artist"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“Ms” 的中文意思是：",
+  "options": [
+   "女士",
+   "标志",
+   "沿着",
+   "在…后面"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“女士” 用英语怎么说？",
+  "options": [
+   "Ms",
+   "teach",
+   "next",
+   "traffic"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：女士",
+  "answers": [
+   "Ms"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“scientist” 的中文意思是：",
+  "options": [
+   "科学家",
+   "志愿者",
+   "局；站",
+   "紧邻"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“科学家” 用英语怎么说？",
+  "options": [
+   "scientist",
+   "direct",
+   "volunteer",
+   "live"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：科学家",
+  "answers": [
+   "scientist"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“volunteer” 的中文意思是：",
+  "options": [
+   "志愿者",
+   "艺术家",
+   "游客",
+   "回收利用"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“志愿者” 用英语怎么说？",
+  "options": [
+   "volunteer",
+   "taxi",
+   "left",
+   "behind"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：志愿者",
+  "answers": [
+   "volunteer"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“live” 的中文意思是：",
+  "options": [
+   "居住",
+   "回收利用",
+   "科学家",
+   "在…之间"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“居住” 用英语怎么说？",
+  "options": [
+   "live",
+   "street",
+   "litter",
+   "left"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：居住",
+  "answers": [
+   "live"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“train” 的中文意思是：",
+  "options": [
+   "火车",
+   "迷路的",
+   "教",
+   "居住"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“火车” 用英语怎么说？",
+  "options": [
+   "train",
+   "artist",
+   "far",
+   "sign"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：火车",
+  "answers": [
+   "train"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“lost” 的中文意思是：",
+  "options": [
+   "迷路的",
+   "在…后面",
+   "左边；向左",
+   "交通"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“迷路的” 用英语怎么说？",
+  "options": [
+   "lost",
+   "visitor",
+   "teach",
+   "left"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：迷路的",
+  "answers": [
+   "lost"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“sign” 的中文意思是：",
+  "options": [
+   "标志",
+   "城市",
+   "游客",
+   "出租车"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“标志” 用英语怎么说？",
+  "options": [
+   "sign",
+   "volunteer",
+   "note",
+   "behind"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：标志",
+  "answers": [
+   "sign"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“note” 的中文意思是：",
+  "options": [
+   "便条",
+   "居住",
+   "紧邻",
+   "指路；指挥"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“便条” 用英语怎么说？",
+  "options": [
+   "note",
+   "teach",
+   "volunteer",
+   "between"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：便条",
+  "answers": [
+   "note"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“foreign” 的中文意思是：",
+  "options": [
+   "外国的",
+   "紧邻",
+   "科学家",
+   "艺术家"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“外国的” 用英语怎么说？",
+  "options": [
+   "foreign",
+   "along",
+   "litter",
+   "direct"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：外国的",
+  "answers": [
+   "foreign"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“visitor” 的中文意思是：",
+  "options": [
+   "游客",
+   "局；站",
+   "女士",
+   "迷路的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "“游客” 用英语怎么说？",
+  "options": [
+   "visitor",
+   "litter",
+   "live",
+   "traffic"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Our community",
+  "q": "写出英文单词（不区分大小写）：游客",
+  "answers": [
+   "visitor"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“January” 的中文意思是：",
+  "options": [
+   "一月",
+   "杯子；一杯",
+   "三月",
+   "火鸡"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“一月” 用英语怎么说？",
+  "options": [
+   "January",
+   "June",
+   "February",
+   "May"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：一月",
+  "answers": [
+   "January"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“February” 的中文意思是：",
+  "options": [
+   "二月",
+   "建党节",
+   "六月",
+   "西方"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“二月” 用英语怎么说？",
+  "options": [
+   "February",
+   "PLA Day",
+   "cup",
+   "Christmas"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：二月",
+  "answers": [
+   "February"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“skate” 的中文意思是：",
+  "options": [
+   "滑冰",
+   "西方",
+   "圣诞节",
+   "三月"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“滑冰” 用英语怎么说？",
+  "options": [
+   "skate",
+   "beside",
+   "turkey",
+   "January"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：滑冰",
+  "answers": [
+   "skate"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“holiday” 的中文意思是：",
+  "options": [
+   "假期",
+   "四月",
+   "九月",
+   "在…旁边"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“假期” 用英语怎么说？",
+  "options": [
+   "holiday",
+   "sit",
+   "January",
+   "celebrate"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：假期",
+  "answers": [
+   "holiday"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“March” 的中文意思是：",
+  "options": [
+   "三月",
+   "在…旁边",
+   "劳动节",
+   "阳光"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“三月” 用英语怎么说？",
+  "options": [
+   "March",
+   "February",
+   "turkey",
+   "National Day"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：三月",
+  "answers": [
+   "March"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“April” 的中文意思是：",
+  "options": [
+   "四月",
+   "五月",
+   "圣诞节",
+   "端午节"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“四月” 用英语怎么说？",
+  "options": [
+   "April",
+   "December",
+   "November",
+   "party"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：四月",
+  "answers": [
+   "April"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“May” 的中文意思是：",
+  "options": [
+   "五月",
+   "端午节",
+   "七月",
+   "火鸡"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“五月” 用英语怎么说？",
+  "options": [
+   "May",
+   "April",
+   "cup",
+   "January"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：五月",
+  "answers": [
+   "May"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“June” 的中文意思是：",
+  "options": [
+   "六月",
+   "一月",
+   "国庆节",
+   "杯子；一杯"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“六月” 用英语怎么说？",
+  "options": [
+   "June",
+   "April",
+   "skate",
+   "country"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：六月",
+  "answers": [
+   "June"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“party” 的中文意思是：",
+  "options": [
+   "聚会",
+   "四月",
+   "二月",
+   "假期"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“聚会” 用英语怎么说？",
+  "options": [
+   "party",
+   "celebrate",
+   "December",
+   "Dragon Boat Festival"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：聚会",
+  "answers": [
+   "party"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“celebrate” 的中文意思是：",
+  "options": [
+   "庆祝",
+   "三月",
+   "一月",
+   "四月"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“庆祝” 用英语怎么说？",
+  "options": [
+   "celebrate",
+   "sunshine",
+   "July",
+   "Dragon Boat Festival"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：庆祝",
+  "answers": [
+   "celebrate"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“December” 的中文意思是：",
+  "options": [
+   "十二月",
+   "以前",
+   "国庆节",
+   "六月"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“十二月” 用英语怎么说？",
+  "options": [
+   "December",
+   "May",
+   "west",
+   "cup"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：十二月",
+  "answers": [
+   "December"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“Christmas” 的中文意思是：",
+  "options": [
+   "圣诞节",
+   "西方",
+   "滑冰",
+   "聚会"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“圣诞节” 用英语怎么说？",
+  "options": [
+   "Christmas",
+   "June",
+   "October",
+   "November"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：圣诞节",
+  "answers": [
+   "Christmas"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“turkey” 的中文意思是：",
+  "options": [
+   "火鸡",
+   "西方",
+   "冰",
+   "聚会"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“火鸡” 用英语怎么说？",
+  "options": [
+   "turkey",
+   "National Day",
+   "April",
+   "catch"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：火鸡",
+  "answers": [
+   "turkey"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“July” 的中文意思是：",
+  "options": [
+   "七月",
+   "阳光",
+   "四月",
+   "聚会"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“七月” 用英语怎么说？",
+  "options": [
+   "July",
+   "country",
+   "November",
+   "National Day"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：七月",
+  "answers": [
+   "July"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“August” 的中文意思是：",
+  "options": [
+   "八月",
+   "圣诞节",
+   "假期",
+   "四月"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“八月” 用英语怎么说？",
+  "options": [
+   "August",
+   "Labour Day",
+   "west",
+   "July"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：八月",
+  "answers": [
+   "August"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“September” 的中文意思是：",
+  "options": [
+   "九月",
+   "劳动节",
+   "国庆节",
+   "阳光"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“九月” 用英语怎么说？",
+  "options": [
+   "September",
+   "February",
+   "party",
+   "Dragon Boat Festival"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：九月",
+  "answers": [
+   "September"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“October” 的中文意思是：",
+  "options": [
+   "十月",
+   "坐",
+   "五月",
+   "西方"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“十月” 用英语怎么说？",
+  "options": [
+   "October",
+   "celebrate",
+   "ago",
+   "July"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：十月",
+  "answers": [
+   "October"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“November” 的中文意思是：",
+  "options": [
+   "十一月",
+   "端午节",
+   "七月",
+   "八月"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“十一月” 用英语怎么说？",
+  "options": [
+   "November",
+   "June",
+   "country",
+   "Dragon Boat Festival"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：十一月",
+  "answers": [
+   "November"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“country” 的中文意思是：",
+  "options": [
+   "国家",
+   "五月",
+   "国庆节",
+   "聚会"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“国家” 用英语怎么说？",
+  "options": [
+   "country",
+   "ice",
+   "February",
+   "November"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：国家",
+  "answers": [
+   "country"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“sit” 的中文意思是：",
+  "options": [
+   "坐",
+   "十二月",
+   "建军节",
+   "滑冰"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“坐” 用英语怎么说？",
+  "options": [
+   "sit",
+   "September",
+   "PLA Day",
+   "August"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：坐",
+  "answers": [
+   "sit"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“beside” 的中文意思是：",
+  "options": [
+   "在…旁边",
+   "火鸡",
+   "冰",
+   "阳光"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“在…旁边” 用英语怎么说？",
+  "options": [
+   "beside",
+   "party",
+   "Christmas",
+   "PLA Day"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：在…旁边",
+  "answers": [
+   "beside"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“west” 的中文意思是：",
+  "options": [
+   "西方",
+   "五月",
+   "坐",
+   "六月"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“西方” 用英语怎么说？",
+  "options": [
+   "west",
+   "September",
+   "PLA Day",
+   "May"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：西方",
+  "answers": [
+   "west"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“cup” 的中文意思是：",
+  "options": [
+   "杯子；一杯",
+   "二月",
+   "聚会",
+   "滑冰"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“杯子；一杯” 用英语怎么说？",
+  "options": [
+   "cup",
+   "February",
+   "August",
+   "skate"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：杯子；一杯",
+  "answers": [
+   "cup"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“sunshine” 的中文意思是：",
+  "options": [
+   "阳光",
+   "七月",
+   "接住；捕捉",
+   "一月"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“阳光” 用英语怎么说？",
+  "options": [
+   "sunshine",
+   "Dragon Boat Festival",
+   "PLA Day",
+   "Labour Day"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：阳光",
+  "answers": [
+   "sunshine"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“catch” 的中文意思是：",
+  "options": [
+   "接住；捕捉",
+   "六月",
+   "建党节",
+   "四月"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“接住；捕捉” 用英语怎么说？",
+  "options": [
+   "catch",
+   "July",
+   "holiday",
+   "May"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：接住；捕捉",
+  "answers": [
+   "catch"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“ago” 的中文意思是：",
+  "options": [
+   "以前",
+   "二月",
+   "火鸡",
+   "杯子；一杯"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“以前” 用英语怎么说？",
+  "options": [
+   "ago",
+   "September",
+   "January",
+   "April"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：以前",
+  "answers": [
+   "ago"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“ice” 的中文意思是：",
+  "options": [
+   "冰",
+   "十二月",
+   "阳光",
+   "一月"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“冰” 用英语怎么说？",
+  "options": [
+   "ice",
+   "June",
+   "celebrate",
+   "National Day"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：冰",
+  "answers": [
+   "ice"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“Labour Day” 的中文意思是：",
+  "options": [
+   "劳动节",
+   "十月",
+   "聚会",
+   "坐"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“劳动节” 用英语怎么说？",
+  "options": [
+   "Labour Day",
+   "PLA Day",
+   "December",
+   "Christmas"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：劳动节",
+  "answers": [
+   "Labour Day"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“Dragon Boat Festival” 的中文意思是：",
+  "options": [
+   "端午节",
+   "冰",
+   "一月",
+   "建军节"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“端午节” 用英语怎么说？",
+  "options": [
+   "Dragon Boat Festival",
+   "west",
+   "January",
+   "May"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：端午节",
+  "answers": [
+   "Dragon Boat Festival"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“CPC Founding Day” 的中文意思是：",
+  "options": [
+   "建党节",
+   "聚会",
+   "端午节",
+   "假期"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“建党节” 用英语怎么说？",
+  "options": [
+   "CPC Founding Day",
+   "skate",
+   "October",
+   "sunshine"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：建党节",
+  "answers": [
+   "CPC Founding Day"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“PLA Day” 的中文意思是：",
+  "options": [
+   "建军节",
+   "滑冰",
+   "十月",
+   "九月"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“建军节” 用英语怎么说？",
+  "options": [
+   "PLA Day",
+   "beside",
+   "April",
+   "country"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：建军节",
+  "answers": [
+   "PLA Day"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“National Day” 的中文意思是：",
+  "options": [
+   "国庆节",
+   "庆祝",
+   "五月",
+   "在…旁边"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "“国庆节” 用英语怎么说？",
+  "options": [
+   "National Day",
+   "sit",
+   "CPC Founding Day",
+   "skate"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "写出英文单词（不区分大小写）：国庆节",
+  "answers": [
+   "National Day"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“hometown” 的中文意思是：",
+  "options": [
+   "家乡",
+   "岛",
+   "草原",
+   "沙漠"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“家乡” 用英语怎么说？",
+  "options": [
+   "hometown",
+   "feel like",
+   "painting",
+   "grassland"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：家乡",
+  "answers": [
+   "hometown"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“its” 的中文意思是：",
+  "options": [
+   "它的",
+   "野生的",
+   "希望",
+   "甚至"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“它的” 用英语怎么说？",
+  "options": [
+   "its",
+   "koala",
+   "island",
+   "Mount Taishan"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：它的",
+  "answers": [
+   "its"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“common” 的中文意思是：",
+  "options": [
+   "共同的",
+   "泰山",
+   "它的",
+   "考拉"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“共同的” 用英语怎么说？",
+  "options": [
+   "common",
+   "middle",
+   "ride",
+   "India"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：共同的",
+  "answers": [
+   "common"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“beach” 的中文意思是：",
+  "options": [
+   "海滩",
+   "野生的",
+   "绘画；油画",
+   "夏威夷"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“海滩” 用英语怎么说？",
+  "options": [
+   "beach",
+   "middle",
+   "travel",
+   "hometown"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：海滩",
+  "answers": [
+   "beach"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“desert” 的中文意思是：",
+  "options": [
+   "沙漠",
+   "意大利",
+   "特别的",
+   "高的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“沙漠” 用英语怎么说？",
+  "options": [
+   "desert",
+   "painting",
+   "Confucius",
+   "pyramid"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：沙漠",
+  "answers": [
+   "desert"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“grassland” 的中文意思是：",
+  "options": [
+   "草原",
+   "它的",
+   "共同的",
+   "夏威夷"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“草原” 用英语怎么说？",
+  "options": [
+   "grassland",
+   "India",
+   "Britain",
+   "koala"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：草原",
+  "answers": [
+   "grassland"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“special” 的中文意思是：",
+  "options": [
+   "特别的",
+   "旅行",
+   "野生的",
+   "绘画；油画"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“特别的” 用英语怎么说？",
+  "options": [
+   "special",
+   "wish",
+   "pyramid",
+   "desert"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：特别的",
+  "answers": [
+   "special"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“wild” 的中文意思是：",
+  "options": [
+   "野生的",
+   "夏威夷",
+   "特别的",
+   "开罗"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“野生的” 用英语怎么说？",
+  "options": [
+   "wild",
+   "feel like",
+   "even",
+   "hometown"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：野生的",
+  "answers": [
+   "wild"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“kangaroo” 的中文意思是：",
+  "options": [
+   "袋鼠",
+   "感觉像",
+   "草原",
+   "海滩"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“袋鼠” 用英语怎么说？",
+  "options": [
+   "kangaroo",
+   "wild",
+   "travel",
+   "painting"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：袋鼠",
+  "answers": [
+   "kangaroo"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“koala” 的中文意思是：",
+  "options": [
+   "考拉",
+   "骆驼",
+   "甚至",
+   "共同的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“考拉” 用英语怎么说？",
+  "options": [
+   "koala",
+   "high",
+   "India",
+   "desert"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：考拉",
+  "answers": [
+   "koala"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“wish” 的中文意思是：",
+  "options": [
+   "希望",
+   "特别的",
+   "感觉像",
+   "开罗"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“希望” 用英语怎么说？",
+  "options": [
+   "wish",
+   "Beijing opera",
+   "its",
+   "middle"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：希望",
+  "answers": [
+   "wish"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“could” 的中文意思是：",
+  "options": [
+   "可以；可能",
+   "泰山",
+   "意大利",
+   "它的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“可以；可能” 用英语怎么说？",
+  "options": [
+   "could",
+   "even",
+   "Confucius",
+   "feel like"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：可以；可能",
+  "answers": [
+   "could"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“high” 的中文意思是：",
+  "options": [
+   "高的",
+   "它的",
+   "绘画；油画",
+   "中间"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“高的” 用英语怎么说？",
+  "options": [
+   "high",
+   "camel",
+   "beach",
+   "Britain"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：高的",
+  "answers": [
+   "high"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“island” 的中文意思是：",
+  "options": [
+   "岛",
+   "高的",
+   "骑",
+   "考拉"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“岛” 用英语怎么说？",
+  "options": [
+   "island",
+   "Hawaii",
+   "high",
+   "pyramid"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：岛",
+  "answers": [
+   "island"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“travel” 的中文意思是：",
+  "options": [
+   "旅行",
+   "家乡",
+   "草原",
+   "中间"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“旅行” 用英语怎么说？",
+  "options": [
+   "travel",
+   "feel like",
+   "painting",
+   "beach"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：旅行",
+  "answers": [
+   "travel"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“feel like” 的中文意思是：",
+  "options": [
+   "感觉像",
+   "高的",
+   "野生的",
+   "泰山"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“感觉像” 用英语怎么说？",
+  "options": [
+   "feel like",
+   "special",
+   "grassland",
+   "ride"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：感觉像",
+  "answers": [
+   "feel like"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“middle” 的中文意思是：",
+  "options": [
+   "中间",
+   "野生的",
+   "岛",
+   "特别的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“中间” 用英语怎么说？",
+  "options": [
+   "middle",
+   "Beijing opera",
+   "India",
+   "beach"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：中间",
+  "answers": [
+   "middle"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“painting” 的中文意思是：",
+  "options": [
+   "绘画；油画",
+   "野生的",
+   "它的",
+   "孔子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“绘画；油画” 用英语怎么说？",
+  "options": [
+   "painting",
+   "wish",
+   "Britain",
+   "koala"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：绘画；油画",
+  "answers": [
+   "painting"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“pyramid” 的中文意思是：",
+  "options": [
+   "金字塔",
+   "可以；可能",
+   "甚至",
+   "开罗"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“金字塔” 用英语怎么说？",
+  "options": [
+   "pyramid",
+   "wish",
+   "Britain",
+   "island"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：金字塔",
+  "answers": [
+   "pyramid"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“ride” 的中文意思是：",
+  "options": [
+   "骑",
+   "家乡",
+   "袋鼠",
+   "岛"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“骑” 用英语怎么说？",
+  "options": [
+   "ride",
+   "beach",
+   "Confucius",
+   "its"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：骑",
+  "answers": [
+   "ride"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“camel” 的中文意思是：",
+  "options": [
+   "骆驼",
+   "不列颠",
+   "孔子",
+   "沙漠"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“骆驼” 用英语怎么说？",
+  "options": [
+   "camel",
+   "hometown",
+   "kangaroo",
+   "ride"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：骆驼",
+  "answers": [
+   "camel"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“even” 的中文意思是：",
+  "options": [
+   "甚至",
+   "家乡",
+   "共同的",
+   "旅行"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“甚至” 用英语怎么说？",
+  "options": [
+   "even",
+   "Mount Taishan",
+   "wish",
+   "India"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：甚至",
+  "answers": [
+   "even"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“Confucius” 的中文意思是：",
+  "options": [
+   "孔子",
+   "岛",
+   "感觉像",
+   "泰山"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“孔子” 用英语怎么说？",
+  "options": [
+   "Confucius",
+   "camel",
+   "Britain",
+   "wild"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：孔子",
+  "answers": [
+   "Confucius"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“Beijing opera” 的中文意思是：",
+  "options": [
+   "京剧",
+   "特别的",
+   "不列颠",
+   "孔子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“京剧” 用英语怎么说？",
+  "options": [
+   "Beijing opera",
+   "feel like",
+   "common",
+   "camel"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：京剧",
+  "answers": [
+   "Beijing opera"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“Mount Taishan” 的中文意思是：",
+  "options": [
+   "泰山",
+   "不列颠",
+   "印度",
+   "沙漠"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“泰山” 用英语怎么说？",
+  "options": [
+   "Mount Taishan",
+   "Britain",
+   "hometown",
+   "wild"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：泰山",
+  "answers": [
+   "Mount Taishan"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“India” 的中文意思是：",
+  "options": [
+   "印度",
+   "袋鼠",
+   "感觉像",
+   "海滩"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“印度” 用英语怎么说？",
+  "options": [
+   "India",
+   "high",
+   "Beijing opera",
+   "hometown"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：印度",
+  "answers": [
+   "India"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“Italy” 的中文意思是：",
+  "options": [
+   "意大利",
+   "海滩",
+   "金字塔",
+   "印度"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“意大利” 用英语怎么说？",
+  "options": [
+   "Italy",
+   "high",
+   "kangaroo",
+   "painting"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：意大利",
+  "answers": [
+   "Italy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“Britain” 的中文意思是：",
+  "options": [
+   "不列颠",
+   "草原",
+   "它的",
+   "孔子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“不列颠” 用英语怎么说？",
+  "options": [
+   "Britain",
+   "its",
+   "India",
+   "kangaroo"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：不列颠",
+  "answers": [
+   "Britain"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“Cairo” 的中文意思是：",
+  "options": [
+   "开罗",
+   "京剧",
+   "可以；可能",
+   "希望"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“开罗” 用英语怎么说？",
+  "options": [
+   "Cairo",
+   "camel",
+   "Confucius",
+   "island"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：开罗",
+  "answers": [
+   "Cairo"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“Hawaii” 的中文意思是：",
+  "options": [
+   "夏威夷",
+   "海滩",
+   "沙漠",
+   "特别的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "“夏威夷” 用英语怎么说？",
+  "options": [
+   "Hawaii",
+   "wild",
+   "painting",
+   "special"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 My hometown",
+  "q": "写出英文单词（不区分大小写）：夏威夷",
+  "answers": [
+   "Hawaii"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“early” 的中文意思是：",
+  "options": [
+   "早的；提前的",
+   "提示",
+   "建议",
+   "轮船"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“早的；提前的” 用英语怎么说？",
+  "options": [
+   "early",
+   "on foot",
+   "suggest",
+   "underground"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：早的；提前的",
+  "answers": [
+   "early"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“underground” 的中文意思是：",
+  "options": [
+   "地铁",
+   "自行车",
+   "健康",
+   "提示"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“地铁” 用英语怎么说？",
+  "options": [
+   "underground",
+   "environment",
+   "finally",
+   "foot"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：地铁",
+  "answers": [
+   "underground"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“bike” 的中文意思是：",
+  "options": [
+   "自行车",
+   "每天的；日常的",
+   "步行",
+   "早的；提前的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“自行车” 用英语怎么说？",
+  "options": [
+   "bike",
+   "tip",
+   "ship",
+   "early"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：自行车",
+  "answers": [
+   "bike"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“foot” 的中文意思是：",
+  "options": [
+   "脚",
+   "最后；终于",
+   "环境",
+   "提示"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“脚” 用英语怎么说？",
+  "options": [
+   "foot",
+   "everyday",
+   "environment",
+   "suggest"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：脚",
+  "answers": [
+   "foot"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“on foot” 的中文意思是：",
+  "options": [
+   "步行",
+   "每天的；日常的",
+   "脚",
+   "伤害；疼痛"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“步行” 用英语怎么说？",
+  "options": [
+   "on foot",
+   "finally",
+   "everyday",
+   "underground"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：步行",
+  "answers": [
+   "on foot"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“plane” 的中文意思是：",
+  "options": [
+   "飞机",
+   "轮船",
+   "步行",
+   "提示"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“飞机” 用英语怎么说？",
+  "options": [
+   "plane",
+   "bike",
+   "foot",
+   "early"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：飞机",
+  "answers": [
+   "plane"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“ship” 的中文意思是：",
+  "options": [
+   "轮船",
+   "最后；终于",
+   "脚",
+   "自行车"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“轮船” 用英语怎么说？",
+  "options": [
+   "ship",
+   "foot",
+   "everyday",
+   "on foot"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：轮船",
+  "answers": [
+   "ship"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“hurt” 的中文意思是：",
+  "options": [
+   "伤害；疼痛",
+   "步行",
+   "提示",
+   "环境"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“伤害；疼痛” 用英语怎么说？",
+  "options": [
+   "hurt",
+   "ship",
+   "suggest",
+   "on foot"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：伤害；疼痛",
+  "answers": [
+   "hurt"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“environment” 的中文意思是：",
+  "options": [
+   "环境",
+   "早的；提前的",
+   "地铁",
+   "脚"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“环境” 用英语怎么说？",
+  "options": [
+   "environment",
+   "finally",
+   "health",
+   "bike"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：环境",
+  "answers": [
+   "environment"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“tip” 的中文意思是：",
+  "options": [
+   "提示",
+   "地铁",
+   "环境",
+   "建议"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“提示” 用英语怎么说？",
+  "options": [
+   "tip",
+   "on foot",
+   "carry",
+   "bike"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：提示",
+  "answers": [
+   "tip"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“health” 的中文意思是：",
+  "options": [
+   "健康",
+   "提示",
+   "步行",
+   "轮船"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“健康” 用英语怎么说？",
+  "options": [
+   "health",
+   "finally",
+   "carry",
+   "bike"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：健康",
+  "answers": [
+   "health"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“carry” 的中文意思是：",
+  "options": [
+   "运送；承载",
+   "自行车",
+   "脚",
+   "提示"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“运送；承载” 用英语怎么说？",
+  "options": [
+   "carry",
+   "underground",
+   "foot",
+   "bike"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：运送；承载",
+  "answers": [
+   "carry"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“finally” 的中文意思是：",
+  "options": [
+   "最后；终于",
+   "脚",
+   "建议",
+   "地铁"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“最后；终于” 用英语怎么说？",
+  "options": [
+   "finally",
+   "health",
+   "suggest",
+   "tip"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：最后；终于",
+  "answers": [
+   "finally"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“suggest” 的中文意思是：",
+  "options": [
+   "建议",
+   "运送；承载",
+   "脚",
+   "每天的；日常的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“建议” 用英语怎么说？",
+  "options": [
+   "suggest",
+   "bike",
+   "ship",
+   "early"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：建议",
+  "answers": [
+   "suggest"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“everyday” 的中文意思是：",
+  "options": [
+   "每天的；日常的",
+   "运送；承载",
+   "早的；提前的",
+   "自行车"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "“每天的；日常的” 用英语怎么说？",
+  "options": [
+   "everyday",
+   "health",
+   "on foot",
+   "finally"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Travelling around",
+  "q": "写出英文单词（不区分大小写）：每天的；日常的",
+  "answers": [
+   "everyday"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“internet” 的中文意思是：",
+  "options": [
+   "互联网",
+   "石头",
+   "杂志",
+   "计划"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“互联网” 用英语怎么说？",
+  "options": [
+   "internet",
+   "maybe",
+   "hill",
+   "hot pot"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：互联网",
+  "answers": [
+   "internet"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“seafood” 的中文意思是：",
+  "options": [
+   "海鲜",
+   "参加；加入",
+   "旅游",
+   "历史"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“海鲜” 用英语怎么说？",
+  "options": [
+   "seafood",
+   "culture",
+   "tour",
+   "app"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：海鲜",
+  "answers": [
+   "seafood"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“maybe” 的中文意思是：",
+  "options": [
+   "也许",
+   "计划",
+   "参加；加入",
+   "宫殿"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“也许” 用英语怎么说？",
+  "options": [
+   "maybe",
+   "plan",
+   "stone",
+   "history"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：也许",
+  "answers": [
+   "maybe"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“join” 的中文意思是：",
+  "options": [
+   "参加；加入",
+   "历史",
+   "东北",
+   "也许"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“参加；加入” 用英语怎么说？",
+  "options": [
+   "join",
+   "seafood",
+   "plan",
+   "culture"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：参加；加入",
+  "answers": [
+   "join"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“hill” 的中文意思是：",
+  "options": [
+   "小山",
+   "最后的",
+   "参加；加入",
+   "旅游"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“小山” 用英语怎么说？",
+  "options": [
+   "hill",
+   "information",
+   "maybe",
+   "stone"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：小山",
+  "answers": [
+   "hill"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“explore” 的中文意思是：",
+  "options": [
+   "探索",
+   "参加；加入",
+   "最后的",
+   "旅游"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“探索” 用英语怎么说？",
+  "options": [
+   "explore",
+   "building",
+   "last",
+   "local"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：探索",
+  "answers": [
+   "explore"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“culture” 的中文意思是：",
+  "options": [
+   "文化",
+   "互联网",
+   "历史",
+   "博客"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“文化” 用英语怎么说？",
+  "options": [
+   "culture",
+   "app",
+   "northeast",
+   "last"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：文化",
+  "answers": [
+   "culture"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“hot pot” 的中文意思是：",
+  "options": [
+   "火锅",
+   "计划",
+   "探索",
+   "东北"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“火锅” 用英语怎么说？",
+  "options": [
+   "hot pot",
+   "last",
+   "building",
+   "join"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：火锅",
+  "answers": [
+   "hot pot"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“tour” 的中文意思是：",
+  "options": [
+   "旅游",
+   "计划",
+   "海鲜",
+   "参加；加入"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“旅游” 用英语怎么说？",
+  "options": [
+   "tour",
+   "join",
+   "building",
+   "app"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：旅游",
+  "answers": [
+   "tour"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“local” 的中文意思是：",
+  "options": [
+   "当地的",
+   "博客",
+   "小山",
+   "文化"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“当地的” 用英语怎么说？",
+  "options": [
+   "local",
+   "hill",
+   "palace",
+   "culture"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：当地的",
+  "answers": [
+   "local"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“history” 的中文意思是：",
+  "options": [
+   "历史",
+   "互联网",
+   "宫殿",
+   "探索"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“历史” 用英语怎么说？",
+  "options": [
+   "history",
+   "seafood",
+   "local",
+   "stone"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：历史",
+  "answers": [
+   "history"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“plan” 的中文意思是：",
+  "options": [
+   "计划",
+   "旅游",
+   "也许",
+   "小山"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“计划” 用英语怎么说？",
+  "options": [
+   "plan",
+   "history",
+   "hot pot",
+   "local"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：计划",
+  "answers": [
+   "plan"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“app” 的中文意思是：",
+  "options": [
+   "应用软件",
+   "信息",
+   "历史",
+   "东北"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“应用软件” 用英语怎么说？",
+  "options": [
+   "app",
+   "magazine",
+   "explore",
+   "internet"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：应用软件",
+  "answers": [
+   "app"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“information” 的中文意思是：",
+  "options": [
+   "信息",
+   "互联网",
+   "小山",
+   "历史"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“信息” 用英语怎么说？",
+  "options": [
+   "information",
+   "magazine",
+   "history",
+   "local"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：信息",
+  "answers": [
+   "information"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“blog” 的中文意思是：",
+  "options": [
+   "博客",
+   "历史",
+   "应用软件",
+   "火锅"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“博客” 用英语怎么说？",
+  "options": [
+   "blog",
+   "local",
+   "information",
+   "palace"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：博客",
+  "answers": [
+   "blog"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“magazine” 的中文意思是：",
+  "options": [
+   "杂志",
+   "参加；加入",
+   "当地的",
+   "旅游"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“杂志” 用英语怎么说？",
+  "options": [
+   "magazine",
+   "hot pot",
+   "history",
+   "palace"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：杂志",
+  "answers": [
+   "magazine"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“northeast” 的中文意思是：",
+  "options": [
+   "东北",
+   "最后的",
+   "石头",
+   "计划"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“东北” 用英语怎么说？",
+  "options": [
+   "northeast",
+   "culture",
+   "hill",
+   "last"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：东北",
+  "answers": [
+   "northeast"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“building” 的中文意思是：",
+  "options": [
+   "建筑物",
+   "历史",
+   "杂志",
+   "文化"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“建筑物” 用英语怎么说？",
+  "options": [
+   "building",
+   "maybe",
+   "magazine",
+   "stone"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：建筑物",
+  "answers": [
+   "building"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“palace” 的中文意思是：",
+  "options": [
+   "宫殿",
+   "东北",
+   "应用软件",
+   "海鲜"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“宫殿” 用英语怎么说？",
+  "options": [
+   "palace",
+   "internet",
+   "northeast",
+   "history"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：宫殿",
+  "answers": [
+   "palace"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“stone” 的中文意思是：",
+  "options": [
+   "石头",
+   "海鲜",
+   "博客",
+   "旅游"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“石头” 用英语怎么说？",
+  "options": [
+   "stone",
+   "hot pot",
+   "app",
+   "maybe"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：石头",
+  "answers": [
+   "stone"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“last” 的中文意思是：",
+  "options": [
+   "最后的",
+   "参加；加入",
+   "东北",
+   "旅游"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "“最后的” 用英语怎么说？",
+  "options": [
+   "last",
+   "plan",
+   "local",
+   "palace"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "写出英文单词（不区分大小写）：最后的",
+  "answers": [
+   "last"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Following the rules",
+  "q": "You ______ keep your hands inside the bus.（你们必须把手放在车内。）",
+  "options": [
+   "must",
+   "can't",
+   "don't",
+   "aren't"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Following the rules",
+  "q": "Please don't ______ the animals.",
+  "options": [
+   "scare",
+   "scares",
+   "scaring",
+   "to scare"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Following the rules",
+  "q": "We ______ eat in the library.（我们不应该在图书馆吃东西。）",
+  "options": [
+   "shouldn't",
+   "should",
+   "must",
+   "can"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Following the rules",
+  "q": "Please stand in ______. No shouting.",
+  "options": [
+   "line",
+   "wait",
+   "guard",
+   "password"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Following the rules",
+  "q": "选出不同类的一项：guard、shout、smoke、wait",
+  "options": [
+   "guard",
+   "shout",
+   "smoke",
+   "wait"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Our community",
+  "q": "— Is there a bookshop near here?\n— Yes, there ______.",
+  "options": [
+   "is",
+   "are",
+   "isn't",
+   "has"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Our community",
+  "q": "Turn right ______ the police station.",
+  "options": [
+   "at",
+   "on",
+   "of",
+   "from"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Our community",
+  "q": "— What does she teach?\n— She ______ maths.",
+  "options": [
+   "teaches",
+   "teach",
+   "teaching",
+   "is teach"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Our community",
+  "q": "— What does Mr Zhang do?\n— ______",
+  "options": [
+   "He's a street cleaner.",
+   "He likes maths.",
+   "He's tall.",
+   "He's at home."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Our community",
+  "q": "选出不同类的一项：between、cinema、hospital、library",
+  "options": [
+   "between",
+   "cinema",
+   "hospital",
+   "library"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "— Which season do you like the best?\n— ______",
+  "options": [
+   "I like spring the best.",
+   "It's in December.",
+   "I like dumplings.",
+   "Yes, I do."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "We celebrate Dongzhi ______ late December.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "of"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "— When's Dongzhi?\n— It's in ______.",
+  "options": [
+   "winter",
+   "summer",
+   "July",
+   "spring"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Life in different seasons",
+  "q": "选出不同类的一项：April、June、March、skate",
+  "options": [
+   "skate",
+   "March",
+   "April",
+   "June"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 My hometown",
+  "q": "— What's your hometown famous for?\n— ______",
+  "options": [
+   "It's the home of Confucius.",
+   "I'm from Qufu.",
+   "It's sunny.",
+   "I go by bus."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 My hometown",
+  "q": "Australia is famous ______ its kangaroos and koalas.",
+  "options": [
+   "for",
+   "of",
+   "at",
+   "with"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 My hometown",
+  "q": "选出不同类的一项：beach、desert、island、koala",
+  "options": [
+   "koala",
+   "beach",
+   "desert",
+   "island"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Travelling around",
+  "q": "— How do you come to school?\n— ______",
+  "options": [
+   "I often come by bus.",
+   "I come at 7 o'clock.",
+   "I like school.",
+   "Yes, I do."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Travelling around",
+  "q": "Sometimes my father brings me to school ______ car.",
+  "options": [
+   "by",
+   "on",
+   "at",
+   "with"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Travelling around",
+  "q": "I usually walk. I go to school ______ foot.",
+  "options": [
+   "on",
+   "by",
+   "in",
+   "at"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Travelling around",
+  "q": "选出不同类的一项：bike、early、plane、ship",
+  "options": [
+   "early",
+   "bike",
+   "ship",
+   "plane"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "— Where are you going in the summer holidays?\n— I'm ______ to Dalian with my family.",
+  "options": [
+   "going",
+   "go",
+   "goes",
+   "went"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "First, choose where to go. Then choose how to get there. Next, look for hotels. ______, find out about the weather.",
+  "options": [
+   "Finally",
+   "First",
+   "Before",
+   "Maybe"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Making a travel plan",
+  "q": "选出不同类的一项：app、blog、explore、magazine",
+  "options": [
+   "explore",
+   "app",
+   "blog",
+   "magazine"
+  ]
+ }
+]

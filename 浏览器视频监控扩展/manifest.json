@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "视频学习守护连接器",
+  "version": "1.0.0",
+  "description": "识别网页视频播放并通知本机的视频学习守护。",
+  "host_permissions": ["http://127.0.0.1:8167/*"],
+  "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["watch.js"], "run_at": "document_idle"}]
+}

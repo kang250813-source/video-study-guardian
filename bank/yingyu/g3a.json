@@ -1,0 +1,4298 @@
+[
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“name” 的中文意思是：",
+  "options": [
+   "名字",
+   "说",
+   "和；与",
+   "再见"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“名字” 用英语怎么说？",
+  "options": [
+   "name",
+   "listen",
+   "mouth",
+   "smile"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：名字",
+  "answers": [
+   "name"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“nice” 的中文意思是：",
+  "options": [
+   "好的；友好的",
+   "能；会",
+   "眼睛",
+   "说"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“好的；友好的” 用英语怎么说？",
+  "options": [
+   "nice",
+   "mouth",
+   "toy",
+   "eye"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：好的；友好的",
+  "answers": [
+   "nice"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“ear” 的中文意思是：",
+  "options": [
+   "耳朵",
+   "说",
+   "嘴",
+   "玩具"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“耳朵” 用英语怎么说？",
+  "options": [
+   "ear",
+   "listen",
+   "friend",
+   "name"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：耳朵",
+  "answers": [
+   "ear"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“hand” 的中文意思是：",
+  "options": [
+   "手",
+   "玩具",
+   "微笑",
+   "再见"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“手” 用英语怎么说？",
+  "options": [
+   "hand",
+   "friend",
+   "arm",
+   "can"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：手",
+  "answers": [
+   "hand"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“eye” 的中文意思是：",
+  "options": [
+   "眼睛",
+   "能；会",
+   "和；与",
+   "耳朵"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“眼睛” 用英语怎么说？",
+  "options": [
+   "eye",
+   "smile",
+   "can",
+   "help"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：眼睛",
+  "answers": [
+   "eye"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“mouth” 的中文意思是：",
+  "options": [
+   "嘴",
+   "听",
+   "好的",
+   "玩具"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“嘴” 用英语怎么说？",
+  "options": [
+   "mouth",
+   "goodbye",
+   "toy",
+   "arm"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：嘴",
+  "answers": [
+   "mouth"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“arm” 的中文意思是：",
+  "options": [
+   "胳膊",
+   "手",
+   "再见",
+   "听"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“胳膊” 用英语怎么说？",
+  "options": [
+   "arm",
+   "smile",
+   "hand",
+   "goodbye"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：胳膊",
+  "answers": [
+   "arm"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“can” 的中文意思是：",
+  "options": [
+   "能；会",
+   "玩具",
+   "朋友",
+   "再见"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“能；会” 用英语怎么说？",
+  "options": [
+   "can",
+   "ear",
+   "share",
+   "and"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：能；会",
+  "answers": [
+   "can"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“share” 的中文意思是：",
+  "options": [
+   "分享",
+   "说",
+   "手",
+   "玩具"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“分享” 用英语怎么说？",
+  "options": [
+   "share",
+   "eye",
+   "smile",
+   "good"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：分享",
+  "answers": [
+   "share"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“smile” 的中文意思是：",
+  "options": [
+   "微笑",
+   "好的；友好的",
+   "嘴",
+   "说"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“微笑” 用英语怎么说？",
+  "options": [
+   "smile",
+   "friend",
+   "ear",
+   "nice"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：微笑",
+  "answers": [
+   "smile"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“listen” 的中文意思是：",
+  "options": [
+   "听",
+   "玩具",
+   "朋友",
+   "好的；友好的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“听” 用英语怎么说？",
+  "options": [
+   "listen",
+   "toy",
+   "good",
+   "eye"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：听",
+  "answers": [
+   "listen"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“help” 的中文意思是：",
+  "options": [
+   "帮助",
+   "玩具",
+   "能；会",
+   "好的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“帮助” 用英语怎么说？",
+  "options": [
+   "help",
+   "ear",
+   "mouth",
+   "name"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：帮助",
+  "answers": [
+   "help"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“say” 的中文意思是：",
+  "options": [
+   "说",
+   "耳朵",
+   "能；会",
+   "和；与"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“说” 用英语怎么说？",
+  "options": [
+   "say",
+   "ear",
+   "goodbye",
+   "smile"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：说",
+  "answers": [
+   "say"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“friend” 的中文意思是：",
+  "options": [
+   "朋友",
+   "好的",
+   "听",
+   "玩具"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“朋友” 用英语怎么说？",
+  "options": [
+   "friend",
+   "and",
+   "can",
+   "hand"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：朋友",
+  "answers": [
+   "friend"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“good” 的中文意思是：",
+  "options": [
+   "好的",
+   "胳膊",
+   "再见",
+   "眼睛"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“好的” 用英语怎么说？",
+  "options": [
+   "good",
+   "say",
+   "help",
+   "hand"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：好的",
+  "answers": [
+   "good"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“mum” 的中文意思是：",
+  "options": [
+   "妈妈",
+   "家；家庭",
+   "哥哥；弟弟",
+   "爷爷；外公"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“妈妈” 用英语怎么说？",
+  "options": [
+   "mum",
+   "aunt",
+   "baby",
+   "family"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：妈妈",
+  "answers": [
+   "mum"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“dad” 的中文意思是：",
+  "options": [
+   "爸爸",
+   "祖父；外公",
+   "祖母；外婆",
+   "阿姨；姑姑"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“爸爸” 用英语怎么说？",
+  "options": [
+   "dad",
+   "small",
+   "have",
+   "grandfather"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：爸爸",
+  "answers": [
+   "dad"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“grandma” 的中文意思是：",
+  "options": [
+   "奶奶；外婆",
+   "大的",
+   "叔叔；舅舅",
+   "家；家庭"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“奶奶；外婆” 用英语怎么说？",
+  "options": [
+   "grandma",
+   "cousin",
+   "aunt",
+   "uncle"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：奶奶；外婆",
+  "answers": [
+   "grandma"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“grandpa” 的中文意思是：",
+  "options": [
+   "爷爷；外公",
+   "我",
+   "奶奶；外婆",
+   "家；家庭"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“爷爷；外公” 用英语怎么说？",
+  "options": [
+   "grandpa",
+   "cousin",
+   "me",
+   "aunt"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：爷爷；外公",
+  "answers": [
+   "grandpa"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“grandfather” 的中文意思是：",
+  "options": [
+   "祖父；外公",
+   "奶奶；外婆",
+   "妈妈",
+   "有"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“祖父；外公” 用英语怎么说？",
+  "options": [
+   "grandfather",
+   "grandmother",
+   "dad",
+   "sister"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：祖父；外公",
+  "answers": [
+   "grandfather"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“grandmother” 的中文意思是：",
+  "options": [
+   "祖母；外婆",
+   "爸爸",
+   "有",
+   "祖父；外公"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“祖母；外婆” 用英语怎么说？",
+  "options": [
+   "grandmother",
+   "aunt",
+   "dad",
+   "big"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：祖母；外婆",
+  "answers": [
+   "grandmother"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“mother” 的中文意思是：",
+  "options": [
+   "母亲",
+   "家；家庭",
+   "爸爸",
+   "哥哥；弟弟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“母亲” 用英语怎么说？",
+  "options": [
+   "mother",
+   "have",
+   "cousin",
+   "sister"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：母亲",
+  "answers": [
+   "mother"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“father” 的中文意思是：",
+  "options": [
+   "父亲",
+   "阿姨；姑姑",
+   "大的",
+   "我"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“父亲” 用英语怎么说？",
+  "options": [
+   "father",
+   "big",
+   "mother",
+   "aunt"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：父亲",
+  "answers": [
+   "father"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“me” 的中文意思是：",
+  "options": [
+   "我",
+   "祖父；外公",
+   "奶奶；外婆",
+   "家；家庭"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“我” 用英语怎么说？",
+  "options": [
+   "me",
+   "uncle",
+   "mum",
+   "cousin"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：我",
+  "answers": [
+   "me"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“sister” 的中文意思是：",
+  "options": [
+   "姐姐；妹妹",
+   "有",
+   "叔叔；舅舅",
+   "奶奶；外婆"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“姐姐；妹妹” 用英语怎么说？",
+  "options": [
+   "sister",
+   "uncle",
+   "cousin",
+   "have"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：姐姐；妹妹",
+  "answers": [
+   "sister"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“family” 的中文意思是：",
+  "options": [
+   "家；家庭",
+   "爷爷；外公",
+   "奶奶；外婆",
+   "父亲"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“家；家庭” 用英语怎么说？",
+  "options": [
+   "family",
+   "father",
+   "mum",
+   "cousin"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：家；家庭",
+  "answers": [
+   "family"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“have” 的中文意思是：",
+  "options": [
+   "有",
+   "叔叔；舅舅",
+   "爷爷；外公",
+   "祖母；外婆"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“有” 用英语怎么说？",
+  "options": [
+   "have",
+   "big",
+   "grandfather",
+   "grandmother"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：有",
+  "answers": [
+   "have"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“big” 的中文意思是：",
+  "options": [
+   "大的",
+   "爷爷；外公",
+   "有",
+   "堂（表）兄弟姐妹"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“大的” 用英语怎么说？",
+  "options": [
+   "big",
+   "small",
+   "sister",
+   "mother"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：大的",
+  "answers": [
+   "big"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“cousin” 的中文意思是：",
+  "options": [
+   "堂（表）兄弟姐妹",
+   "哥哥；弟弟",
+   "小的",
+   "姐姐；妹妹"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“堂（表）兄弟姐妹” 用英语怎么说？",
+  "options": [
+   "cousin",
+   "dad",
+   "family",
+   "brother"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：堂（表）兄弟姐妹",
+  "answers": [
+   "cousin"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“brother” 的中文意思是：",
+  "options": [
+   "哥哥；弟弟",
+   "婴儿",
+   "堂（表）兄弟姐妹",
+   "叔叔；舅舅"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“哥哥；弟弟” 用英语怎么说？",
+  "options": [
+   "brother",
+   "mother",
+   "grandma",
+   "small"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：哥哥；弟弟",
+  "answers": [
+   "brother"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“baby” 的中文意思是：",
+  "options": [
+   "婴儿",
+   "阿姨；姑姑",
+   "爷爷；外公",
+   "小的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“婴儿” 用英语怎么说？",
+  "options": [
+   "baby",
+   "aunt",
+   "sister",
+   "grandmother"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：婴儿",
+  "answers": [
+   "baby"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“uncle” 的中文意思是：",
+  "options": [
+   "叔叔；舅舅",
+   "小的",
+   "阿姨；姑姑",
+   "婴儿"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“叔叔；舅舅” 用英语怎么说？",
+  "options": [
+   "uncle",
+   "big",
+   "family",
+   "sister"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：叔叔；舅舅",
+  "answers": [
+   "uncle"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“aunt” 的中文意思是：",
+  "options": [
+   "阿姨；姑姑",
+   "奶奶；外婆",
+   "小的",
+   "妈妈"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“阿姨；姑姑” 用英语怎么说？",
+  "options": [
+   "aunt",
+   "grandpa",
+   "me",
+   "grandma"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：阿姨；姑姑",
+  "answers": [
+   "aunt"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“small” 的中文意思是：",
+  "options": [
+   "小的",
+   "婴儿",
+   "有",
+   "叔叔；舅舅"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "“小的” 用英语怎么说？",
+  "options": [
+   "small",
+   "sister",
+   "dad",
+   "mum"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Different families",
+  "q": "写出英文单词（不区分大小写）：小的",
+  "answers": [
+   "small"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“like” 的中文意思是：",
+  "options": [
+   "喜欢",
+   "去",
+   "动物",
+   "高的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“喜欢” 用英语怎么说？",
+  "options": [
+   "like",
+   "elephant",
+   "cat",
+   "fox"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：喜欢",
+  "answers": [
+   "like"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“dog” 的中文意思是：",
+  "options": [
+   "狗",
+   "猫",
+   "去",
+   "鸟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“狗” 用英语怎么说？",
+  "options": [
+   "dog",
+   "zoo",
+   "pet",
+   "go"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：狗",
+  "answers": [
+   "dog"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“pet” 的中文意思是：",
+  "options": [
+   "宠物",
+   "快的",
+   "狮子",
+   "喜欢"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“宠物” 用英语怎么说？",
+  "options": [
+   "pet",
+   "dog",
+   "animal",
+   "fast"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：宠物",
+  "answers": [
+   "pet"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“cat” 的中文意思是：",
+  "options": [
+   "猫",
+   "快的",
+   "动物",
+   "狗"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“猫” 用英语怎么说？",
+  "options": [
+   "cat",
+   "cute",
+   "fish",
+   "giraffe"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：猫",
+  "answers": [
+   "cat"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“fish” 的中文意思是：",
+  "options": [
+   "鱼",
+   "大象",
+   "动物园",
+   "鸟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“鱼” 用英语怎么说？",
+  "options": [
+   "fish",
+   "animal",
+   "giraffe",
+   "lion"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：鱼",
+  "answers": [
+   "fish"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“bird” 的中文意思是：",
+  "options": [
+   "鸟",
+   "狮子",
+   "高的",
+   "猴子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“鸟” 用英语怎么说？",
+  "options": [
+   "bird",
+   "tall",
+   "fast",
+   "go"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：鸟",
+  "answers": [
+   "bird"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“rabbit” 的中文意思是：",
+  "options": [
+   "兔子",
+   "老虎",
+   "狗",
+   "宠物"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“兔子” 用英语怎么说？",
+  "options": [
+   "rabbit",
+   "fox",
+   "go",
+   "cat"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：兔子",
+  "answers": [
+   "rabbit"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“go” 的中文意思是：",
+  "options": [
+   "去",
+   "熊猫",
+   "宠物",
+   "快的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“去” 用英语怎么说？",
+  "options": [
+   "go",
+   "panda",
+   "fast",
+   "giraffe"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：去",
+  "answers": [
+   "go"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“zoo” 的中文意思是：",
+  "options": [
+   "动物园",
+   "猴子",
+   "大象",
+   "熊猫"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“动物园” 用英语怎么说？",
+  "options": [
+   "zoo",
+   "fast",
+   "fish",
+   "go"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：动物园",
+  "answers": [
+   "zoo"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“fox” 的中文意思是：",
+  "options": [
+   "狐狸",
+   "长颈鹿",
+   "小熊猫",
+   "去"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“狐狸” 用英语怎么说？",
+  "options": [
+   "fox",
+   "giraffe",
+   "rabbit",
+   "panda"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：狐狸",
+  "answers": [
+   "fox"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“Miss” 的中文意思是：",
+  "options": [
+   "小姐；老师",
+   "长颈鹿",
+   "猫",
+   "动物"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“小姐；老师” 用英语怎么说？",
+  "options": [
+   "Miss",
+   "giraffe",
+   "rabbit",
+   "go"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：小姐；老师",
+  "answers": [
+   "Miss"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“panda” 的中文意思是：",
+  "options": [
+   "熊猫",
+   "长颈鹿",
+   "快的",
+   "宠物"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“熊猫” 用英语怎么说？",
+  "options": [
+   "panda",
+   "go",
+   "pet",
+   "rabbit"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：熊猫",
+  "answers": [
+   "panda"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“red panda” 的中文意思是：",
+  "options": [
+   "小熊猫",
+   "兔子",
+   "老虎",
+   "狐狸"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“小熊猫” 用英语怎么说？",
+  "options": [
+   "red panda",
+   "dog",
+   "go",
+   "fast"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：小熊猫",
+  "answers": [
+   "red panda"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“cute” 的中文意思是：",
+  "options": [
+   "可爱的",
+   "快的",
+   "去",
+   "长颈鹿"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“可爱的” 用英语怎么说？",
+  "options": [
+   "cute",
+   "dog",
+   "bird",
+   "panda"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：可爱的",
+  "answers": [
+   "cute"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“monkey” 的中文意思是：",
+  "options": [
+   "猴子",
+   "狮子",
+   "动物园",
+   "小姐；老师"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“猴子” 用英语怎么说？",
+  "options": [
+   "monkey",
+   "zoo",
+   "Miss",
+   "fast"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：猴子",
+  "answers": [
+   "monkey"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“tiger” 的中文意思是：",
+  "options": [
+   "老虎",
+   "鸟",
+   "小熊猫",
+   "鱼"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“老虎” 用英语怎么说？",
+  "options": [
+   "tiger",
+   "dog",
+   "like",
+   "pet"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：老虎",
+  "answers": [
+   "tiger"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“elephant” 的中文意思是：",
+  "options": [
+   "大象",
+   "狮子",
+   "去",
+   "老虎"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“大象” 用英语怎么说？",
+  "options": [
+   "elephant",
+   "zoo",
+   "lion",
+   "tiger"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：大象",
+  "answers": [
+   "elephant"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“lion” 的中文意思是：",
+  "options": [
+   "狮子",
+   "熊猫",
+   "快的",
+   "鸟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“狮子” 用英语怎么说？",
+  "options": [
+   "lion",
+   "bird",
+   "cute",
+   "zoo"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：狮子",
+  "answers": [
+   "lion"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“animal” 的中文意思是：",
+  "options": [
+   "动物",
+   "狮子",
+   "狗",
+   "鸟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“动物” 用英语怎么说？",
+  "options": [
+   "animal",
+   "rabbit",
+   "pet",
+   "monkey"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：动物",
+  "answers": [
+   "animal"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“giraffe” 的中文意思是：",
+  "options": [
+   "长颈鹿",
+   "去",
+   "狮子",
+   "猴子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“长颈鹿” 用英语怎么说？",
+  "options": [
+   "giraffe",
+   "rabbit",
+   "fox",
+   "animal"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：长颈鹿",
+  "answers": [
+   "giraffe"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“tall” 的中文意思是：",
+  "options": [
+   "高的",
+   "猴子",
+   "猫",
+   "去"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“高的” 用英语怎么说？",
+  "options": [
+   "tall",
+   "pet",
+   "Miss",
+   "dog"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：高的",
+  "answers": [
+   "tall"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“fast” 的中文意思是：",
+  "options": [
+   "快的",
+   "可爱的",
+   "老虎",
+   "宠物"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "“快的” 用英语怎么说？",
+  "options": [
+   "fast",
+   "elephant",
+   "animal",
+   "like"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Our animal friends",
+  "q": "写出英文单词（不区分大小写）：快的",
+  "answers": [
+   "fast"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“apple” 的中文意思是：",
+  "options": [
+   "苹果",
+   "浇水；水",
+   "树",
+   "给"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“苹果” 用英语怎么说？",
+  "options": [
+   "apple",
+   "school",
+   "grape",
+   "water"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：苹果",
+  "answers": [
+   "apple"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“banana” 的中文意思是：",
+  "options": [
+   "香蕉",
+   "花园",
+   "橙子；橙色",
+   "农场"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“香蕉” 用英语怎么说？",
+  "options": [
+   "banana",
+   "them",
+   "school",
+   "farm"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：香蕉",
+  "answers": [
+   "banana"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“farm” 的中文意思是：",
+  "options": [
+   "农场",
+   "浇水；水",
+   "需要",
+   "葡萄"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“农场” 用英语怎么说？",
+  "options": [
+   "farm",
+   "garden",
+   "grape",
+   "school"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：农场",
+  "answers": [
+   "farm"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“air” 的中文意思是：",
+  "options": [
+   "空气",
+   "种植；植物",
+   "树",
+   "草"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“空气” 用英语怎么说？",
+  "options": [
+   "air",
+   "orange",
+   "garden",
+   "apple"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：空气",
+  "answers": [
+   "air"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“orange” 的中文意思是：",
+  "options": [
+   "橙子；橙色",
+   "学校",
+   "需要",
+   "苹果"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“橙子；橙色” 用英语怎么说？",
+  "options": [
+   "orange",
+   "school",
+   "new",
+   "farm"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：橙子；橙色",
+  "answers": [
+   "orange"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“grape” 的中文意思是：",
+  "options": [
+   "葡萄",
+   "农场",
+   "苹果",
+   "我们"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“葡萄” 用英语怎么说？",
+  "options": [
+   "grape",
+   "new",
+   "sun",
+   "farm"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：葡萄",
+  "answers": [
+   "grape"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“school” 的中文意思是：",
+  "options": [
+   "学校",
+   "他们（宾格）",
+   "新的",
+   "花园"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“学校” 用英语怎么说？",
+  "options": [
+   "school",
+   "apple",
+   "orange",
+   "need"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：学校",
+  "answers": [
+   "school"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“garden” 的中文意思是：",
+  "options": [
+   "花园",
+   "农场",
+   "苹果",
+   "草"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“花园” 用英语怎么说？",
+  "options": [
+   "garden",
+   "them",
+   "sun",
+   "new"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：花园",
+  "answers": [
+   "garden"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“need” 的中文意思是：",
+  "options": [
+   "需要",
+   "浇水；水",
+   "他们（宾格）",
+   "树"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“需要” 用英语怎么说？",
+  "options": [
+   "need",
+   "them",
+   "school",
+   "water"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：需要",
+  "answers": [
+   "need"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“water” 的中文意思是：",
+  "options": [
+   "浇水；水",
+   "花",
+   "农场",
+   "太阳"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“浇水；水” 用英语怎么说？",
+  "options": [
+   "water",
+   "sun",
+   "plant",
+   "banana"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：浇水；水",
+  "answers": [
+   "water"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“flower” 的中文意思是：",
+  "options": [
+   "花",
+   "种植；植物",
+   "我们",
+   "香蕉"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“花” 用英语怎么说？",
+  "options": [
+   "flower",
+   "apple",
+   "plant",
+   "air"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：花",
+  "answers": [
+   "flower"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“grass” 的中文意思是：",
+  "options": [
+   "草",
+   "学校",
+   "农场",
+   "他们（宾格）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“草” 用英语怎么说？",
+  "options": [
+   "grass",
+   "need",
+   "flower",
+   "air"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：草",
+  "answers": [
+   "grass"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“plant” 的中文意思是：",
+  "options": [
+   "种植；植物",
+   "花",
+   "新的",
+   "苹果"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“种植；植物” 用英语怎么说？",
+  "options": [
+   "plant",
+   "farm",
+   "flower",
+   "banana"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：种植；植物",
+  "answers": [
+   "plant"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“new” 的中文意思是：",
+  "options": [
+   "新的",
+   "空气",
+   "草",
+   "给"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“新的” 用英语怎么说？",
+  "options": [
+   "new",
+   "air",
+   "tree",
+   "plant"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：新的",
+  "answers": [
+   "new"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“tree” 的中文意思是：",
+  "options": [
+   "树",
+   "苹果",
+   "学校",
+   "橙子；橙色"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“树” 用英语怎么说？",
+  "options": [
+   "tree",
+   "grass",
+   "apple",
+   "garden"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：树",
+  "answers": [
+   "tree"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“sun” 的中文意思是：",
+  "options": [
+   "太阳",
+   "草",
+   "树",
+   "农场"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“太阳” 用英语怎么说？",
+  "options": [
+   "sun",
+   "tree",
+   "them",
+   "water"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：太阳",
+  "answers": [
+   "sun"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“give” 的中文意思是：",
+  "options": [
+   "给",
+   "橙子；橙色",
+   "苹果",
+   "种植；植物"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“给” 用英语怎么说？",
+  "options": [
+   "give",
+   "need",
+   "new",
+   "us"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：给",
+  "answers": [
+   "give"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“us” 的中文意思是：",
+  "options": [
+   "我们",
+   "香蕉",
+   "给",
+   "种植；植物"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“我们” 用英语怎么说？",
+  "options": [
+   "us",
+   "give",
+   "sun",
+   "garden"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：我们",
+  "answers": [
+   "us"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“them” 的中文意思是：",
+  "options": [
+   "他们（宾格）",
+   "花",
+   "空气",
+   "葡萄"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "“他们（宾格）” 用英语怎么说？",
+  "options": [
+   "them",
+   "sun",
+   "us",
+   "garden"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Plants around us",
+  "q": "写出英文单词（不区分大小写）：他们（宾格）",
+  "answers": [
+   "them"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“colour” 的中文意思是：",
+  "options": [
+   "颜色",
+   "大海",
+   "黑色",
+   "鸭子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“颜色” 用英语怎么说？",
+  "options": [
+   "colour",
+   "make",
+   "some",
+   "black"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：颜色",
+  "answers": [
+   "colour"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“green” 的中文意思是：",
+  "options": [
+   "绿色",
+   "画",
+   "颜色",
+   "红色"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“绿色” 用英语怎么说？",
+  "options": [
+   "green",
+   "make",
+   "red",
+   "blue"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：绿色",
+  "answers": [
+   "green"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“red” 的中文意思是：",
+  "options": [
+   "红色",
+   "大海",
+   "鸭子",
+   "颜色"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“红色” 用英语怎么说？",
+  "options": [
+   "red",
+   "pink",
+   "black",
+   "draw"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：红色",
+  "answers": [
+   "red"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“blue” 的中文意思是：",
+  "options": [
+   "蓝色",
+   "棕色",
+   "黄色",
+   "颜色"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“蓝色” 用英语怎么说？",
+  "options": [
+   "blue",
+   "pink",
+   "black",
+   "purple"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：蓝色",
+  "answers": [
+   "blue"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“make” 的中文意思是：",
+  "options": [
+   "做；制作",
+   "鸭子",
+   "粉色",
+   "大海"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“做；制作” 用英语怎么说？",
+  "options": [
+   "make",
+   "bear",
+   "draw",
+   "red"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：做；制作",
+  "answers": [
+   "make"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“purple” 的中文意思是：",
+  "options": [
+   "紫色",
+   "一些",
+   "白色",
+   "绿色"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“紫色” 用英语怎么说？",
+  "options": [
+   "purple",
+   "brown",
+   "green",
+   "colour"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：紫色",
+  "answers": [
+   "purple"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“brown” 的中文意思是：",
+  "options": [
+   "棕色",
+   "黄色",
+   "白色",
+   "大海"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“棕色” 用英语怎么说？",
+  "options": [
+   "brown",
+   "colour",
+   "yellow",
+   "white"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：棕色",
+  "answers": [
+   "brown"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“bear” 的中文意思是：",
+  "options": [
+   "熊",
+   "棕色",
+   "黄色",
+   "粉色"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“熊” 用英语怎么说？",
+  "options": [
+   "bear",
+   "green",
+   "yellow",
+   "brown"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：熊",
+  "answers": [
+   "bear"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“yellow” 的中文意思是：",
+  "options": [
+   "黄色",
+   "紫色",
+   "白色",
+   "绿色"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“黄色” 用英语怎么说？",
+  "options": [
+   "yellow",
+   "black",
+   "duck",
+   "sea"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：黄色",
+  "answers": [
+   "yellow"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“duck” 的中文意思是：",
+  "options": [
+   "鸭子",
+   "黑色",
+   "蓝色",
+   "颜色"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“鸭子” 用英语怎么说？",
+  "options": [
+   "duck",
+   "blue",
+   "pink",
+   "white"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：鸭子",
+  "answers": [
+   "duck"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“sea” 的中文意思是：",
+  "options": [
+   "大海",
+   "一些",
+   "鸭子",
+   "紫色"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“大海” 用英语怎么说？",
+  "options": [
+   "sea",
+   "brown",
+   "black",
+   "draw"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：大海",
+  "answers": [
+   "sea"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“some” 的中文意思是：",
+  "options": [
+   "一些",
+   "鸭子",
+   "红色",
+   "大海"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“一些” 用英语怎么说？",
+  "options": [
+   "some",
+   "red",
+   "make",
+   "bear"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：一些",
+  "answers": [
+   "some"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“pink” 的中文意思是：",
+  "options": [
+   "粉色",
+   "紫色",
+   "颜色",
+   "熊"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“粉色” 用英语怎么说？",
+  "options": [
+   "pink",
+   "sea",
+   "brown",
+   "draw"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：粉色",
+  "answers": [
+   "pink"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“draw” 的中文意思是：",
+  "options": [
+   "画",
+   "颜色",
+   "红色",
+   "鸭子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“画” 用英语怎么说？",
+  "options": [
+   "draw",
+   "blue",
+   "pink",
+   "purple"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：画",
+  "answers": [
+   "draw"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“white” 的中文意思是：",
+  "options": [
+   "白色",
+   "棕色",
+   "红色",
+   "颜色"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“白色” 用英语怎么说？",
+  "options": [
+   "white",
+   "sea",
+   "draw",
+   "green"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：白色",
+  "answers": [
+   "white"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“black” 的中文意思是：",
+  "options": [
+   "黑色",
+   "白色",
+   "做；制作",
+   "大海"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "“黑色” 用英语怎么说？",
+  "options": [
+   "black",
+   "sea",
+   "purple",
+   "brown"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The colourful world",
+  "q": "写出英文单词（不区分大小写）：黑色",
+  "answers": [
+   "black"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“old” 的中文意思是：",
+  "options": [
+   "年老的；…岁",
+   "…点钟",
+   "蛋糕",
+   "五"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“年老的；…岁” 用英语怎么说？",
+  "options": [
+   "old",
+   "seven",
+   "two",
+   "six"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：年老的；…岁",
+  "answers": [
+   "old"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“five” 的中文意思是：",
+  "options": [
+   "五",
+   "一块；一片",
+   "切",
+   "六"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“五” 用英语怎么说？",
+  "options": [
+   "five",
+   "three",
+   "year",
+   "o'clock"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：五",
+  "answers": [
+   "five"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“year” 的中文意思是：",
+  "options": [
+   "年；岁",
+   "四",
+   "一块；一片",
+   "二"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“年；岁” 用英语怎么说？",
+  "options": [
+   "year",
+   "nine",
+   "o'clock",
+   "six"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：年；岁",
+  "answers": [
+   "year"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“one” 的中文意思是：",
+  "options": [
+   "一",
+   "七",
+   "蛋糕",
+   "十"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“一” 用英语怎么说？",
+  "options": [
+   "one",
+   "six",
+   "cake",
+   "nine"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：一",
+  "answers": [
+   "one"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“two” 的中文意思是：",
+  "options": [
+   "二",
+   "四",
+   "吃",
+   "蛋糕"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“二” 用英语怎么说？",
+  "options": [
+   "two",
+   "nine",
+   "six",
+   "five"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：二",
+  "answers": [
+   "two"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“three” 的中文意思是：",
+  "options": [
+   "三",
+   "一",
+   "四",
+   "…点钟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“三” 用英语怎么说？",
+  "options": [
+   "three",
+   "cake",
+   "eight",
+   "seven"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：三",
+  "answers": [
+   "three"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“four” 的中文意思是：",
+  "options": [
+   "四",
+   "八",
+   "九",
+   "六"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“四” 用英语怎么说？",
+  "options": [
+   "four",
+   "eat",
+   "old",
+   "one"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：四",
+  "answers": [
+   "four"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“ten” 的中文意思是：",
+  "options": [
+   "十",
+   "八",
+   "吃",
+   "蛋糕"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“十” 用英语怎么说？",
+  "options": [
+   "ten",
+   "eight",
+   "cut",
+   "cake"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：十",
+  "answers": [
+   "ten"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“six” 的中文意思是：",
+  "options": [
+   "六",
+   "切",
+   "一块；一片",
+   "年老的；…岁"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“六” 用英语怎么说？",
+  "options": [
+   "six",
+   "five",
+   "eight",
+   "four"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：六",
+  "answers": [
+   "six"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“seven” 的中文意思是：",
+  "options": [
+   "七",
+   "三",
+   "五",
+   "九"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“七” 用英语怎么说？",
+  "options": [
+   "seven",
+   "ten",
+   "cut",
+   "old"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：七",
+  "answers": [
+   "seven"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“eight” 的中文意思是：",
+  "options": [
+   "八",
+   "十",
+   "六",
+   "年；岁"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“八” 用英语怎么说？",
+  "options": [
+   "eight",
+   "three",
+   "nine",
+   "o'clock"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：八",
+  "answers": [
+   "eight"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“nine” 的中文意思是：",
+  "options": [
+   "九",
+   "十",
+   "七",
+   "…点钟"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“九” 用英语怎么说？",
+  "options": [
+   "nine",
+   "cut",
+   "cake",
+   "five"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：九",
+  "answers": [
+   "nine"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“o'clock” 的中文意思是：",
+  "options": [
+   "…点钟",
+   "七",
+   "年老的；…岁",
+   "十"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“…点钟” 用英语怎么说？",
+  "options": [
+   "o'clock",
+   "ten",
+   "three",
+   "one"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：…点钟",
+  "answers": [
+   "o'clock",
+   "o’clock"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“cut” 的中文意思是：",
+  "options": [
+   "切",
+   "七",
+   "二",
+   "八"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“切” 用英语怎么说？",
+  "options": [
+   "cut",
+   "old",
+   "o'clock",
+   "one"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：切",
+  "answers": [
+   "cut"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“eat” 的中文意思是：",
+  "options": [
+   "吃",
+   "十",
+   "八",
+   "九"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“吃” 用英语怎么说？",
+  "options": [
+   "eat",
+   "o'clock",
+   "eight",
+   "piece"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：吃",
+  "answers": [
+   "eat"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“cake” 的中文意思是：",
+  "options": [
+   "蛋糕",
+   "二",
+   "切",
+   "九"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“蛋糕” 用英语怎么说？",
+  "options": [
+   "cake",
+   "four",
+   "ten",
+   "two"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：蛋糕",
+  "answers": [
+   "cake"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“and” 的中文意思是：",
+  "options": [
+   "和；与",
+   "帮助",
+   "能；会",
+   "分享"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“和；与” 用英语怎么说？",
+  "options": [
+   "and",
+   "say",
+   "toy",
+   "ear"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：和；与",
+  "answers": [
+   "and"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“goodbye” 的中文意思是：",
+  "options": [
+   "再见",
+   "说",
+   "好的；友好的",
+   "听"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“再见” 用英语怎么说？",
+  "options": [
+   "goodbye",
+   "nice",
+   "hand",
+   "smile"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：再见",
+  "answers": [
+   "goodbye"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“toy” 的中文意思是：",
+  "options": [
+   "玩具",
+   "好的",
+   "再见",
+   "胳膊"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "“玩具” 用英语怎么说？",
+  "options": [
+   "toy",
+   "eye",
+   "mouth",
+   "goodbye"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Making friends",
+  "q": "写出英文单词（不区分大小写）：玩具",
+  "answers": [
+   "toy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“piece” 的中文意思是：",
+  "options": [
+   "一块；一片",
+   "年老的；…岁",
+   "三",
+   "七"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "“一块；一片” 用英语怎么说？",
+  "options": [
+   "piece",
+   "nine",
+   "old",
+   "two"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Useful numbers",
+  "q": "写出英文单词（不区分大小写）：一块；一片",
+  "answers": [
+   "piece"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Making friends",
+  "q": "— Nice to meet you.\n— ______",
+  "options": [
+   "Nice to meet you too.",
+   "Goodbye.",
+   "Oh no!",
+   "Thanks, Sarah."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Making friends",
+  "q": "— Hello! I'm Mike Black.\n— Hi! ______ name is Wu Binbin.",
+  "options": [
+   "My",
+   "I",
+   "Me",
+   "You"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Making friends",
+  "q": "Sarah 和你分享了玩具，你应该说：",
+  "options": [
+   "Thank you, Sarah.",
+   "Goodbye, Sarah.",
+   "Oh no!",
+   "Nice to meet you."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Making friends",
+  "q": "Hey, Sarah! We can ______.（我们可以分享。）",
+  "options": [
+   "share",
+   "smile",
+   "listen",
+   "say"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Making friends",
+  "q": "选出不同类的一项：ear、eye、mouth、toy",
+  "options": [
+   "toy",
+   "ear",
+   "eye",
+   "mouth"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Different families",
+  "q": "— Is this your sister?\n— No, ______ my cousin.",
+  "options": [
+   "it's",
+   "it",
+   "I'm",
+   "is"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Different families",
+  "q": "— Is that your brother?\n— ______",
+  "options": [
+   "Yes, it is.",
+   "Yes, I do.",
+   "Yes, I am.",
+   "No, I don't."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Different families",
+  "q": "This is ______ grandma.",
+  "options": [
+   "my",
+   "I",
+   "me",
+   "am"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Different families",
+  "q": "选出不同类的一项：aunt、big、dad、mum",
+  "options": [
+   "big",
+   "mum",
+   "dad",
+   "aunt"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Our animal friends",
+  "q": "— Do you have a pet?\n— ______ I have a cat.",
+  "options": [
+   "Yes, I do.",
+   "No, I don't.",
+   "Yes, it is.",
+   "No, it isn't."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Our animal friends",
+  "q": "— Miss White, what's that?\n— ______ a red panda.",
+  "options": [
+   "It's",
+   "I'm",
+   "This",
+   "Is"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Our animal friends",
+  "q": "Let's ______ to the zoo!",
+  "options": [
+   "go",
+   "like",
+   "have",
+   "make"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Our animal friends",
+  "q": "选出不同类的一项：lion、monkey、tiger、zoo",
+  "options": [
+   "zoo",
+   "tiger",
+   "lion",
+   "monkey"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Plants around us",
+  "q": "— Mike, do you like apples?\n— Yes, ______.",
+  "options": [
+   "I do",
+   "I am",
+   "it is",
+   "I like"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Plants around us",
+  "q": "我们可以给花浇水。We can ______ the flowers.",
+  "options": [
+   "water",
+   "need",
+   "give",
+   "eat"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Plants around us",
+  "q": "选出不同类的一项：apple、banana、farm、grape",
+  "options": [
+   "farm",
+   "apple",
+   "banana",
+   "grape"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 The colourful world",
+  "q": "— What colour is it?\n— ______",
+  "options": [
+   "It's orange.",
+   "It's a fox.",
+   "I'm five.",
+   "Yes, it is."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 The colourful world",
+  "q": "Red and blue make ______.",
+  "options": [
+   "purple",
+   "green",
+   "orange",
+   "pink"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 The colourful world",
+  "q": "Blue and yellow make ______.",
+  "options": [
+   "green",
+   "purple",
+   "brown",
+   "pink"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 The colourful world",
+  "q": "选出不同类的一项：brown、duck、pink、red",
+  "options": [
+   "duck",
+   "red",
+   "pink",
+   "brown"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Useful numbers",
+  "q": "— How old are you?\n— ______",
+  "options": [
+   "I'm five years old.",
+   "I'm fine.",
+   "It's orange.",
+   "Yes, I do."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Useful numbers",
+  "q": "— How many apples?\n— ______",
+  "options": [
+   "Two.",
+   "It's red.",
+   "Yes, I do.",
+   "I'm five."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Useful numbers",
+  "q": "选出不同类的一项：cake、nine、six、ten",
+  "options": [
+   "cake",
+   "six",
+   "nine",
+   "ten"
+  ]
+ }
+]

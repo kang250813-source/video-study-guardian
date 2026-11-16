@@ -1,0 +1,4 @@
+# 打包所需（运行只需要 Python 3.11+ 标准库）
+pyinstaller>=6.3
+# 可选：识别系统媒体会话（Chrome/Edge/播放器正在播放），没有也能用
+winsdk>=1.0.0b10; sys_platform == "win32"

@@ -1,0 +1,3503 @@
+[
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“younger” 的中文意思是：",
+  "options": [
+   "更年轻的（比较级）",
+   "更强壮的（比较级）",
+   "更瘦的（比较级）",
+   "大厅；礼堂"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更年轻的（比较级）” 用英语怎么说？",
+  "options": [
+   "younger",
+   "shorter",
+   "thinner",
+   "lower"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更年轻的（比较级）",
+  "answers": [
+   "younger"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“older” 的中文意思是：",
+  "options": [
+   "更年长的（比较级）",
+   "两个都；都",
+   "更小的（比较级）",
+   "更低地（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更年长的（比较级）” 用英语怎么说？",
+  "options": [
+   "older",
+   "become",
+   "taller",
+   "smaller"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更年长的（比较级）",
+  "answers": [
+   "older"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“taller” 的中文意思是：",
+  "options": [
+   "更高的（比较级）",
+   "千克；公斤",
+   "更年轻的（比较级）",
+   "更年长的（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更高的（比较级）” 用英语怎么说？",
+  "options": [
+   "taller",
+   "older",
+   "bigger",
+   "both"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更高的（比较级）",
+  "answers": [
+   "taller"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“shorter” 的中文意思是：",
+  "options": [
+   "更矮的；更短的（比较级）",
+   "更年轻的（比较级）",
+   "大厅；礼堂",
+   "更小的（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更矮的；更短的（比较级）” 用英语怎么说？",
+  "options": [
+   "shorter",
+   "longer",
+   "thinner",
+   "than"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更矮的；更短的（比较级）",
+  "answers": [
+   "shorter"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“longer” 的中文意思是：",
+  "options": [
+   "更长的（比较级）",
+   "更重的（比较级）",
+   "大厅；礼堂",
+   "更年长的（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更长的（比较级）” 用英语怎么说？",
+  "options": [
+   "longer",
+   "dinosaur",
+   "metre",
+   "kilogram"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更长的（比较级）",
+  "answers": [
+   "longer"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“thinner” 的中文意思是：",
+  "options": [
+   "更瘦的（比较级）",
+   "更聪明的（比较级）",
+   "更低地（比较级）",
+   "更年长的（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更瘦的（比较级）” 用英语怎么说？",
+  "options": [
+   "thinner",
+   "both",
+   "longer",
+   "heavier"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更瘦的（比较级）",
+  "answers": [
+   "thinner"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“heavier” 的中文意思是：",
+  "options": [
+   "更重的（比较级）",
+   "两个都；都",
+   "开始变得；变成",
+   "阴影；影子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更重的（比较级）” 用英语怎么说？",
+  "options": [
+   "heavier",
+   "stronger",
+   "thinner",
+   "lower"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更重的（比较级）",
+  "answers": [
+   "heavier"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“bigger” 的中文意思是：",
+  "options": [
+   "更大的（比较级）",
+   "更高的（比较级）",
+   "千克；公斤",
+   "更强壮的（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更大的（比较级）” 用英语怎么说？",
+  "options": [
+   "bigger",
+   "than",
+   "kilogram",
+   "younger"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更大的（比较级）",
+  "answers": [
+   "bigger"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“smaller” 的中文意思是：",
+  "options": [
+   "更小的（比较级）",
+   "比",
+   "阴影；影子",
+   "千克；公斤"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更小的（比较级）” 用英语怎么说？",
+  "options": [
+   "smaller",
+   "lower",
+   "thinner",
+   "stronger"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更小的（比较级）",
+  "answers": [
+   "smaller"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“stronger” 的中文意思是：",
+  "options": [
+   "更强壮的（比较级）",
+   "更聪明的（比较级）",
+   "千克；公斤",
+   "更小的（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更强壮的（比较级）” 用英语怎么说？",
+  "options": [
+   "stronger",
+   "hall",
+   "taller",
+   "become"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更强壮的（比较级）",
+  "answers": [
+   "stronger"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“dinosaur” 的中文意思是：",
+  "options": [
+   "恐龙",
+   "更年长的（比较级）",
+   "乡村；农村，乡下",
+   "更小的（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“恐龙” 用英语怎么说？",
+  "options": [
+   "dinosaur",
+   "shadow",
+   "shorter",
+   "older"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：恐龙",
+  "answers": [
+   "dinosaur"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“hall” 的中文意思是：",
+  "options": [
+   "大厅；礼堂",
+   "更重的（比较级）",
+   "更小的（比较级）",
+   "比"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“大厅；礼堂” 用英语怎么说？",
+  "options": [
+   "hall",
+   "dinosaur",
+   "stronger",
+   "older"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：大厅；礼堂",
+  "answers": [
+   "hall"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“metre” 的中文意思是：",
+  "options": [
+   "米",
+   "千克；公斤",
+   "更重的（比较级）",
+   "更低地（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“米” 用英语怎么说？",
+  "options": [
+   "metre",
+   "smaller",
+   "than",
+   "shadow"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：米",
+  "answers": [
+   "metre"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“than” 的中文意思是：",
+  "options": [
+   "比",
+   "更年长的（比较级）",
+   "米",
+   "更聪明的（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“比” 用英语怎么说？",
+  "options": [
+   "than",
+   "lower",
+   "heavier",
+   "older"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：比",
+  "answers": [
+   "than"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“both” 的中文意思是：",
+  "options": [
+   "两个都；都",
+   "更瘦的（比较级）",
+   "更年长的（比较级）",
+   "更长的（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“两个都；都” 用英语怎么说？",
+  "options": [
+   "both",
+   "longer",
+   "dinosaur",
+   "stronger"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：两个都；都",
+  "answers": [
+   "both"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“kilogram” 的中文意思是：",
+  "options": [
+   "千克；公斤",
+   "更长的（比较级）",
+   "大厅；礼堂",
+   "更重的（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“千克；公斤” 用英语怎么说？",
+  "options": [
+   "kilogram",
+   "dinosaur",
+   "stronger",
+   "smaller"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：千克；公斤",
+  "answers": [
+   "kilogram"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“countryside” 的中文意思是：",
+  "options": [
+   "乡村；农村，乡下",
+   "更重的（比较级）",
+   "大厅；礼堂",
+   "比"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“乡村；农村，乡下” 用英语怎么说？",
+  "options": [
+   "countryside",
+   "metre",
+   "lower",
+   "smarter"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：乡村；农村，乡下",
+  "answers": [
+   "countryside"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“lower” 的中文意思是：",
+  "options": [
+   "更低地（比较级）",
+   "两个都；都",
+   "大厅；礼堂",
+   "米"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更低地（比较级）” 用英语怎么说？",
+  "options": [
+   "lower",
+   "thinner",
+   "metre",
+   "younger"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更低地（比较级）",
+  "answers": [
+   "lower"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“shadow” 的中文意思是：",
+  "options": [
+   "阴影；影子",
+   "恐龙",
+   "更低地（比较级）",
+   "米"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“阴影；影子” 用英语怎么说？",
+  "options": [
+   "shadow",
+   "hall",
+   "become",
+   "thinner"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：阴影；影子",
+  "answers": [
+   "shadow"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“smarter” 的中文意思是：",
+  "options": [
+   "更聪明的（比较级）",
+   "更强壮的（比较级）",
+   "米",
+   "两个都；都"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“更聪明的（比较级）” 用英语怎么说？",
+  "options": [
+   "smarter",
+   "older",
+   "countryside",
+   "taller"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：更聪明的（比较级）",
+  "answers": [
+   "smarter"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“become” 的中文意思是：",
+  "options": [
+   "开始变得；变成",
+   "阴影；影子",
+   "千克；公斤",
+   "更年长的（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "“开始变得；变成” 用英语怎么说？",
+  "options": [
+   "become",
+   "shorter",
+   "metre",
+   "hall"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 How tall are you?",
+  "q": "写出英文单词（不区分大小写）：开始变得；变成",
+  "answers": [
+   "become"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“cleaned” 的中文意思是：",
+  "options": [
+   "打扫（过去式）",
+   "旅馆，宾馆，饭店",
+   "洗（过去式）",
+   "最近的；最后的；上一个的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“打扫（过去式）” 用英语怎么说？",
+  "options": [
+   "cleaned",
+   "lamp",
+   "faster",
+   "yesterday"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：打扫（过去式）",
+  "answers": [
+   "cleaned"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“stayed” 的中文意思是：",
+  "options": [
+   "停留；待（过去式）",
+   "灯；台灯",
+   "感冒",
+   "患病；得病（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“停留；待（过去式）” 用英语怎么说？",
+  "options": [
+   "stayed",
+   "broken",
+   "lamp",
+   "read"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：停留；待（过去式）",
+  "answers": [
+   "stayed"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“washed” 的中文意思是：",
+  "options": [
+   "洗（过去式）",
+   "演出，秀",
+   "更快（比较级）",
+   "破损的；伤残的；残缺的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“洗（过去式）” 用英语怎么说？",
+  "options": [
+   "washed",
+   "stayed",
+   "better",
+   "cleaned"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：洗（过去式）",
+  "answers": [
+   "washed"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“watched” 的中文意思是：",
+  "options": [
+   "看（过去式）",
+   "杂志",
+   "睡觉（过去式）",
+   "读（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“看（过去式）” 用英语怎么说？",
+  "options": [
+   "watched",
+   "hotel",
+   "read",
+   "washed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：看（过去式）",
+  "answers": [
+   "watched"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“had” 的中文意思是：",
+  "options": [
+   "患病；得病（过去式）",
+   "享受……乐趣；喜爱",
+   "最近的；最后的；上一个的",
+   "更好的；较好，更好（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“患病；得病（过去式）” 用英语怎么说？",
+  "options": [
+   "had",
+   "before",
+   "lamp",
+   "drank"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：患病；得病（过去式）",
+  "answers": [
+   "had"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“had a cold” 的中文意思是：",
+  "options": [
+   "感冒",
+   "读（过去式）",
+   "灯；台灯",
+   "喧闹的；大声的，响亮的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“感冒” 用英语怎么说？",
+  "options": [
+   "had a cold",
+   "last",
+   "better",
+   "washed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：感冒",
+  "answers": [
+   "had a cold"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“slept” 的中文意思是：",
+  "options": [
+   "睡觉（过去式）",
+   "昨天",
+   "感冒",
+   "洗（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“睡觉（过去式）” 用英语怎么说？",
+  "options": [
+   "slept",
+   "lamp",
+   "better",
+   "loud"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：睡觉（过去式）",
+  "answers": [
+   "slept"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“read” 的中文意思是：",
+  "options": [
+   "读（过去式）",
+   "洗（过去式）",
+   "更好的；较好，更好（比较级）",
+   "演出，秀"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“读（过去式）” 用英语怎么说？",
+  "options": [
+   "read",
+   "better",
+   "lamp",
+   "loud"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：读（过去式）",
+  "answers": [
+   "read"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“saw” 的中文意思是：",
+  "options": [
+   "看见（过去式）",
+   "灯；台灯",
+   "打扫（过去式）",
+   "破损的；伤残的；残缺的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“看见（过去式）” 用英语怎么说？",
+  "options": [
+   "saw",
+   "cleaned",
+   "fixed",
+   "broken"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：看见（过去式）",
+  "answers": [
+   "saw"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“last” 的中文意思是：",
+  "options": [
+   "最近的；最后的；上一个的",
+   "喝（过去式）",
+   "（时间上）在……之前，早于；（位置）在……前面",
+   "更好的；较好，更好（比较级）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“最近的；最后的；上一个的” 用英语怎么说？",
+  "options": [
+   "last",
+   "magazine",
+   "had a cold",
+   "fixed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：最近的；最后的；上一个的",
+  "answers": [
+   "last"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“yesterday” 的中文意思是：",
+  "options": [
+   "昨天",
+   "喧闹的；大声的，响亮的",
+   "最近的；最后的；上一个的",
+   "演出，秀"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“昨天” 用英语怎么说？",
+  "options": [
+   "yesterday",
+   "stayed",
+   "fixed",
+   "lamp"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：昨天",
+  "answers": [
+   "yesterday"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“before” 的中文意思是：",
+  "options": [
+   "（时间上）在……之前，早于；（位置）在……前面",
+   "洗（过去式）",
+   "旅馆，宾馆，饭店",
+   "看见（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“（时间上）在……之前，早于；（位置）在……前面” 用英语怎么说？",
+  "options": [
+   "before",
+   "loud",
+   "saw",
+   "enjoy"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：（时间上）在……之前，早于；（位置）在……前面",
+  "answers": [
+   "before"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“drank” 的中文意思是：",
+  "options": [
+   "喝（过去式）",
+   "更好的；较好，更好（比较级）",
+   "更快（比较级）",
+   "旅馆，宾馆，饭店"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“喝（过去式）” 用英语怎么说？",
+  "options": [
+   "drank",
+   "hotel",
+   "broken",
+   "had a cold"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：喝（过去式）",
+  "answers": [
+   "drank"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“show” 的中文意思是：",
+  "options": [
+   "演出，秀",
+   "患病；得病（过去式）",
+   "打扫（过去式）",
+   "喧闹的；大声的，响亮的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“演出，秀” 用英语怎么说？",
+  "options": [
+   "show",
+   "faster",
+   "had a cold",
+   "broken"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：演出，秀",
+  "answers": [
+   "show"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“magazine” 的中文意思是：",
+  "options": [
+   "杂志",
+   "旅馆，宾馆，饭店",
+   "修理（过去式）",
+   "喝（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“杂志” 用英语怎么说？",
+  "options": [
+   "magazine",
+   "fixed",
+   "slept",
+   "cleaned"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：杂志",
+  "answers": [
+   "magazine"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“better” 的中文意思是：",
+  "options": [
+   "更好的；较好，更好（比较级）",
+   "停留；待（过去式）",
+   "看见（过去式）",
+   "旅馆，宾馆，饭店"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“更好的；较好，更好（比较级）” 用英语怎么说？",
+  "options": [
+   "better",
+   "had",
+   "hotel",
+   "lamp"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：更好的；较好，更好（比较级）",
+  "answers": [
+   "better"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“faster” 的中文意思是：",
+  "options": [
+   "更快（比较级）",
+   "演出，秀",
+   "暂住；逗留，停留",
+   "（时间上）在……之前，早于；（位置）在……前面"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“更快（比较级）” 用英语怎么说？",
+  "options": [
+   "faster",
+   "better",
+   "show",
+   "had a cold"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：更快（比较级）",
+  "answers": [
+   "faster"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“hotel” 的中文意思是：",
+  "options": [
+   "旅馆，宾馆，饭店",
+   "洗（过去式）",
+   "看（过去式）",
+   "感冒"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“旅馆，宾馆，饭店” 用英语怎么说？",
+  "options": [
+   "hotel",
+   "washed",
+   "slept",
+   "had a cold"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：旅馆，宾馆，饭店",
+  "answers": [
+   "hotel"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“fixed” 的中文意思是：",
+  "options": [
+   "修理（过去式）",
+   "看（过去式）",
+   "停留；待（过去式）",
+   "打扫（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“修理（过去式）” 用英语怎么说？",
+  "options": [
+   "fixed",
+   "washed",
+   "drank",
+   "read"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：修理（过去式）",
+  "answers": [
+   "fixed"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“broken” 的中文意思是：",
+  "options": [
+   "破损的；伤残的；残缺的",
+   "更好的；较好，更好（比较级）",
+   "喧闹的；大声的，响亮的",
+   "（时间上）在……之前，早于；（位置）在……前面"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“破损的；伤残的；残缺的” 用英语怎么说？",
+  "options": [
+   "broken",
+   "washed",
+   "before",
+   "had"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：破损的；伤残的；残缺的",
+  "answers": [
+   "broken"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“lamp” 的中文意思是：",
+  "options": [
+   "灯；台灯",
+   "破损的；伤残的；残缺的",
+   "最近的；最后的；上一个的",
+   "停留；待（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“灯；台灯” 用英语怎么说？",
+  "options": [
+   "lamp",
+   "before",
+   "enjoy",
+   "saw"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：灯；台灯",
+  "answers": [
+   "lamp"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“loud” 的中文意思是：",
+  "options": [
+   "喧闹的；大声的，响亮的",
+   "破损的；伤残的；残缺的",
+   "看见（过去式）",
+   "旅馆，宾馆，饭店"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“喧闹的；大声的，响亮的” 用英语怎么说？",
+  "options": [
+   "loud",
+   "magazine",
+   "last",
+   "slept"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：喧闹的；大声的，响亮的",
+  "answers": [
+   "loud"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“enjoy” 的中文意思是：",
+  "options": [
+   "享受……乐趣；喜爱",
+   "灯；台灯",
+   "杂志",
+   "喝（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“享受……乐趣；喜爱” 用英语怎么说？",
+  "options": [
+   "enjoy",
+   "yesterday",
+   "lamp",
+   "washed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：享受……乐趣；喜爱",
+  "answers": [
+   "enjoy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“stay” 的中文意思是：",
+  "options": [
+   "暂住；逗留，停留",
+   "洗（过去式）",
+   "享受……乐趣；喜爱",
+   "最近的；最后的；上一个的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "“暂住；逗留，停留” 用英语怎么说？",
+  "options": [
+   "stay",
+   "lamp",
+   "magazine",
+   "washed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 Last weekend",
+  "q": "写出英文单词（不区分大小写）：暂住；逗留，停留",
+  "answers": [
+   "stay"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“went” 的中文意思是：",
+  "options": [
+   "去（过去式）",
+   "角色",
+   "吃（过去式）",
+   "可以；（can的过去式）能"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“去（过去式）” 用英语怎么说？",
+  "options": [
+   "went",
+   "camp",
+   "mule",
+   "beach"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：去（过去式）",
+  "answers": [
+   "went"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“camp” 的中文意思是：",
+  "options": [
+   "野营，度假",
+   "从（某处）落下；离开",
+   "笑（过去式）",
+   "拍照（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“野营，度假” 用英语怎么说？",
+  "options": [
+   "camp",
+   "gift",
+   "could",
+   "off"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：野营，度假",
+  "answers": [
+   "camp"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“went camping” 的中文意思是：",
+  "options": [
+   "（尤指在假日）野营",
+   "拍照（过去式）",
+   "海滩；沙滩",
+   "可以；（can的过去式）能"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“（尤指在假日）野营” 用英语怎么说？",
+  "options": [
+   "went camping",
+   "off",
+   "took",
+   "rode"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：（尤指在假日）野营",
+  "answers": [
+   "went camping"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“fish” 的中文意思是：",
+  "options": [
+   "鱼；钓鱼；捕鱼",
+   "吐鲁番",
+   "骑（马；自行车）（过去式）",
+   "去（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“鱼；钓鱼；捕鱼” 用英语怎么说？",
+  "options": [
+   "fish",
+   "went camping",
+   "took",
+   "beach"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：鱼；钓鱼；捕鱼",
+  "answers": [
+   "fish"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“went fishing” 的中文意思是：",
+  "options": [
+   "去钓鱼",
+   "海滩；沙滩",
+   "（尤指在假日）野营",
+   "笑（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“去钓鱼” 用英语怎么说？",
+  "options": [
+   "went fishing",
+   "part",
+   "basket",
+   "licked"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：去钓鱼",
+  "answers": [
+   "went fishing"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“rode” 的中文意思是：",
+  "options": [
+   "骑（马；自行车）（过去式）",
+   "摔倒（过去式）",
+   "买（过去式）",
+   "笑（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“骑（马；自行车）（过去式）” 用英语怎么说？",
+  "options": [
+   "rode",
+   "went fishing",
+   "could",
+   "off"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：骑（马；自行车）（过去式）",
+  "answers": [
+   "rode"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“hurt” 的中文意思是：",
+  "options": [
+   "（使）受伤（过去式）",
+   "礼物；礼品",
+   "舔（过去式）",
+   "吐鲁番"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“（使）受伤（过去式）” 用英语怎么说？",
+  "options": [
+   "hurt",
+   "licked",
+   "fish",
+   "basket"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：（使）受伤（过去式）",
+  "answers": [
+   "hurt"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“ate” 的中文意思是：",
+  "options": [
+   "吃（过去式）",
+   "摔倒（过去式）",
+   "买（过去式）",
+   "笑（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“吃（过去式）” 用英语怎么说？",
+  "options": [
+   "ate",
+   "fish",
+   "took pictures",
+   "took"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：吃（过去式）",
+  "answers": [
+   "ate"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“took” 的中文意思是：",
+  "options": [
+   "拍照（过去式）",
+   "从（某处）落下；离开",
+   "照相",
+   "篮；筐"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“拍照（过去式）” 用英语怎么说？",
+  "options": [
+   "took",
+   "off",
+   "laughed",
+   "beach"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：拍照（过去式）",
+  "answers": [
+   "took"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“took pictures” 的中文意思是：",
+  "options": [
+   "照相",
+   "（使）受伤（过去式）",
+   "拍照（过去式）",
+   "买（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“照相” 用英语怎么说？",
+  "options": [
+   "took pictures",
+   "went",
+   "mule",
+   "hurt"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：照相",
+  "answers": [
+   "took pictures"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“bought” 的中文意思是：",
+  "options": [
+   "买（过去式）",
+   "野营，度假",
+   "海滩；沙滩",
+   "去钓鱼"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“买（过去式）” 用英语怎么说？",
+  "options": [
+   "bought",
+   "Turpan",
+   "laughed",
+   "took pictures"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：买（过去式）",
+  "answers": [
+   "bought"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“gift” 的中文意思是：",
+  "options": [
+   "礼物；礼品",
+   "直到",
+   "去（过去式）",
+   "拍照（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“礼物；礼品” 用英语怎么说？",
+  "options": [
+   "gift",
+   "ate",
+   "took",
+   "bought"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：礼物；礼品",
+  "answers": [
+   "gift"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“fell” 的中文意思是：",
+  "options": [
+   "摔倒（过去式）",
+   "骑（马；自行车）（过去式）",
+   "买（过去式）",
+   "（使）受伤（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“摔倒（过去式）” 用英语怎么说？",
+  "options": [
+   "fell",
+   "hurt",
+   "basket",
+   "laughed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：摔倒（过去式）",
+  "answers": [
+   "fell"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“off” 的中文意思是：",
+  "options": [
+   "从（某处）落下；离开",
+   "可以；（can的过去式）能",
+   "礼物；礼品",
+   "去（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“从（某处）落下；离开” 用英语怎么说？",
+  "options": [
+   "off",
+   "till",
+   "camp",
+   "part"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：从（某处）落下；离开",
+  "answers": [
+   "off"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“mule” 的中文意思是：",
+  "options": [
+   "骡子",
+   "角色",
+   "照相",
+   "篮；筐"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“骡子” 用英语怎么说？",
+  "options": [
+   "mule",
+   "laughed",
+   "went",
+   "licked"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：骡子",
+  "answers": [
+   "mule"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“Turpan” 的中文意思是：",
+  "options": [
+   "吐鲁番",
+   "去（过去式）",
+   "从（某处）落下；离开",
+   "骡子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“吐鲁番” 用英语怎么说？",
+  "options": [
+   "Turpan",
+   "took",
+   "gift",
+   "mule"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：吐鲁番",
+  "answers": [
+   "Turpan"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“could” 的中文意思是：",
+  "options": [
+   "可以；（can的过去式）能",
+   "去（过去式）",
+   "舔（过去式）",
+   "角色"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“可以；（can的过去式）能” 用英语怎么说？",
+  "options": [
+   "could",
+   "ate",
+   "part",
+   "took"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：可以；（can的过去式）能",
+  "answers": [
+   "could"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“till” 的中文意思是：",
+  "options": [
+   "直到",
+   "海滩；沙滩",
+   "角色",
+   "野营，度假"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“直到” 用英语怎么说？",
+  "options": [
+   "till",
+   "fish",
+   "gift",
+   "laughed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：直到",
+  "answers": [
+   "till"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“beach” 的中文意思是：",
+  "options": [
+   "海滩；沙滩",
+   "照相",
+   "鱼；钓鱼；捕鱼",
+   "舔（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“海滩；沙滩” 用英语怎么说？",
+  "options": [
+   "beach",
+   "fish",
+   "laughed",
+   "camp"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：海滩；沙滩",
+  "answers": [
+   "beach"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“basket” 的中文意思是：",
+  "options": [
+   "篮；筐",
+   "（尤指在假日）野营",
+   "角色",
+   "骑（马；自行车）（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“篮；筐” 用英语怎么说？",
+  "options": [
+   "basket",
+   "camp",
+   "ate",
+   "laughed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：篮；筐",
+  "answers": [
+   "basket"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“part” 的中文意思是：",
+  "options": [
+   "角色",
+   "买（过去式）",
+   "鱼；钓鱼；捕鱼",
+   "笑（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“角色” 用英语怎么说？",
+  "options": [
+   "part",
+   "went fishing",
+   "basket",
+   "mule"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：角色",
+  "answers": [
+   "part"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“licked” 的中文意思是：",
+  "options": [
+   "舔（过去式）",
+   "可以；（can的过去式）能",
+   "骑（马；自行车）（过去式）",
+   "摔倒（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“舔（过去式）” 用英语怎么说？",
+  "options": [
+   "licked",
+   "till",
+   "camp",
+   "could"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：舔（过去式）",
+  "answers": [
+   "licked"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“laughed” 的中文意思是：",
+  "options": [
+   "笑（过去式）",
+   "骡子",
+   "从（某处）落下；离开",
+   "骑（马；自行车）（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "“笑（过去式）” 用英语怎么说？",
+  "options": [
+   "laughed",
+   "rode",
+   "went camping",
+   "hurt"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Where did you go?",
+  "q": "写出英文单词（不区分大小写）：笑（过去式）",
+  "answers": [
+   "laughed"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“dining hall” 的中文意思是：",
+  "options": [
+   "饭厅，餐厅",
+   "（在词典中或通过电脑）查阅",
+   "滑冰",
+   "去骑自行车"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“饭厅，餐厅” 用英语怎么说？",
+  "options": [
+   "dining hall",
+   "Internet",
+   "nothing",
+   "woke"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：饭厅，餐厅",
+  "answers": [
+   "dining hall"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“grass” 的中文意思是：",
+  "options": [
+   "草坪",
+   "羽毛球运动",
+   "绊倒",
+   "去骑自行车"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“草坪” 用英语怎么说？",
+  "options": [
+   "grass",
+   "ago",
+   "active",
+   "look up"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：草坪",
+  "answers": [
+   "grass"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“gym” 的中文意思是：",
+  "options": [
+   "体育馆",
+   "以前",
+   "不同的",
+   "没有什么；无关紧要的东西；没有一件东西"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“体育馆” 用英语怎么说？",
+  "options": [
+   "gym",
+   "thought",
+   "active",
+   "nothing"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：体育馆",
+  "answers": [
+   "gym"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“ago” 的中文意思是：",
+  "options": [
+   "以前",
+   "梦；梦想；愿望",
+   "互联网；网络",
+   "感觉（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“以前” 用英语怎么说？",
+  "options": [
+   "ago",
+   "felt",
+   "woke",
+   "nothing"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：以前",
+  "answers": [
+   "ago"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“cycling” 的中文意思是：",
+  "options": [
+   "骑自行车运动（或活动）",
+   "互联网；网络",
+   "绊倒",
+   "没有什么；无关紧要的东西；没有一件东西"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“骑自行车运动（或活动）” 用英语怎么说？",
+  "options": [
+   "cycling",
+   "look up",
+   "go cycling",
+   "Internet"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：骑自行车运动（或活动）",
+  "answers": [
+   "cycling"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“go cycling” 的中文意思是：",
+  "options": [
+   "去骑自行车",
+   "骑自行车运动（或活动）",
+   "滑冰",
+   "绊倒"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“去骑自行车” 用英语怎么说？",
+  "options": [
+   "go cycling",
+   "dining hall",
+   "woke",
+   "different"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：去骑自行车",
+  "answers": [
+   "go cycling"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“ice-skate” 的中文意思是：",
+  "options": [
+   "滑冰",
+   "想（过去式）",
+   "容易的；简单的",
+   "感觉（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“滑冰” 用英语怎么说？",
+  "options": [
+   "ice-skate",
+   "badminton",
+   "felt",
+   "nothing"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：滑冰",
+  "answers": [
+   "ice-skate",
+   "ice skate"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“badminton” 的中文意思是：",
+  "options": [
+   "羽毛球运动",
+   "梦；梦想；愿望",
+   "草坪",
+   "没有什么；无关紧要的东西；没有一件东西"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“羽毛球运动” 用英语怎么说？",
+  "options": [
+   "badminton",
+   "gym",
+   "grass",
+   "trip"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：羽毛球运动",
+  "answers": [
+   "badminton"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“star” 的中文意思是：",
+  "options": [
+   "星；星形；明星",
+   "体育馆",
+   "没有什么；无关紧要的东西；没有一件东西",
+   "容易的；简单的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“星；星形；明星” 用英语怎么说？",
+  "options": [
+   "star",
+   "Internet",
+   "cheetah",
+   "dining hall"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：星；星形；明星",
+  "answers": [
+   "star"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“easy” 的中文意思是：",
+  "options": [
+   "容易的；简单的",
+   "饭厅，餐厅",
+   "想（过去式）",
+   "不同的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“容易的；简单的” 用英语怎么说？",
+  "options": [
+   "easy",
+   "Internet",
+   "cheetah",
+   "dream"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：容易的；简单的",
+  "answers": [
+   "easy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“look up” 的中文意思是：",
+  "options": [
+   "（在词典中或通过电脑）查阅",
+   "猎豹",
+   "感觉（过去式）",
+   "积极的；活跃的；主动的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“（在词典中或通过电脑）查阅” 用英语怎么说？",
+  "options": [
+   "look up",
+   "go cycling",
+   "ago",
+   "cheetah"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：（在词典中或通过电脑）查阅",
+  "answers": [
+   "look up"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“Internet” 的中文意思是：",
+  "options": [
+   "互联网；网络",
+   "以前",
+   "饭厅，餐厅",
+   "骑自行车运动（或活动）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“互联网；网络” 用英语怎么说？",
+  "options": [
+   "Internet",
+   "look up",
+   "dining hall",
+   "ago"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：互联网；网络",
+  "answers": [
+   "Internet"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“different” 的中文意思是：",
+  "options": [
+   "不同的",
+   "草坪",
+   "积极的；活跃的；主动的",
+   "羽毛球运动"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“不同的” 用英语怎么说？",
+  "options": [
+   "different",
+   "active",
+   "easy",
+   "dining hall"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：不同的",
+  "answers": [
+   "different"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“active” 的中文意思是：",
+  "options": [
+   "积极的；活跃的；主动的",
+   "赛跑；竞赛；比赛",
+   "不同的",
+   "以前"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“积极的；活跃的；主动的” 用英语怎么说？",
+  "options": [
+   "active",
+   "different",
+   "Internet",
+   "look up"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：积极的；活跃的；主动的",
+  "answers": [
+   "active"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“race” 的中文意思是：",
+  "options": [
+   "赛跑；竞赛；比赛",
+   "容易的；简单的",
+   "骑自行车运动（或活动）",
+   "想（过去式）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“赛跑；竞赛；比赛” 用英语怎么说？",
+  "options": [
+   "race",
+   "look up",
+   "badminton",
+   "nothing"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：赛跑；竞赛；比赛",
+  "answers": [
+   "race"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“nothing” 的中文意思是：",
+  "options": [
+   "没有什么；无关紧要的东西；没有一件东西",
+   "去骑自行车",
+   "以前",
+   "容易的；简单的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“没有什么；无关紧要的东西；没有一件东西” 用英语怎么说？",
+  "options": [
+   "nothing",
+   "grass",
+   "felt",
+   "go cycling"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：没有什么；无关紧要的东西；没有一件东西",
+  "answers": [
+   "nothing"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“thought” 的中文意思是：",
+  "options": [
+   "想（过去式）",
+   "容易的；简单的",
+   "醒（过去式）",
+   "没有什么；无关紧要的东西；没有一件东西"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“想（过去式）” 用英语怎么说？",
+  "options": [
+   "thought",
+   "grass",
+   "different",
+   "woke"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：想（过去式）",
+  "answers": [
+   "thought"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“felt” 的中文意思是：",
+  "options": [
+   "感觉（过去式）",
+   "羽毛球运动",
+   "不同的",
+   "滑冰"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“感觉（过去式）” 用英语怎么说？",
+  "options": [
+   "felt",
+   "ago",
+   "grass",
+   "nothing"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：感觉（过去式）",
+  "answers": [
+   "felt"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“cheetah” 的中文意思是：",
+  "options": [
+   "猎豹",
+   "骑自行车运动（或活动）",
+   "赛跑；竞赛；比赛",
+   "滑冰"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“猎豹” 用英语怎么说？",
+  "options": [
+   "cheetah",
+   "dining hall",
+   "grass",
+   "go cycling"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：猎豹",
+  "answers": [
+   "cheetah"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“trip” 的中文意思是：",
+  "options": [
+   "绊倒",
+   "积极的；活跃的；主动的",
+   "（在词典中或通过电脑）查阅",
+   "不同的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“绊倒” 用英语怎么说？",
+  "options": [
+   "trip",
+   "race",
+   "woke",
+   "dining hall"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：绊倒",
+  "answers": [
+   "trip"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“woke” 的中文意思是：",
+  "options": [
+   "醒（过去式）",
+   "感觉（过去式）",
+   "以前",
+   "骑自行车运动（或活动）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“醒（过去式）” 用英语怎么说？",
+  "options": [
+   "woke",
+   "felt",
+   "active",
+   "easy"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：醒（过去式）",
+  "answers": [
+   "woke"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“dream” 的中文意思是：",
+  "options": [
+   "梦；梦想；愿望",
+   "草坪",
+   "饭厅，餐厅",
+   "（在词典中或通过电脑）查阅"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "“梦；梦想；愿望” 用英语怎么说？",
+  "options": [
+   "dream",
+   "active",
+   "cheetah",
+   "woke"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Then and now",
+  "q": "写出英文单词（不区分大小写）：梦；梦想；愿望",
+  "answers": [
+   "dream"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 How tall are you?",
+  "q": "— How tall are you?\n— ______",
+  "options": [
+   "I'm 1.65 metres.",
+   "I'm 48 kilograms.",
+   "Size 7.",
+   "I'm 12 years old."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 How tall are you?",
+  "q": "Wow! It's taller ______ both of us together.",
+  "options": [
+   "than",
+   "then",
+   "that",
+   "to"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 How tall are you?",
+  "q": "Hey, this dinosaur isn't tall! I'm ______ than this one.",
+  "options": [
+   "taller",
+   "tall",
+   "tallest",
+   "more tall"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 How tall are you?",
+  "q": "— How heavy are you?\n— ______",
+  "options": [
+   "I'm 48 kilograms.",
+   "I'm 1.65 metres.",
+   "Size 37.",
+   "I'm fine."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 How tall are you?",
+  "q": "Your feet are ______ than mine.",
+  "options": [
+   "bigger",
+   "biger",
+   "big",
+   "more big"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 How tall are you?",
+  "q": "选出不同类的一项：dinosaur、older、taller、younger",
+  "options": [
+   "dinosaur",
+   "taller",
+   "older",
+   "younger"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Last weekend",
+  "q": "— What did you do last weekend?\n— I ______ my room and washed my clothes.",
+  "options": [
+   "cleaned",
+   "clean",
+   "cleans",
+   "cleaning"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Last weekend",
+  "q": "We ______ tea in the afternoon and watched TV.",
+  "options": [
+   "drank",
+   "drink",
+   "drinked",
+   "drinks"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Last weekend",
+  "q": "— Did you see a film?\n— No, I ______ a cold.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "haved"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 Last weekend",
+  "q": "选出不同类的一项：cleaned、washed、watched、yesterday",
+  "options": [
+   "yesterday",
+   "washed",
+   "watched",
+   "cleaned"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Where did you go?",
+  "q": "— What happened?\n— I ______ off my bike and hurt my foot.",
+  "options": [
+   "fell",
+   "fall",
+   "falled",
+   "falls"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Where did you go?",
+  "q": "— Did you go to Turpan?\n— Yes, we ______.",
+  "options": [
+   "did",
+   "do",
+   "were",
+   "went"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Where did you go?",
+  "q": "— How did you go there?\n— We went there ______ plane.",
+  "options": [
+   "by",
+   "on",
+   "in",
+   "with"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Where did you go?",
+  "q": "— Where did you go over the winter holiday?\n— ______",
+  "options": [
+   "My family and I went to Sanya.",
+   "We went there by plane.",
+   "It was beautiful.",
+   "I took lots of pictures."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Where did you go?",
+  "q": "选出不同类的一项：ate、gift、rode、went",
+  "options": [
+   "gift",
+   "went",
+   "rode",
+   "ate"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Then and now",
+  "q": "There ______ no library in my old school.",
+  "options": [
+   "was",
+   "were",
+   "is",
+   "are"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Then and now",
+  "q": "There ______ no computers or Internet in my time.",
+  "options": [
+   "were",
+   "was",
+   "is",
+   "be"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Then and now",
+  "q": "Before, I was quiet. Now, I'm very ______ in class.",
+  "options": [
+   "active",
+   "quiet",
+   "short",
+   "easy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Then and now",
+  "q": "Now, I go ______ every day.",
+  "options": [
+   "cycling",
+   "cycled",
+   "to cycling",
+   "cycles"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Then and now",
+  "q": "选出不同类的一项：ago、dining hall、grass、gym",
+  "options": [
+   "ago",
+   "gym",
+   "dining hall",
+   "grass"
+  ]
+ }
+]

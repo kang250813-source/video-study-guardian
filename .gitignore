@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+config.json
+备份-*/
+dist/
+build/
+.gradle/
+local.properties
+*.apk
+*.keystore
+*.jks

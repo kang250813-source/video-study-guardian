@@ -1,0 +1,74 @@
+name: Windows build
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "windows/**"
+      - "questions.py"
+      - "bank/**"
+      - "浏览器视频监控扩展/**"
+      - ".github/workflows/windows.yml"
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  PYTHONUTF8: "1"
+  PYTHONIOENCODING: utf-8
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install build tools
+        run: python -m pip install --upgrade pip pyinstaller
+
+      - name: Install optional winsdk (media session detection)
+        continue-on-error: true
+        run: python -m pip install winsdk
+
+      - name: Self-test from source
+        run: python windows/vsg_windows.py --selftest
+
+      - name: Build onedir app and zip
+        run: python windows/build.py
+
+      - name: Self-test packaged exe
+        shell: pwsh
+        run: |
+          $p = Start-Process -FilePath "dist\VideoStudyGuardian\VideoStudyGuardian.exe" `
+                -ArgumentList "--selftest", "selftest.txt" -Wait -PassThru
+          Get-Content selftest.txt -Encoding utf8
+          if ($p.ExitCode -ne 0) { throw "packaged self-test failed ($($p.ExitCode))" }
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: VideoStudyGuardian-windows.zip
+          path: dist/VideoStudyGuardian-windows.zip
+          if-no-files-found: error
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: VideoStudyGuardian-windows.zip
+          path: dist
+
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: dist/VideoStudyGuardian-windows.zip
+          generate_release_notes: true

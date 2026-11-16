@@ -1,0 +1,4213 @@
+[
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“PE” 的中文意思是：",
+  "options": [
+   "体育课",
+   "地板",
+   "工厂工人",
+   "忙碌的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“体育课” 用英语怎么说？",
+  "options": [
+   "PE",
+   "room",
+   "tired",
+   "office worker"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：体育课",
+  "answers": [
+   "PE"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“job” 的中文意思是：",
+  "options": [
+   "工作",
+   "扫",
+   "房间",
+   "地板"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“工作” 用英语怎么说？",
+  "options": [
+   "job",
+   "room",
+   "doctor",
+   "clean"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：工作",
+  "answers": [
+   "job"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“doctor” 的中文意思是：",
+  "options": [
+   "医生",
+   "农民",
+   "做饭；厨师",
+   "房间"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“医生” 用英语怎么说？",
+  "options": [
+   "doctor",
+   "PE",
+   "job",
+   "clean"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：医生",
+  "answers": [
+   "doctor"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“farmer” 的中文意思是：",
+  "options": [
+   "农民",
+   "照顾",
+   "工作",
+   "做饭；厨师"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“农民” 用英语怎么说？",
+  "options": [
+   "farmer",
+   "busy",
+   "chore",
+   "nurse"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：农民",
+  "answers": [
+   "farmer"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“nurse” 的中文意思是：",
+  "options": [
+   "护士",
+   "上班族；办公室职员",
+   "工厂工人",
+   "忙碌的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“护士” 用英语怎么说？",
+  "options": [
+   "nurse",
+   "doctor",
+   "together",
+   "tired"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：护士",
+  "answers": [
+   "nurse"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“office worker” 的中文意思是：",
+  "options": [
+   "上班族；办公室职员",
+   "工作",
+   "医生",
+   "人们"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“上班族；办公室职员” 用英语怎么说？",
+  "options": [
+   "office worker",
+   "PE",
+   "doctor",
+   "farmer"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：上班族；办公室职员",
+  "answers": [
+   "office worker"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“factory worker” 的中文意思是：",
+  "options": [
+   "工厂工人",
+   "医生",
+   "忙碌的",
+   "孩子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“工厂工人” 用英语怎么说？",
+  "options": [
+   "factory worker",
+   "PE",
+   "job",
+   "look after"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：工厂工人",
+  "answers": [
+   "factory worker"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“busy” 的中文意思是：",
+  "options": [
+   "忙碌的",
+   "工作",
+   "上班族；办公室职员",
+   "照顾"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“忙碌的” 用英语怎么说？",
+  "options": [
+   "busy",
+   "floor",
+   "office worker",
+   "nurse"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：忙碌的",
+  "answers": [
+   "busy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“tired” 的中文意思是：",
+  "options": [
+   "累的",
+   "家务活",
+   "农民",
+   "工作"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“累的” 用英语怎么说？",
+  "options": [
+   "tired",
+   "people",
+   "clean",
+   "farmer"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：累的",
+  "answers": [
+   "tired"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“chore” 的中文意思是：",
+  "options": [
+   "家务活",
+   "农民",
+   "一起",
+   "忙碌的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“家务活” 用英语怎么说？",
+  "options": [
+   "chore",
+   "child",
+   "people",
+   "job"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：家务活",
+  "answers": [
+   "chore"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“cook” 的中文意思是：",
+  "options": [
+   "做饭；厨师",
+   "一起",
+   "人们",
+   "照顾"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“做饭；厨师” 用英语怎么说？",
+  "options": [
+   "cook",
+   "job",
+   "PE",
+   "chore"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：做饭；厨师",
+  "answers": [
+   "cook"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“clean” 的中文意思是：",
+  "options": [
+   "打扫；干净的",
+   "累的",
+   "家务活",
+   "忙碌的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“打扫；干净的” 用英语怎么说？",
+  "options": [
+   "clean",
+   "nurse",
+   "look after",
+   "farmer"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：打扫；干净的",
+  "answers": [
+   "clean"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“room” 的中文意思是：",
+  "options": [
+   "房间",
+   "工作",
+   "体育课",
+   "打扫；干净的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“房间” 用英语怎么说？",
+  "options": [
+   "room",
+   "job",
+   "look after",
+   "factory worker"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：房间",
+  "answers": [
+   "room"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“look after” 的中文意思是：",
+  "options": [
+   "照顾",
+   "工作",
+   "打扫；干净的",
+   "地板"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“照顾” 用英语怎么说？",
+  "options": [
+   "look after",
+   "floor",
+   "chore",
+   "office worker"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：照顾",
+  "answers": [
+   "look after"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“sweep” 的中文意思是：",
+  "options": [
+   "扫",
+   "农民",
+   "地板",
+   "忙碌的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“扫” 用英语怎么说？",
+  "options": [
+   "sweep",
+   "floor",
+   "people",
+   "farmer"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：扫",
+  "answers": [
+   "sweep"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“floor” 的中文意思是：",
+  "options": [
+   "地板",
+   "人们",
+   "上班族；办公室职员",
+   "工作"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“地板” 用英语怎么说？",
+  "options": [
+   "floor",
+   "child",
+   "clean",
+   "nurse"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：地板",
+  "answers": [
+   "floor"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“together” 的中文意思是：",
+  "options": [
+   "一起",
+   "累的",
+   "工厂工人",
+   "体育课"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“一起” 用英语怎么说？",
+  "options": [
+   "together",
+   "job",
+   "chore",
+   "sweep"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：一起",
+  "answers": [
+   "together"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“people” 的中文意思是：",
+  "options": [
+   "人们",
+   "房间",
+   "家务活",
+   "打扫；干净的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“人们” 用英语怎么说？",
+  "options": [
+   "people",
+   "together",
+   "child",
+   "room"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：人们",
+  "answers": [
+   "people"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“child” 的中文意思是：",
+  "options": [
+   "孩子",
+   "医生",
+   "人们",
+   "农民"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "“孩子” 用英语怎么说？",
+  "options": [
+   "child",
+   "doctor",
+   "farmer",
+   "chore"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Helping at home",
+  "q": "写出英文单词（不区分大小写）：孩子",
+  "answers": [
+   "child"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“his” 的中文意思是：",
+  "options": [
+   "他的",
+   "强壮的",
+   "游戏",
+   "友好的；善良的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“他的” 用英语怎么说？",
+  "options": [
+   "his",
+   "always",
+   "football",
+   "read"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：他的",
+  "answers": [
+   "his"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“strong” 的中文意思是：",
+  "options": [
+   "强壮的",
+   "玩；打（球）",
+   "最好的",
+   "总是"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“强壮的” 用英语怎么说？",
+  "options": [
+   "strong",
+   "hair",
+   "kind",
+   "play"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：强壮的",
+  "answers": [
+   "strong"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“hair” 的中文意思是：",
+  "options": [
+   "头发",
+   "总是",
+   "友好的；善良的",
+   "安静的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“头发” 用英语怎么说？",
+  "options": [
+   "hair",
+   "quiet",
+   "best",
+   "his"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：头发",
+  "answers": [
+   "hair"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“kind” 的中文意思是：",
+  "options": [
+   "友好的；善良的",
+   "安静的",
+   "头发",
+   "语文；中文"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“友好的；善良的” 用英语怎么说？",
+  "options": [
+   "kind",
+   "Chinese",
+   "football",
+   "read"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：友好的；善良的",
+  "answers": [
+   "kind"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“quiet” 的中文意思是：",
+  "options": [
+   "安静的",
+   "最好的",
+   "强壮的",
+   "玩；打（球）"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“安静的” 用英语怎么说？",
+  "options": [
+   "quiet",
+   "game",
+   "play",
+   "hair"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：安静的",
+  "answers": [
+   "quiet"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“best” 的中文意思是：",
+  "options": [
+   "最好的",
+   "头发",
+   "友好的；善良的",
+   "总是"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“最好的” 用英语怎么说？",
+  "options": [
+   "best",
+   "basketball",
+   "strong",
+   "quiet"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：最好的",
+  "answers": [
+   "best"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“read” 的中文意思是：",
+  "options": [
+   "读；阅读",
+   "玩；打（球）",
+   "强壮的",
+   "头发"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“读；阅读” 用英语怎么说？",
+  "options": [
+   "read",
+   "kind",
+   "play",
+   "always"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：读；阅读",
+  "answers": [
+   "read"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“Chinese” 的中文意思是：",
+  "options": [
+   "语文；中文",
+   "玩；打（球）",
+   "最好的",
+   "安静的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“语文；中文” 用英语怎么说？",
+  "options": [
+   "Chinese",
+   "always",
+   "his",
+   "strong"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：语文；中文",
+  "answers": [
+   "Chinese"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“play” 的中文意思是：",
+  "options": [
+   "玩；打（球）",
+   "安静的",
+   "游戏",
+   "读；阅读"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“玩；打（球）” 用英语怎么说？",
+  "options": [
+   "play",
+   "best",
+   "read",
+   "kind"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：玩；打（球）",
+  "answers": [
+   "play"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“game” 的中文意思是：",
+  "options": [
+   "游戏",
+   "语文；中文",
+   "读；阅读",
+   "足球"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“游戏” 用英语怎么说？",
+  "options": [
+   "game",
+   "always",
+   "his",
+   "quiet"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：游戏",
+  "answers": [
+   "game"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“football” 的中文意思是：",
+  "options": [
+   "足球",
+   "头发",
+   "安静的",
+   "游戏"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“足球” 用英语怎么说？",
+  "options": [
+   "football",
+   "his",
+   "strong",
+   "play"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：足球",
+  "answers": [
+   "football"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“basketball” 的中文意思是：",
+  "options": [
+   "篮球",
+   "语文；中文",
+   "游戏",
+   "安静的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“篮球” 用英语怎么说？",
+  "options": [
+   "basketball",
+   "his",
+   "always",
+   "strong"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：篮球",
+  "answers": [
+   "basketball"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“always” 的中文意思是：",
+  "options": [
+   "总是",
+   "玩；打（球）",
+   "读；阅读",
+   "头发"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "“总是” 用英语怎么说？",
+  "options": [
+   "always",
+   "game",
+   "basketball",
+   "hair"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My friends",
+  "q": "写出英文单词（不区分大小写）：总是",
+  "answers": [
+   "always"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“afternoon” 的中文意思是：",
+  "options": [
+   "下午",
+   "买",
+   "体育运动",
+   "那里"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“下午” 用英语怎么说？",
+  "options": [
+   "afternoon",
+   "library",
+   "there",
+   "playground"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：下午",
+  "answers": [
+   "afternoon"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“there” 的中文意思是：",
+  "options": [
+   "那里",
+   "故事",
+   "社区",
+   "照片"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“那里” 用英语怎么说？",
+  "options": [
+   "there",
+   "park",
+   "buy",
+   "story"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：那里",
+  "answers": [
+   "there"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“playground” 的中文意思是：",
+  "options": [
+   "操场",
+   "那里",
+   "社区",
+   "地方"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“操场” 用英语怎么说？",
+  "options": [
+   "playground",
+   "there",
+   "afternoon",
+   "place"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：操场",
+  "answers": [
+   "playground"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“park” 的中文意思是：",
+  "options": [
+   "公园",
+   "照片",
+   "图书馆",
+   "下午"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“公园” 用英语怎么说？",
+  "options": [
+   "park",
+   "favourite",
+   "there",
+   "place"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：公园",
+  "answers": [
+   "park"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“over” 的中文意思是：",
+  "options": [
+   "在…那边",
+   "买",
+   "最喜欢的",
+   "社区"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“在…那边” 用英语怎么说？",
+  "options": [
+   "over",
+   "story",
+   "hospital",
+   "there"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：在…那边",
+  "answers": [
+   "over"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“hospital” 的中文意思是：",
+  "options": [
+   "医院",
+   "在…那边",
+   "图书馆",
+   "散步；走"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“医院” 用英语怎么说？",
+  "options": [
+   "hospital",
+   "there",
+   "community",
+   "playground"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：医院",
+  "answers": [
+   "hospital"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“shop” 的中文意思是：",
+  "options": [
+   "商店",
+   "图书馆",
+   "公园",
+   "买"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“商店” 用英语怎么说？",
+  "options": [
+   "shop",
+   "story",
+   "toilet",
+   "afternoon"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：商店",
+  "answers": [
+   "shop"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“toilet” 的中文意思是：",
+  "options": [
+   "厕所",
+   "公园",
+   "下午",
+   "公交车站"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“厕所” 用英语怎么说？",
+  "options": [
+   "toilet",
+   "buy",
+   "favourite",
+   "story"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：厕所",
+  "answers": [
+   "toilet"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“bus stop” 的中文意思是：",
+  "options": [
+   "公交车站",
+   "在…那边",
+   "社区",
+   "公园"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“公交车站” 用英语怎么说？",
+  "options": [
+   "bus stop",
+   "walk",
+   "favourite",
+   "park"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：公交车站",
+  "answers": [
+   "bus stop"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“library” 的中文意思是：",
+  "options": [
+   "图书馆",
+   "社区",
+   "商店",
+   "公交车站"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“图书馆” 用英语怎么说？",
+  "options": [
+   "library",
+   "story",
+   "bus stop",
+   "afternoon"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：图书馆",
+  "answers": [
+   "library"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“sport” 的中文意思是：",
+  "options": [
+   "体育运动",
+   "故事",
+   "照片",
+   "图书馆"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“体育运动” 用英语怎么说？",
+  "options": [
+   "sport",
+   "park",
+   "over",
+   "hospital"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：体育运动",
+  "answers": [
+   "sport"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“walk” 的中文意思是：",
+  "options": [
+   "散步；走",
+   "下午",
+   "最喜欢的",
+   "图书馆"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“散步；走” 用英语怎么说？",
+  "options": [
+   "walk",
+   "place",
+   "playground",
+   "library"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：散步；走",
+  "answers": [
+   "walk"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“community” 的中文意思是：",
+  "options": [
+   "社区",
+   "医院",
+   "照片",
+   "图书馆"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“社区” 用英语怎么说？",
+  "options": [
+   "community",
+   "park",
+   "bus stop",
+   "library"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：社区",
+  "answers": [
+   "community"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“favourite” 的中文意思是：",
+  "options": [
+   "最喜欢的",
+   "厕所",
+   "公交车站",
+   "照片"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“最喜欢的” 用英语怎么说？",
+  "options": [
+   "favourite",
+   "sport",
+   "shop",
+   "hospital"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：最喜欢的",
+  "answers": [
+   "favourite"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“place” 的中文意思是：",
+  "options": [
+   "地方",
+   "体育运动",
+   "在…那边",
+   "公园"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“地方” 用英语怎么说？",
+  "options": [
+   "place",
+   "favourite",
+   "walk",
+   "photo"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：地方",
+  "answers": [
+   "place"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“photo” 的中文意思是：",
+  "options": [
+   "照片",
+   "厕所",
+   "医院",
+   "社区"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“照片” 用英语怎么说？",
+  "options": [
+   "photo",
+   "shop",
+   "favourite",
+   "story"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：照片",
+  "answers": [
+   "photo"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“story” 的中文意思是：",
+  "options": [
+   "故事",
+   "散步；走",
+   "公园",
+   "那里"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“故事” 用英语怎么说？",
+  "options": [
+   "story",
+   "library",
+   "sport",
+   "place"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：故事",
+  "answers": [
+   "story"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“buy” 的中文意思是：",
+  "options": [
+   "买",
+   "公园",
+   "那里",
+   "操场"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "“买” 用英语怎么说？",
+  "options": [
+   "buy",
+   "story",
+   "library",
+   "sport"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Places we live in",
+  "q": "写出英文单词（不区分大小写）：买",
+  "answers": [
+   "buy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“firefighter” 的中文意思是：",
+  "options": [
+   "消防员",
+   "快递员",
+   "女士",
+   "为什么"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“消防员” 用英语怎么说？",
+  "options": [
+   "firefighter",
+   "important",
+   "Ms",
+   "driver"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：消防员",
+  "answers": [
+   "firefighter"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“why” 的中文意思是：",
+  "options": [
+   "为什么",
+   "每个人",
+   "快递员",
+   "清洁工"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“为什么” 用英语怎么说？",
+  "options": [
+   "why",
+   "tell",
+   "firefighter",
+   "delivery worker"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：为什么",
+  "answers": [
+   "why"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“driver” 的中文意思是：",
+  "options": [
+   "司机",
+   "铺床",
+   "年老的",
+   "为什么"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“司机” 用英语怎么说？",
+  "options": [
+   "driver",
+   "firefighter",
+   "make the bed",
+   "why"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：司机",
+  "answers": [
+   "driver"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“important” 的中文意思是：",
+  "options": [
+   "重要的",
+   "消防员",
+   "每个人",
+   "为什么"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“重要的” 用英语怎么说？",
+  "options": [
+   "important",
+   "make the bed",
+   "now",
+   "why"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：重要的",
+  "answers": [
+   "important"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“cleaner” 的中文意思是：",
+  "options": [
+   "清洁工",
+   "司机",
+   "铺床",
+   "警察"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“清洁工” 用英语怎么说？",
+  "options": [
+   "cleaner",
+   "tell",
+   "old",
+   "firefighter"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：清洁工",
+  "answers": [
+   "cleaner"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“delivery worker” 的中文意思是：",
+  "options": [
+   "快递员",
+   "重要的",
+   "清洁工",
+   "年老的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“快递员” 用英语怎么说？",
+  "options": [
+   "delivery worker",
+   "cleaner",
+   "firefighter",
+   "make the bed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：快递员",
+  "answers": [
+   "delivery worker"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“police officer” 的中文意思是：",
+  "options": [
+   "警察",
+   "重要的",
+   "司机",
+   "铺床"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“警察” 用英语怎么说？",
+  "options": [
+   "police officer",
+   "a lot of",
+   "delivery worker",
+   "Ms"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：警察",
+  "answers": [
+   "police officer"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“a lot of” 的中文意思是：",
+  "options": [
+   "许多",
+   "快递员",
+   "警察",
+   "铺床"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“许多” 用英语怎么说？",
+  "options": [
+   "a lot of",
+   "old",
+   "firefighter",
+   "make the bed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：许多",
+  "answers": [
+   "a lot of"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“now” 的中文意思是：",
+  "options": [
+   "现在",
+   "司机",
+   "告诉；讲述",
+   "每个人"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“现在” 用英语怎么说？",
+  "options": [
+   "now",
+   "a lot of",
+   "tell",
+   "important"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：现在",
+  "answers": [
+   "now"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“make the bed” 的中文意思是：",
+  "options": [
+   "铺床",
+   "重要的",
+   "许多",
+   "为什么"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“铺床” 用英语怎么说？",
+  "options": [
+   "make the bed",
+   "everyone",
+   "a lot of",
+   "police officer"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：铺床",
+  "answers": [
+   "make the bed"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“old” 的中文意思是：",
+  "options": [
+   "年老的",
+   "司机",
+   "清洁工",
+   "铺床"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“年老的” 用英语怎么说？",
+  "options": [
+   "old",
+   "tell",
+   "police officer",
+   "why"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：年老的",
+  "answers": [
+   "old"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“tell” 的中文意思是：",
+  "options": [
+   "告诉；讲述",
+   "重要的",
+   "消防员",
+   "现在"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“告诉；讲述” 用英语怎么说？",
+  "options": [
+   "tell",
+   "important",
+   "driver",
+   "a lot of"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：告诉；讲述",
+  "answers": [
+   "tell"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“everyone” 的中文意思是：",
+  "options": [
+   "每个人",
+   "为什么",
+   "清洁工",
+   "铺床"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“每个人” 用英语怎么说？",
+  "options": [
+   "everyone",
+   "a lot of",
+   "make the bed",
+   "firefighter"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：每个人",
+  "answers": [
+   "everyone"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“Ms” 的中文意思是：",
+  "options": [
+   "女士",
+   "重要的",
+   "年老的",
+   "铺床"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "“女士” 用英语怎么说？",
+  "options": [
+   "Ms",
+   "tell",
+   "delivery worker",
+   "a lot of"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Helping in the community",
+  "q": "写出英文单词（不区分大小写）：女士",
+  "answers": [
+   "Ms"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“speak” 的中文意思是：",
+  "options": [
+   "说（语言）",
+   "电影",
+   "雪人",
+   "酷的；凉爽的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“说（语言）” 用英语怎么说？",
+  "options": [
+   "speak",
+   "Sydney",
+   "swim",
+   "rain"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：说（语言）",
+  "answers": [
+   "speak"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“weather” 的中文意思是：",
+  "options": [
+   "天气",
+   "说（语言）",
+   "晴朗的",
+   "下雨；雨"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“天气” 用英语怎么说？",
+  "options": [
+   "weather",
+   "kite",
+   "idea",
+   "rain"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：天气",
+  "answers": [
+   "weather"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“sunny” 的中文意思是：",
+  "options": [
+   "晴朗的",
+   "电影",
+   "冷的",
+   "关着的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“晴朗的” 用英语怎么说？",
+  "options": [
+   "sunny",
+   "film",
+   "windy",
+   "bad"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：晴朗的",
+  "answers": [
+   "sunny"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“hot” 的中文意思是：",
+  "options": [
+   "热的",
+   "悉尼",
+   "温暖的",
+   "晴朗的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“热的” 用英语怎么说？",
+  "options": [
+   "hot",
+   "swim",
+   "kite",
+   "speak"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：热的",
+  "answers": [
+   "hot"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“bad” 的中文意思是：",
+  "options": [
+   "坏的；糟糕的",
+   "下雪的",
+   "多云的",
+   "明天"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“坏的；糟糕的” 用英语怎么说？",
+  "options": [
+   "bad",
+   "rainy",
+   "warm",
+   "cloudy"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：坏的；糟糕的",
+  "answers": [
+   "bad"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“cold” 的中文意思是：",
+  "options": [
+   "冷的",
+   "热的",
+   "雪人",
+   "主意"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“冷的” 用英语怎么说？",
+  "options": [
+   "cold",
+   "windy",
+   "closed",
+   "weather"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：冷的",
+  "answers": [
+   "cold"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“windy” 的中文意思是：",
+  "options": [
+   "刮风的",
+   "下雨的",
+   "主意",
+   "多云的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“刮风的” 用英语怎么说？",
+  "options": [
+   "windy",
+   "their",
+   "fun",
+   "swim"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：刮风的",
+  "answers": [
+   "windy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“cloudy” 的中文意思是：",
+  "options": [
+   "多云的",
+   "坏的；糟糕的",
+   "雪人",
+   "天气"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“多云的” 用英语怎么说？",
+  "options": [
+   "cloudy",
+   "rainy",
+   "warm",
+   "cold"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：多云的",
+  "answers": [
+   "cloudy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“rainy” 的中文意思是：",
+  "options": [
+   "下雨的",
+   "坏的；糟糕的",
+   "电影",
+   "雪人"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“下雨的” 用英语怎么说？",
+  "options": [
+   "rainy",
+   "sunny",
+   "snowy",
+   "windy"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：下雨的",
+  "answers": [
+   "rainy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“snowy” 的中文意思是：",
+  "options": [
+   "下雪的",
+   "天气",
+   "酷的；凉爽的",
+   "关着的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“下雪的” 用英语怎么说？",
+  "options": [
+   "snowy",
+   "bad",
+   "rainy",
+   "fly"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：下雪的",
+  "answers": [
+   "snowy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“cool” 的中文意思是：",
+  "options": [
+   "酷的；凉爽的",
+   "冷的",
+   "说（语言）",
+   "游泳"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“酷的；凉爽的” 用英语怎么说？",
+  "options": [
+   "cool",
+   "idea",
+   "rain",
+   "sunny"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：酷的；凉爽的",
+  "answers": [
+   "cool"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“warm” 的中文意思是：",
+  "options": [
+   "温暖的",
+   "刮风的",
+   "下雨；雨",
+   "坏的；糟糕的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“温暖的” 用英语怎么说？",
+  "options": [
+   "warm",
+   "weather",
+   "cold",
+   "closed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：温暖的",
+  "answers": [
+   "warm"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“tomorrow” 的中文意思是：",
+  "options": [
+   "明天",
+   "主意",
+   "下雪的",
+   "刮风的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“明天” 用英语怎么说？",
+  "options": [
+   "tomorrow",
+   "idea",
+   "Sydney",
+   "cloudy"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：明天",
+  "answers": [
+   "tomorrow"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“rain” 的中文意思是：",
+  "options": [
+   "下雨；雨",
+   "酷的；凉爽的",
+   "晴朗的",
+   "天气"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“下雨；雨” 用英语怎么说？",
+  "options": [
+   "rain",
+   "snowman",
+   "speak",
+   "hot"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：下雨；雨",
+  "answers": [
+   "rain"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“closed” 的中文意思是：",
+  "options": [
+   "关着的",
+   "天气",
+   "游泳",
+   "多云的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“关着的” 用英语怎么说？",
+  "options": [
+   "closed",
+   "weather",
+   "rainy",
+   "cold"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：关着的",
+  "answers": [
+   "closed"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“film” 的中文意思是：",
+  "options": [
+   "电影",
+   "热的",
+   "明天",
+   "酷的；凉爽的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“电影” 用英语怎么说？",
+  "options": [
+   "film",
+   "Sydney",
+   "idea",
+   "bad"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：电影",
+  "answers": [
+   "film"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“idea” 的中文意思是：",
+  "options": [
+   "主意",
+   "刮风的",
+   "悉尼",
+   "坏的；糟糕的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“主意” 用英语怎么说？",
+  "options": [
+   "idea",
+   "cool",
+   "Sydney",
+   "closed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：主意",
+  "answers": [
+   "idea"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“fly” 的中文意思是：",
+  "options": [
+   "放（风筝）；飞",
+   "下雪的",
+   "晴朗的",
+   "刮风的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“放（风筝）；飞” 用英语怎么说？",
+  "options": [
+   "fly",
+   "weather",
+   "film",
+   "cold"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：放（风筝）；飞",
+  "answers": [
+   "fly"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“kite” 的中文意思是：",
+  "options": [
+   "风筝",
+   "下雨；雨",
+   "悉尼",
+   "热的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“风筝” 用英语怎么说？",
+  "options": [
+   "kite",
+   "film",
+   "swim",
+   "closed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：风筝",
+  "answers": [
+   "kite"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“snowman” 的中文意思是：",
+  "options": [
+   "雪人",
+   "坏的；糟糕的",
+   "风筝",
+   "游泳"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“雪人” 用英语怎么说？",
+  "options": [
+   "snowman",
+   "speak",
+   "closed",
+   "tomorrow"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：雪人",
+  "answers": [
+   "snowman"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“fun” 的中文意思是：",
+  "options": [
+   "乐趣",
+   "冷的",
+   "酷的；凉爽的",
+   "明天"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“乐趣” 用英语怎么说？",
+  "options": [
+   "fun",
+   "sunny",
+   "cold",
+   "rainy"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：乐趣",
+  "answers": [
+   "fun"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“their” 的中文意思是：",
+  "options": [
+   "他们的",
+   "雪人",
+   "下雨的",
+   "关着的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“他们的” 用英语怎么说？",
+  "options": [
+   "their",
+   "warm",
+   "weather",
+   "snowman"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：他们的",
+  "answers": [
+   "their"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“swim” 的中文意思是：",
+  "options": [
+   "游泳",
+   "刮风的",
+   "晴朗的",
+   "坏的；糟糕的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“游泳” 用英语怎么说？",
+  "options": [
+   "swim",
+   "rainy",
+   "sunny",
+   "cool"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：游泳",
+  "answers": [
+   "swim"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“Sydney” 的中文意思是：",
+  "options": [
+   "悉尼",
+   "说（语言）",
+   "天气",
+   "晴朗的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "“悉尼” 用英语怎么说？",
+  "options": [
+   "Sydney",
+   "hot",
+   "fly",
+   "rain"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 The weather and us",
+  "q": "写出英文单词（不区分大小写）：悉尼",
+  "answers": [
+   "Sydney"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“whose” 的中文意思是：",
+  "options": [
+   "谁的",
+   "然后；那时",
+   "聚会",
+   "手套"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“谁的” 用英语怎么说？",
+  "options": [
+   "whose",
+   "season",
+   "dress",
+   "sock"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：谁的",
+  "answers": [
+   "whose"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“sweater” 的中文意思是：",
+  "options": [
+   "毛衣",
+   "连衣裙",
+   "哪一个",
+   "叶子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“毛衣” 用英语怎么说？",
+  "options": [
+   "sweater",
+   "shirt",
+   "fall",
+   "whose"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：毛衣",
+  "answers": [
+   "sweater"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“sock” 的中文意思是：",
+  "options": [
+   "袜子",
+   "叶子",
+   "毛衣",
+   "外套"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“袜子” 用英语怎么说？",
+  "options": [
+   "sock",
+   "summer",
+   "snow",
+   "then"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：袜子",
+  "answers": [
+   "sock"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“mine” 的中文意思是：",
+  "options": [
+   "我的",
+   "衬衫",
+   "秋天",
+   "穿；戴"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“我的” 用英语怎么说？",
+  "options": [
+   "mine",
+   "season",
+   "dress",
+   "winter"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：我的",
+  "answers": [
+   "mine"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“wear” 的中文意思是：",
+  "options": [
+   "穿；戴",
+   "然后；那时",
+   "季节",
+   "冬天"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“穿；戴” 用英语怎么说？",
+  "options": [
+   "wear",
+   "dress",
+   "spring",
+   "winter"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：穿；戴",
+  "answers": [
+   "wear"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“shirt” 的中文意思是：",
+  "options": [
+   "衬衫",
+   "谁的",
+   "毛衣",
+   "落下"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“衬衫” 用英语怎么说？",
+  "options": [
+   "shirt",
+   "which",
+   "coat",
+   "winter"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：衬衫",
+  "answers": [
+   "shirt"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“coat” 的中文意思是：",
+  "options": [
+   "外套",
+   "衬衫",
+   "叶子",
+   "夏天"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“外套” 用英语怎么说？",
+  "options": [
+   "coat",
+   "glove",
+   "wear",
+   "spring"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：外套",
+  "answers": [
+   "coat"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“dress” 的中文意思是：",
+  "options": [
+   "连衣裙",
+   "哪一个",
+   "然后；那时",
+   "叶子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“连衣裙” 用英语怎么说？",
+  "options": [
+   "dress",
+   "leaf",
+   "shirt",
+   "summer"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：连衣裙",
+  "answers": [
+   "dress"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“which” 的中文意思是：",
+  "options": [
+   "哪一个",
+   "春天",
+   "穿；戴",
+   "我的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“哪一个” 用英语怎么说？",
+  "options": [
+   "which",
+   "mine",
+   "summer",
+   "whose"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：哪一个",
+  "answers": [
+   "which"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“season” 的中文意思是：",
+  "options": [
+   "季节",
+   "T恤衫",
+   "毛衣",
+   "雪；下雪"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“季节” 用英语怎么说？",
+  "options": [
+   "season",
+   "winter",
+   "then",
+   "fall"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：季节",
+  "answers": [
+   "season"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“winter” 的中文意思是：",
+  "options": [
+   "冬天",
+   "连衣裙",
+   "季节",
+   "袜子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“冬天” 用英语怎么说？",
+  "options": [
+   "winter",
+   "spring",
+   "mine",
+   "glove"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：冬天",
+  "answers": [
+   "winter"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“snow” 的中文意思是：",
+  "options": [
+   "雪；下雪",
+   "穿；戴",
+   "衬衫",
+   "毛衣"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“雪；下雪” 用英语怎么说？",
+  "options": [
+   "snow",
+   "mine",
+   "fall",
+   "dress"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：雪；下雪",
+  "answers": [
+   "snow"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“get together” 的中文意思是：",
+  "options": [
+   "聚会",
+   "落下",
+   "连衣裙",
+   "衬衫"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“聚会” 用英语怎么说？",
+  "options": [
+   "get together",
+   "sock",
+   "wear",
+   "whose"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：聚会",
+  "answers": [
+   "get together"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“spring” 的中文意思是：",
+  "options": [
+   "春天",
+   "毛衣",
+   "然后；那时",
+   "哪一个"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“春天” 用英语怎么说？",
+  "options": [
+   "spring",
+   "whose",
+   "sock",
+   "which"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：春天",
+  "answers": [
+   "spring"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“summer” 的中文意思是：",
+  "options": [
+   "夏天",
+   "穿；戴",
+   "谁的",
+   "春天"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“夏天” 用英语怎么说？",
+  "options": [
+   "summer",
+   "spring",
+   "T-shirt",
+   "fall"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：夏天",
+  "answers": [
+   "summer"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“autumn” 的中文意思是：",
+  "options": [
+   "秋天",
+   "T恤衫",
+   "毛衣",
+   "袜子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“秋天” 用英语怎么说？",
+  "options": [
+   "autumn",
+   "sock",
+   "summer",
+   "get together"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：秋天",
+  "answers": [
+   "autumn"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“T-shirt” 的中文意思是：",
+  "options": [
+   "T恤衫",
+   "冬天",
+   "哪一个",
+   "外套"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“T恤衫” 用英语怎么说？",
+  "options": [
+   "T-shirt",
+   "spring",
+   "mine",
+   "then"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：T恤衫",
+  "answers": [
+   "T-shirt",
+   "T shirt"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“fall” 的中文意思是：",
+  "options": [
+   "落下",
+   "袜子",
+   "T恤衫",
+   "谁的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“落下” 用英语怎么说？",
+  "options": [
+   "fall",
+   "snow",
+   "autumn",
+   "get together"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：落下",
+  "answers": [
+   "fall"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“leaf” 的中文意思是：",
+  "options": [
+   "叶子",
+   "然后；那时",
+   "雪；下雪",
+   "外套"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“叶子” 用英语怎么说？",
+  "options": [
+   "leaf",
+   "summer",
+   "shirt",
+   "mine"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：叶子",
+  "answers": [
+   "leaf"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“glove” 的中文意思是：",
+  "options": [
+   "手套",
+   "然后；那时",
+   "聚会",
+   "外套"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“手套” 用英语怎么说？",
+  "options": [
+   "glove",
+   "coat",
+   "shirt",
+   "which"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：手套",
+  "answers": [
+   "glove"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“then” 的中文意思是：",
+  "options": [
+   "然后；那时",
+   "外套",
+   "连衣裙",
+   "叶子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "“然后；那时” 用英语怎么说？",
+  "options": [
+   "then",
+   "leaf",
+   "sock",
+   "shirt"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "写出英文单词（不区分大小写）：然后；那时",
+  "answers": [
+   "then"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Helping at home",
+  "q": "— What's your mother's job?\n— ______",
+  "options": [
+   "She's a doctor.",
+   "She's tall.",
+   "He's a doctor.",
+   "She can cook."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Helping at home",
+  "q": "Mum and Dad are busy and tired. What can we do for ______?",
+  "options": [
+   "them",
+   "they",
+   "their",
+   "he"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Helping at home",
+  "q": "We can do some ______. I can cook. I can clean the room.",
+  "options": [
+   "chores",
+   "doctors",
+   "floors",
+   "people"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Helping at home",
+  "q": "选出不同类的一项：busy、doctor、farmer、nurse",
+  "options": [
+   "busy",
+   "doctor",
+   "farmer",
+   "nurse"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 My friends",
+  "q": "Look! He's tall and ______.",
+  "options": [
+   "strong",
+   "hair",
+   "read",
+   "game"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 My friends",
+  "q": "— Who's your best friend?\n— ______",
+  "options": [
+   "Chen Jie. She's funny.",
+   "Yes, she is.",
+   "She's in the park.",
+   "I'm fine."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 My friends",
+  "q": "His name ______ Zhang Peng.",
+  "options": [
+   "is",
+   "are",
+   "am",
+   "has"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 My friends",
+  "q": "选出不同类的一项：football、kind、quiet、strong",
+  "options": [
+   "football",
+   "kind",
+   "quiet",
+   "strong"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Places we live in",
+  "q": "There ______ a playground. We often play there.",
+  "options": [
+   "is",
+   "are",
+   "am",
+   "be"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Places we live in",
+  "q": "There ______ many people.",
+  "options": [
+   "are",
+   "is",
+   "am",
+   "has"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Places we live in",
+  "q": "选出不同类的一项：hospital、library、park、walk",
+  "options": [
+   "walk",
+   "park",
+   "hospital",
+   "library"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Helping in the community",
+  "q": "He's a school bus ______. He takes us to school every day.",
+  "options": [
+   "driver",
+   "cleaner",
+   "nurse",
+   "firefighter"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Helping in the community",
+  "q": "Look! Chen Jie is ______ the bed.",
+  "options": [
+   "making",
+   "make",
+   "makes",
+   "made"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Helping in the community",
+  "q": "Don't cross at a ______ light!",
+  "options": [
+   "red",
+   "green",
+   "blue",
+   "white"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Helping in the community",
+  "q": "选出不同类的一项：cleaner、driver、important、nurse",
+  "options": [
+   "important",
+   "driver",
+   "cleaner",
+   "nurse"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 The weather and us",
+  "q": "— What's the weather like in Sydney?\n— ______",
+  "options": [
+   "It's sunny today.",
+   "It's a coat.",
+   "I'm cold.",
+   "It's 7 o'clock."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 The weather and us",
+  "q": "It's raining now. We ______ play basketball in the park.",
+  "options": [
+   "can't",
+   "can",
+   "are",
+   "do"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 The weather and us",
+  "q": "选出不同类的一项：cloudy、kite、sunny、windy",
+  "options": [
+   "kite",
+   "sunny",
+   "windy",
+   "cloudy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "— Whose socks are these?\n— They're ______.",
+  "options": [
+   "mine",
+   "my",
+   "me",
+   "I"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "— Which season do you like?\n— ______",
+  "options": [
+   "Winter.",
+   "Sweater.",
+   "It's sunny.",
+   "They're mine."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "— ______ sweater is this, Mum?\n— It's your dad's.",
+  "options": [
+   "Whose",
+   "Who",
+   "Which",
+   "What's"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Changing for the seasons",
+  "q": "选出不同类的一项：autumn、coat、spring、summer",
+  "options": [
+   "coat",
+   "spring",
+   "summer",
+   "autumn"
+  ]
+ }
+]

@@ -1,0 +1,4587 @@
+[
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“team” 的中文意思是：",
+  "options": [
+   "队",
+   "年轻的",
+   "可爱的；美丽的",
+   "选手；运动员"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“队” 用英语怎么说？",
+  "options": [
+   "team",
+   "chess",
+   "star",
+   "science"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：队",
+  "answers": [
+   "team"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“player” 的中文意思是：",
+  "options": [
+   "选手；运动员",
+   "可爱的；美丽的",
+   "国际象棋",
+   "他"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“选手；运动员” 用英语怎么说？",
+  "options": [
+   "player",
+   "jump",
+   "lovely",
+   "team"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：选手；运动员",
+  "answers": [
+   "player"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“him” 的中文意思是：",
+  "options": [
+   "他",
+   "科学",
+   "钢琴",
+   "年轻的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“他” 用英语怎么说？",
+  "options": [
+   "him",
+   "easy",
+   "player",
+   "hard-working"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：他",
+  "answers": [
+   "him"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“lovely” 的中文意思是：",
+  "options": [
+   "可爱的；美丽的",
+   "聪明的",
+   "精彩的",
+   "年轻的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“可爱的；美丽的” 用英语怎么说？",
+  "options": [
+   "lovely",
+   "star",
+   "front",
+   "easy"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：可爱的；美丽的",
+  "answers": [
+   "lovely"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“clever” 的中文意思是：",
+  "options": [
+   "聪明的",
+   "机器人",
+   "容易的",
+   "可爱的；美丽的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“聪明的” 用英语怎么说？",
+  "options": [
+   "clever",
+   "star",
+   "player",
+   "easy"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：聪明的",
+  "answers": [
+   "clever"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“young” 的中文意思是：",
+  "options": [
+   "年轻的",
+   "科学",
+   "聪明的",
+   "机器人"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“年轻的” 用英语怎么说？",
+  "options": [
+   "young",
+   "team",
+   "star",
+   "chess"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：年轻的",
+  "answers": [
+   "young"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“hard-working” 的中文意思是：",
+  "options": [
+   "勤奋的",
+   "跳",
+   "国际象棋",
+   "前面"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“勤奋的” 用英语怎么说？",
+  "options": [
+   "hard-working",
+   "team",
+   "Australia",
+   "young"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：勤奋的",
+  "answers": [
+   "hard-working",
+   "hard working"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“science” 的中文意思是：",
+  "options": [
+   "科学",
+   "明星",
+   "选手；运动员",
+   "队"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“科学” 用英语怎么说？",
+  "options": [
+   "science",
+   "robot",
+   "player",
+   "Australia"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：科学",
+  "answers": [
+   "science"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“robot” 的中文意思是：",
+  "options": [
+   "机器人",
+   "国际象棋",
+   "队",
+   "跳"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“机器人” 用英语怎么说？",
+  "options": [
+   "robot",
+   "chess",
+   "clever",
+   "lovely"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：机器人",
+  "answers": [
+   "robot"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“jump” 的中文意思是：",
+  "options": [
+   "跳",
+   "澳大利亚",
+   "容易的",
+   "聪明的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“跳” 用英语怎么说？",
+  "options": [
+   "jump",
+   "star",
+   "Australia",
+   "wonderful"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：跳",
+  "answers": [
+   "jump"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“rope” 的中文意思是：",
+  "options": [
+   "绳子",
+   "勤奋的",
+   "他",
+   "机器人"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“绳子” 用英语怎么说？",
+  "options": [
+   "rope",
+   "wonderful",
+   "jump",
+   "science"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：绳子",
+  "answers": [
+   "rope"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“piano” 的中文意思是：",
+  "options": [
+   "钢琴",
+   "跳",
+   "澳大利亚",
+   "机器人"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“钢琴” 用英语怎么说？",
+  "options": [
+   "piano",
+   "team",
+   "Australia",
+   "front"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：钢琴",
+  "answers": [
+   "piano"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“chess” 的中文意思是：",
+  "options": [
+   "国际象棋",
+   "绳子",
+   "澳大利亚",
+   "可爱的；美丽的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“国际象棋” 用英语怎么说？",
+  "options": [
+   "chess",
+   "Australia",
+   "young",
+   "team"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：国际象棋",
+  "answers": [
+   "chess"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“front” 的中文意思是：",
+  "options": [
+   "前面",
+   "明星",
+   "跳",
+   "钢琴"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“前面” 用英语怎么说？",
+  "options": [
+   "front",
+   "jump",
+   "Australia",
+   "young"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：前面",
+  "answers": [
+   "front"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“easy” 的中文意思是：",
+  "options": [
+   "容易的",
+   "绳子",
+   "队",
+   "明星"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“容易的” 用英语怎么说？",
+  "options": [
+   "easy",
+   "robot",
+   "team",
+   "piano"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：容易的",
+  "answers": [
+   "easy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“star” 的中文意思是：",
+  "options": [
+   "明星",
+   "国际象棋",
+   "澳大利亚",
+   "可爱的；美丽的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“明星” 用英语怎么说？",
+  "options": [
+   "star",
+   "clever",
+   "team",
+   "piano"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：明星",
+  "answers": [
+   "star"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“wonderful” 的中文意思是：",
+  "options": [
+   "精彩的",
+   "可爱的；美丽的",
+   "选手；运动员",
+   "他"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“精彩的” 用英语怎么说？",
+  "options": [
+   "wonderful",
+   "jump",
+   "science",
+   "team"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：精彩的",
+  "answers": [
+   "wonderful"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“Australia” 的中文意思是：",
+  "options": [
+   "澳大利亚",
+   "聪明的",
+   "国际象棋",
+   "勤奋的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "“澳大利亚” 用英语怎么说？",
+  "options": [
+   "Australia",
+   "young",
+   "wonderful",
+   "clever"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 1 Different friends",
+  "q": "写出英文单词（不区分大小写）：澳大利亚",
+  "answers": [
+   "Australia"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“sad” 的中文意思是：",
+  "options": [
+   "难过的",
+   "完成",
+   "中心",
+   "搬家；移动"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“难过的” 用英语怎么说？",
+  "options": [
+   "sad",
+   "yours",
+   "ask",
+   "finish"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：难过的",
+  "answers": [
+   "sad"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“matter” 的中文意思是：",
+  "options": [
+   "事情；问题",
+   "两者都",
+   "难过的",
+   "项目"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“事情；问题” 用英语怎么说？",
+  "options": [
+   "matter",
+   "centre",
+   "angry",
+   "both"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：事情；问题",
+  "answers": [
+   "matter"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“project” 的中文意思是：",
+  "options": [
+   "项目",
+   "搬家；移动",
+   "两者都",
+   "兴奋的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“项目” 用英语怎么说？",
+  "options": [
+   "project",
+   "ask",
+   "afraid",
+   "both"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：项目",
+  "answers": [
+   "project"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“centre” 的中文意思是：",
+  "options": [
+   "中心",
+   "两者都",
+   "父亲或母亲",
+   "害怕的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“中心” 用英语怎么说？",
+  "options": [
+   "centre",
+   "matter",
+   "wrong",
+   "project"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：中心",
+  "answers": [
+   "centre"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“agree” 的中文意思是：",
+  "options": [
+   "同意",
+   "项目",
+   "笑",
+   "问"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“同意” 用英语怎么说？",
+  "options": [
+   "agree",
+   "sad",
+   "project",
+   "excited"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：同意",
+  "answers": [
+   "agree"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“finish” 的中文意思是：",
+  "options": [
+   "完成",
+   "生气的",
+   "搬家；移动",
+   "难过的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“完成” 用英语怎么说？",
+  "options": [
+   "finish",
+   "ask",
+   "excited",
+   "move"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：完成",
+  "answers": [
+   "finish"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“worried” 的中文意思是：",
+  "options": [
+   "担心的",
+   "两者都",
+   "事情；问题",
+   "搬家；移动"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“担心的” 用英语怎么说？",
+  "options": [
+   "worried",
+   "afraid",
+   "sad",
+   "laugh"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：担心的",
+  "answers": [
+   "worried"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“both” 的中文意思是：",
+  "options": [
+   "两者都",
+   "兴奋的",
+   "笑",
+   "父亲或母亲"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“两者都” 用英语怎么说？",
+  "options": [
+   "both",
+   "ask",
+   "yours",
+   "angry"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：两者都",
+  "answers": [
+   "both"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“excited” 的中文意思是：",
+  "options": [
+   "兴奋的",
+   "生气的",
+   "担心的",
+   "错误的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“兴奋的” 用英语怎么说？",
+  "options": [
+   "excited",
+   "finish",
+   "wrong",
+   "parent"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：兴奋的",
+  "answers": [
+   "excited"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“wrong” 的中文意思是：",
+  "options": [
+   "错误的",
+   "害怕的",
+   "同意",
+   "兴奋的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“错误的” 用英语怎么说？",
+  "options": [
+   "wrong",
+   "laugh",
+   "finish",
+   "sad"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：错误的",
+  "answers": [
+   "wrong"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“angry” 的中文意思是：",
+  "options": [
+   "生气的",
+   "事情；问题",
+   "错误的",
+   "兴奋的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“生气的” 用英语怎么说？",
+  "options": [
+   "angry",
+   "parent",
+   "centre",
+   "worried"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：生气的",
+  "answers": [
+   "angry"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“afraid” 的中文意思是：",
+  "options": [
+   "害怕的",
+   "两者都",
+   "你的",
+   "同意"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“害怕的” 用英语怎么说？",
+  "options": [
+   "afraid",
+   "ask",
+   "move",
+   "both"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：害怕的",
+  "answers": [
+   "afraid"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“parent” 的中文意思是：",
+  "options": [
+   "父亲或母亲",
+   "担心的",
+   "搬家；移动",
+   "同意"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“父亲或母亲” 用英语怎么说？",
+  "options": [
+   "parent",
+   "excited",
+   "laugh",
+   "ask"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：父亲或母亲",
+  "answers": [
+   "parent"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“ask” 的中文意思是：",
+  "options": [
+   "问",
+   "你的",
+   "项目",
+   "难过的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“问” 用英语怎么说？",
+  "options": [
+   "ask",
+   "centre",
+   "both",
+   "excited"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：问",
+  "answers": [
+   "ask"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“laugh” 的中文意思是：",
+  "options": [
+   "笑",
+   "害怕的",
+   "中心",
+   "同意"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“笑” 用英语怎么说？",
+  "options": [
+   "laugh",
+   "finish",
+   "matter",
+   "worried"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：笑",
+  "answers": [
+   "laugh"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“move” 的中文意思是：",
+  "options": [
+   "搬家；移动",
+   "同意",
+   "问",
+   "两者都"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“搬家；移动” 用英语怎么说？",
+  "options": [
+   "move",
+   "laugh",
+   "agree",
+   "excited"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：搬家；移动",
+  "answers": [
+   "move"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“yours” 的中文意思是：",
+  "options": [
+   "你的",
+   "害怕的",
+   "父亲或母亲",
+   "笑"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "“你的” 用英语怎么说？",
+  "options": [
+   "yours",
+   "excited",
+   "move",
+   "both"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 2 My feelings",
+  "q": "写出英文单词（不区分大小写）：你的",
+  "answers": [
+   "yours"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“Wednesday” 的中文意思是：",
+  "options": [
+   "星期三",
+   "科目",
+   "看望；参观",
+   "有时"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“星期三” 用英语怎么说？",
+  "options": [
+   "Wednesday",
+   "Tuesday",
+   "ping-pong",
+   "evening"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：星期三",
+  "answers": [
+   "Wednesday"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“subject” 的中文意思是：",
+  "options": [
+   "科目",
+   "通常",
+   "星期五",
+   "星期四"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“科目” 用英语怎么说？",
+  "options": [
+   "subject",
+   "evening",
+   "answer",
+   "Friday"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：科目",
+  "answers": [
+   "subject"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“Tuesday” 的中文意思是：",
+  "options": [
+   "星期二",
+   "晚上",
+   "星期五",
+   "科目"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“星期二” 用英语怎么说？",
+  "options": [
+   "Tuesday",
+   "subject",
+   "Saturday",
+   "Friday"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：星期二",
+  "answers": [
+   "Tuesday"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“Friday” 的中文意思是：",
+  "options": [
+   "星期五",
+   "回答",
+   "星期四",
+   "乒乓球"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“星期五” 用英语怎么说？",
+  "options": [
+   "Friday",
+   "usually",
+   "answer",
+   "lesson"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：星期五",
+  "answers": [
+   "Friday"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“because” 的中文意思是：",
+  "options": [
+   "因为",
+   "通常",
+   "星期二",
+   "夜晚"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“因为” 用英语怎么说？",
+  "options": [
+   "because",
+   "Friday",
+   "start",
+   "weekend"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：因为",
+  "answers": [
+   "because"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“Monday” 的中文意思是：",
+  "options": [
+   "星期一",
+   "星期六",
+   "课",
+   "夜晚"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“星期一” 用英语怎么说？",
+  "options": [
+   "Monday",
+   "Saturday",
+   "ping-pong",
+   "answer"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：星期一",
+  "answers": [
+   "Monday"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“Thursday” 的中文意思是：",
+  "options": [
+   "星期四",
+   "星期一",
+   "回答",
+   "课"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“星期四” 用英语怎么说？",
+  "options": [
+   "Thursday",
+   "visit",
+   "ping-pong",
+   "Monday"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：星期四",
+  "answers": [
+   "Thursday"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“start” 的中文意思是：",
+  "options": [
+   "开始",
+   "星期日",
+   "夜晚",
+   "星期六"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“开始” 用英语怎么说？",
+  "options": [
+   "start",
+   "Saturday",
+   "Tuesday",
+   "Thursday"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：开始",
+  "answers": [
+   "start"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“usually” 的中文意思是：",
+  "options": [
+   "通常",
+   "星期一",
+   "夜晚",
+   "星期四"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“通常” 用英语怎么说？",
+  "options": [
+   "usually",
+   "start",
+   "because",
+   "subject"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：通常",
+  "answers": [
+   "usually"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“weekend” 的中文意思是：",
+  "options": [
+   "周末",
+   "乒乓球",
+   "星期日",
+   "回答"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“周末” 用英语怎么说？",
+  "options": [
+   "weekend",
+   "Thursday",
+   "Wednesday",
+   "start"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：周末",
+  "answers": [
+   "weekend"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“sometimes” 的中文意思是：",
+  "options": [
+   "有时",
+   "晚上",
+   "祖父母；外祖父母",
+   "星期一"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“有时” 用英语怎么说？",
+  "options": [
+   "sometimes",
+   "Wednesday",
+   "Saturday",
+   "Friday"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：有时",
+  "answers": [
+   "sometimes"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“Saturday” 的中文意思是：",
+  "options": [
+   "星期六",
+   "星期一",
+   "乒乓球",
+   "星期日"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“星期六” 用英语怎么说？",
+  "options": [
+   "Saturday",
+   "lesson",
+   "Monday",
+   "Tuesday"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：星期六",
+  "answers": [
+   "Saturday"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“Sunday” 的中文意思是：",
+  "options": [
+   "星期日",
+   "看望；参观",
+   "星期五",
+   "周末"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“星期日” 用英语怎么说？",
+  "options": [
+   "Sunday",
+   "lesson",
+   "visit",
+   "because"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：星期日",
+  "answers": [
+   "Sunday"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“lesson” 的中文意思是：",
+  "options": [
+   "课",
+   "祖父母；外祖父母",
+   "有时",
+   "夜晚"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“课” 用英语怎么说？",
+  "options": [
+   "lesson",
+   "Tuesday",
+   "Friday",
+   "grandparent"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：课",
+  "answers": [
+   "lesson"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“evening” 的中文意思是：",
+  "options": [
+   "晚上",
+   "看望；参观",
+   "星期一",
+   "星期二"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“晚上” 用英语怎么说？",
+  "options": [
+   "evening",
+   "sometimes",
+   "start",
+   "subject"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：晚上",
+  "answers": [
+   "evening"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“answer” 的中文意思是：",
+  "options": [
+   "回答",
+   "周末",
+   "星期六",
+   "星期四"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“回答” 用英语怎么说？",
+  "options": [
+   "answer",
+   "Friday",
+   "lesson",
+   "visit"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：回答",
+  "answers": [
+   "answer"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“ping-pong” 的中文意思是：",
+  "options": [
+   "乒乓球",
+   "通常",
+   "因为",
+   "周末"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“乒乓球” 用英语怎么说？",
+  "options": [
+   "ping-pong",
+   "answer",
+   "night",
+   "visit"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：乒乓球",
+  "answers": [
+   "ping-pong",
+   "ping pong"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“night” 的中文意思是：",
+  "options": [
+   "夜晚",
+   "回答",
+   "科目",
+   "星期五"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“夜晚” 用英语怎么说？",
+  "options": [
+   "night",
+   "sometimes",
+   "Saturday",
+   "lesson"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：夜晚",
+  "answers": [
+   "night"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“visit” 的中文意思是：",
+  "options": [
+   "看望；参观",
+   "晚上",
+   "有时",
+   "祖父母；外祖父母"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“看望；参观” 用英语怎么说？",
+  "options": [
+   "visit",
+   "Sunday",
+   "evening",
+   "usually"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：看望；参观",
+  "answers": [
+   "visit"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“grandparent” 的中文意思是：",
+  "options": [
+   "祖父母；外祖父母",
+   "科目",
+   "回答",
+   "有时"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "“祖父母；外祖父母” 用英语怎么说？",
+  "options": [
+   "grandparent",
+   "ping-pong",
+   "because",
+   "Wednesday"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 3 Work and play",
+  "q": "写出英文单词（不区分大小写）：祖父母；外祖父母",
+  "answers": [
+   "grandparent"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“stay” 的中文意思是：",
+  "options": [
+   "待着；保持",
+   "别的；其他的",
+   "休息",
+   "检查；查看"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“待着；保持” 用英语怎么说？",
+  "options": [
+   "stay",
+   "tooth",
+   "twice",
+   "then"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：待着；保持",
+  "answers": [
+   "stay"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“should” 的中文意思是：",
+  "options": [
+   "应该",
+   "检查；查看",
+   "如果",
+   "房子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“应该” 用英语怎么说？",
+  "options": [
+   "should",
+   "free",
+   "less",
+   "exercise"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：应该",
+  "answers": [
+   "should"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“flu” 的中文意思是：",
+  "options": [
+   "流感",
+   "刷",
+   "检查；查看",
+   "休息"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“流感” 用英语怎么说？",
+  "options": [
+   "flu",
+   "house",
+   "enough",
+   "twice"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：流感",
+  "answers": [
+   "flu"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“else” 的中文意思是：",
+  "options": [
+   "别的；其他的",
+   "足够的",
+   "待着；保持",
+   "流感"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“别的；其他的” 用英语怎么说？",
+  "options": [
+   "else",
+   "phone",
+   "brush",
+   "should"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：别的；其他的",
+  "answers": [
+   "else"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“exercise” 的中文意思是：",
+  "options": [
+   "锻炼",
+   "习惯",
+   "照顾",
+   "休息"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“锻炼” 用英语怎么说？",
+  "options": [
+   "exercise",
+   "enough",
+   "tooth",
+   "brush"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：锻炼",
+  "answers": [
+   "exercise"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“enough” 的中文意思是：",
+  "options": [
+   "足够的",
+   "更少的",
+   "小时",
+   "应该"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“足够的” 用英语怎么说？",
+  "options": [
+   "enough",
+   "exercise",
+   "stay",
+   "show"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：足够的",
+  "answers": [
+   "enough"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“if” 的中文意思是：",
+  "options": [
+   "如果",
+   "刷",
+   "检查；查看",
+   "足够的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“如果” 用英语怎么说？",
+  "options": [
+   "if",
+   "rest",
+   "check",
+   "free"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：如果",
+  "answers": [
+   "if"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“habit” 的中文意思是：",
+  "options": [
+   "习惯",
+   "刷",
+   "节目",
+   "如果"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“习惯” 用英语怎么说？",
+  "options": [
+   "habit",
+   "if",
+   "twice",
+   "exercise"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：习惯",
+  "answers": [
+   "habit"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“house” 的中文意思是：",
+  "options": [
+   "房子",
+   "足够的",
+   "两次",
+   "空闲的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“房子” 用英语怎么说？",
+  "options": [
+   "house",
+   "hour",
+   "less",
+   "stay"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：房子",
+  "answers": [
+   "house"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“show” 的中文意思是：",
+  "options": [
+   "节目",
+   "那么",
+   "锻炼",
+   "休息"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“节目” 用英语怎么说？",
+  "options": [
+   "show",
+   "less",
+   "flu",
+   "brush"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：节目",
+  "answers": [
+   "show"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“phone” 的中文意思是：",
+  "options": [
+   "电话",
+   "那么",
+   "流感",
+   "锻炼"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“电话” 用英语怎么说？",
+  "options": [
+   "phone",
+   "take care of",
+   "habit",
+   "less"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：电话",
+  "answers": [
+   "phone"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“then” 的中文意思是：",
+  "options": [
+   "那么",
+   "足够的",
+   "别的；其他的",
+   "两次"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“那么” 用英语怎么说？",
+  "options": [
+   "then",
+   "phone",
+   "flu",
+   "take care of"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：那么",
+  "answers": [
+   "then"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“rest” 的中文意思是：",
+  "options": [
+   "休息",
+   "如果",
+   "那么",
+   "牙齿"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“休息” 用英语怎么说？",
+  "options": [
+   "rest",
+   "free",
+   "then",
+   "phone"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：休息",
+  "answers": [
+   "rest"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“take care of” 的中文意思是：",
+  "options": [
+   "照顾",
+   "足够的",
+   "别的；其他的",
+   "待着；保持"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“照顾” 用英语怎么说？",
+  "options": [
+   "take care of",
+   "flu",
+   "twice",
+   "tooth"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：照顾",
+  "answers": [
+   "take care of"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“check” 的中文意思是：",
+  "options": [
+   "检查；查看",
+   "习惯",
+   "电话",
+   "更少的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“检查；查看” 用英语怎么说？",
+  "options": [
+   "check",
+   "tooth",
+   "exercise",
+   "stay"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：检查；查看",
+  "answers": [
+   "check"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“less” 的中文意思是：",
+  "options": [
+   "更少的",
+   "牙齿",
+   "检查；查看",
+   "锻炼"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“更少的” 用英语怎么说？",
+  "options": [
+   "less",
+   "enough",
+   "house",
+   "brush"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：更少的",
+  "answers": [
+   "less"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“brush” 的中文意思是：",
+  "options": [
+   "刷",
+   "足够的",
+   "应该",
+   "节目"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“刷” 用英语怎么说？",
+  "options": [
+   "brush",
+   "less",
+   "enough",
+   "check"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：刷",
+  "answers": [
+   "brush"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“tooth” 的中文意思是：",
+  "options": [
+   "牙齿",
+   "如果",
+   "休息",
+   "电话"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“牙齿” 用英语怎么说？",
+  "options": [
+   "tooth",
+   "free",
+   "twice",
+   "show"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：牙齿",
+  "answers": [
+   "tooth"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“twice” 的中文意思是：",
+  "options": [
+   "两次",
+   "休息",
+   "更少的",
+   "别的；其他的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“两次” 用英语怎么说？",
+  "options": [
+   "twice",
+   "hour",
+   "stay",
+   "else"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：两次",
+  "answers": [
+   "twice"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“hour” 的中文意思是：",
+  "options": [
+   "小时",
+   "那么",
+   "如果",
+   "节目"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“小时” 用英语怎么说？",
+  "options": [
+   "hour",
+   "twice",
+   "tooth",
+   "free"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：小时",
+  "answers": [
+   "hour"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“free” 的中文意思是：",
+  "options": [
+   "空闲的",
+   "刷",
+   "别的；其他的",
+   "节目"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "“空闲的” 用英语怎么说？",
+  "options": [
+   "free",
+   "less",
+   "habit",
+   "house"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 4 Healthy habits",
+  "q": "写出英文单词（不区分大小写）：空闲的",
+  "answers": [
+   "free"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“hungry” 的中文意思是：",
+  "options": [
+   "饿的",
+   "汉堡包",
+   "有趣的",
+   "不同的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“饿的” 用英语怎么说？",
+  "options": [
+   "hungry",
+   "Mrs",
+   "stem",
+   "tea"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：饿的",
+  "answers": [
+   "hungry"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“beef” 的中文意思是：",
+  "options": [
+   "牛肉",
+   "汉堡包",
+   "莲花",
+   "拔出"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“牛肉” 用英语怎么说？",
+  "options": [
+   "beef",
+   "dumpling",
+   "Mrs",
+   "root"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：牛肉",
+  "answers": [
+   "beef"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“ice cream” 的中文意思是：",
+  "options": [
+   "冰淇淋",
+   "太太",
+   "根",
+   "方法；方式"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“冰淇淋” 用英语怎么说？",
+  "options": [
+   "ice cream",
+   "interesting",
+   "dumpling",
+   "stem"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：冰淇淋",
+  "answers": [
+   "ice cream"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“little” 的中文意思是：",
+  "options": [
+   "一点；少许",
+   "冰淇淋",
+   "莲花",
+   "牛肉"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“一点；少许” 用英语怎么说？",
+  "options": [
+   "little",
+   "stem",
+   "interesting",
+   "world"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：一点；少许",
+  "answers": [
+   "little"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“dumpling” 的中文意思是：",
+  "options": [
+   "饺子",
+   "冰淇淋",
+   "饿的",
+   "牛肉"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“饺子” 用英语怎么说？",
+  "options": [
+   "dumpling",
+   "world",
+   "hungry",
+   "beef"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：饺子",
+  "answers": [
+   "dumpling"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“tea” 的中文意思是：",
+  "options": [
+   "茶",
+   "饿的",
+   "莲花",
+   "饺子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“茶” 用英语怎么说？",
+  "options": [
+   "tea",
+   "ice cream",
+   "dumpling",
+   "lotus"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：茶",
+  "answers": [
+   "tea"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“hamburger” 的中文意思是：",
+  "options": [
+   "汉堡包",
+   "圆的",
+   "世界",
+   "湖"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“汉堡包” 用英语怎么说？",
+  "options": [
+   "hamburger",
+   "dumpling",
+   "little",
+   "world"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：汉堡包",
+  "answers": [
+   "hamburger"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“Mrs” 的中文意思是：",
+  "options": [
+   "太太",
+   "有趣的",
+   "拔出",
+   "饿的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“太太” 用英语怎么说？",
+  "options": [
+   "Mrs",
+   "hungry",
+   "world",
+   "round"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：太太",
+  "answers": [
+   "Mrs"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“coconut” 的中文意思是：",
+  "options": [
+   "椰子",
+   "茶",
+   "圆的",
+   "一点；少许"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“椰子” 用英语怎么说？",
+  "options": [
+   "coconut",
+   "pull",
+   "way",
+   "world"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：椰子",
+  "answers": [
+   "coconut"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“interesting” 的中文意思是：",
+  "options": [
+   "有趣的",
+   "椰子",
+   "茶",
+   "圆的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“有趣的” 用英语怎么说？",
+  "options": [
+   "interesting",
+   "different",
+   "lake",
+   "pull"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：有趣的",
+  "answers": [
+   "interesting"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“seed” 的中文意思是：",
+  "options": [
+   "种子",
+   "茎",
+   "有趣的",
+   "冰淇淋"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“种子” 用英语怎么说？",
+  "options": [
+   "seed",
+   "way",
+   "different",
+   "interesting"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：种子",
+  "answers": [
+   "seed"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“pull” 的中文意思是：",
+  "options": [
+   "拔出",
+   "茶",
+   "一点；少许",
+   "汉堡包"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“拔出” 用英语怎么说？",
+  "options": [
+   "pull",
+   "lake",
+   "coconut",
+   "beef"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：拔出",
+  "answers": [
+   "pull"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“stem” 的中文意思是：",
+  "options": [
+   "茎",
+   "拔出",
+   "牛肉",
+   "椰子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“茎” 用英语怎么说？",
+  "options": [
+   "stem",
+   "root",
+   "different",
+   "ice cream"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：茎",
+  "answers": [
+   "stem"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“root” 的中文意思是：",
+  "options": [
+   "根",
+   "圆的",
+   "莲花",
+   "种子"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“根” 用英语怎么说？",
+  "options": [
+   "root",
+   "way",
+   "lake",
+   "different"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：根",
+  "answers": [
+   "root"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“lotus” 的中文意思是：",
+  "options": [
+   "莲花",
+   "椰子",
+   "饺子",
+   "茶"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“莲花” 用英语怎么说？",
+  "options": [
+   "lotus",
+   "hungry",
+   "ice cream",
+   "seed"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：莲花",
+  "answers": [
+   "lotus"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“lake” 的中文意思是：",
+  "options": [
+   "湖",
+   "种子",
+   "有趣的",
+   "茎"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“湖” 用英语怎么说？",
+  "options": [
+   "lake",
+   "hamburger",
+   "coconut",
+   "ice cream"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：湖",
+  "answers": [
+   "lake"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“world” 的中文意思是：",
+  "options": [
+   "世界",
+   "方法；方式",
+   "茎",
+   "一点；少许"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“世界” 用英语怎么说？",
+  "options": [
+   "world",
+   "dumpling",
+   "round",
+   "pull"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：世界",
+  "answers": [
+   "world"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“round” 的中文意思是：",
+  "options": [
+   "圆的",
+   "根",
+   "茎",
+   "饿的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“圆的” 用英语怎么说？",
+  "options": [
+   "round",
+   "ice cream",
+   "stem",
+   "way"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：圆的",
+  "answers": [
+   "round"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“different” 的中文意思是：",
+  "options": [
+   "不同的",
+   "拔出",
+   "圆的",
+   "冰淇淋"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“不同的” 用英语怎么说？",
+  "options": [
+   "different",
+   "world",
+   "seed",
+   "lake"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：不同的",
+  "answers": [
+   "different"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“way” 的中文意思是：",
+  "options": [
+   "方法；方式",
+   "莲花",
+   "一点；少许",
+   "根"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "“方法；方式” 用英语怎么说？",
+  "options": [
+   "way",
+   "lotus",
+   "seed",
+   "dumpling"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 5 Food we eat",
+  "q": "写出英文单词（不区分大小写）：方法；方式",
+  "answers": [
+   "way"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“river” 的中文意思是：",
+  "options": [
+   "河",
+   "旅馆",
+   "关闭",
+   "担心"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“河” 用英语怎么说？",
+  "options": [
+   "river",
+   "hotel",
+   "fine",
+   "close"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：河",
+  "answers": [
+   "river"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“nature” 的中文意思是：",
+  "options": [
+   "大自然",
+   "风",
+   "瀑布",
+   "危险的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“大自然” 用英语怎么说？",
+  "options": [
+   "nature",
+   "trip",
+   "raincoat",
+   "river"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：大自然",
+  "answers": [
+   "nature"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“waterfall” 的中文意思是：",
+  "options": [
+   "瀑布",
+   "大的；严重的",
+   "带来",
+   "火；火灾"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“瀑布” 用英语怎么说？",
+  "options": [
+   "waterfall",
+   "raincoat",
+   "flood",
+   "go hiking"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：瀑布",
+  "answers": [
+   "waterfall"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“forest” 的中文意思是：",
+  "options": [
+   "森林",
+   "带来",
+   "雨衣",
+   "高山"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“森林” 用英语怎么说？",
+  "options": [
+   "forest",
+   "river",
+   "heavy",
+   "nature"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：森林",
+  "answers": [
+   "forest"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“famous” 的中文意思是：",
+  "options": [
+   "著名的",
+   "旅馆",
+   "危险的",
+   "风"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“著名的” 用英语怎么说？",
+  "options": [
+   "famous",
+   "mountain",
+   "waterfall",
+   "fog"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：著名的",
+  "answers": [
+   "famous"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“mountain” 的中文意思是：",
+  "options": [
+   "高山",
+   "晴朗的",
+   "知道",
+   "雨伞"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“高山” 用英语怎么说？",
+  "options": [
+   "mountain",
+   "worry",
+   "trip",
+   "raincoat"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：高山",
+  "answers": [
+   "mountain"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“wind” 的中文意思是：",
+  "options": [
+   "风",
+   "旅行",
+   "瀑布",
+   "雨伞"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“风” 用英语怎么说？",
+  "options": [
+   "wind",
+   "worry",
+   "go hiking",
+   "dangerous"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：风",
+  "answers": [
+   "wind"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“trip” 的中文意思是：",
+  "options": [
+   "旅行",
+   "大自然",
+   "带来",
+   "著名的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“旅行” 用英语怎么说？",
+  "options": [
+   "trip",
+   "bring",
+   "waterfall",
+   "worry"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：旅行",
+  "answers": [
+   "trip"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“dangerous” 的中文意思是：",
+  "options": [
+   "危险的",
+   "火；火灾",
+   "高山",
+   "大的；严重的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“危险的” 用英语怎么说？",
+  "options": [
+   "dangerous",
+   "flood",
+   "heavy",
+   "nature"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：危险的",
+  "answers": [
+   "dangerous"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“heavy” 的中文意思是：",
+  "options": [
+   "大的；严重的",
+   "旅行",
+   "知道",
+   "旅馆"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“大的；严重的” 用英语怎么说？",
+  "options": [
+   "heavy",
+   "dangerous",
+   "know",
+   "umbrella"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：大的；严重的",
+  "answers": [
+   "heavy"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“hotel” 的中文意思是：",
+  "options": [
+   "旅馆",
+   "担心",
+   "河",
+   "大自然"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“旅馆” 用英语怎么说？",
+  "options": [
+   "hotel",
+   "umbrella",
+   "fine",
+   "close"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：旅馆",
+  "answers": [
+   "hotel"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“close” 的中文意思是：",
+  "options": [
+   "关闭",
+   "雨衣",
+   "危险的",
+   "著名的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“关闭” 用英语怎么说？",
+  "options": [
+   "close",
+   "fine",
+   "fog",
+   "trip"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：关闭",
+  "answers": [
+   "close"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“umbrella” 的中文意思是：",
+  "options": [
+   "雨伞",
+   "大自然",
+   "森林",
+   "在…之前"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“雨伞” 用英语怎么说？",
+  "options": [
+   "umbrella",
+   "know",
+   "flood",
+   "before"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：雨伞",
+  "answers": [
+   "umbrella"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“raincoat” 的中文意思是：",
+  "options": [
+   "雨衣",
+   "雨伞",
+   "著名的",
+   "瀑布"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“雨衣” 用英语怎么说？",
+  "options": [
+   "raincoat",
+   "trip",
+   "waterfall",
+   "umbrella"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：雨衣",
+  "answers": [
+   "raincoat"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“worry” 的中文意思是：",
+  "options": [
+   "担心",
+   "带来",
+   "危险的",
+   "风"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“担心” 用英语怎么说？",
+  "options": [
+   "worry",
+   "famous",
+   "river",
+   "know"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：担心",
+  "answers": [
+   "worry"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“fine” 的中文意思是：",
+  "options": [
+   "晴朗的",
+   "著名的",
+   "带来",
+   "大自然"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“晴朗的” 用英语怎么说？",
+  "options": [
+   "fine",
+   "fire",
+   "umbrella",
+   "wind"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：晴朗的",
+  "answers": [
+   "fine"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“fog” 的中文意思是：",
+  "options": [
+   "雾",
+   "带来",
+   "旅馆",
+   "森林"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“雾” 用英语怎么说？",
+  "options": [
+   "fog",
+   "forest",
+   "fine",
+   "dangerous"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：雾",
+  "answers": [
+   "fog"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“flood” 的中文意思是：",
+  "options": [
+   "洪水",
+   "森林",
+   "火；火灾",
+   "旅馆"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“洪水” 用英语怎么说？",
+  "options": [
+   "flood",
+   "heavy",
+   "waterfall",
+   "forest"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：洪水",
+  "answers": [
+   "flood"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“fire” 的中文意思是：",
+  "options": [
+   "火；火灾",
+   "徒步旅行",
+   "在…之前",
+   "晴朗的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“火；火灾” 用英语怎么说？",
+  "options": [
+   "fire",
+   "umbrella",
+   "go hiking",
+   "before"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：火；火灾",
+  "answers": [
+   "fire"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“know” 的中文意思是：",
+  "options": [
+   "知道",
+   "担心",
+   "雨伞",
+   "大的；严重的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“知道” 用英语怎么说？",
+  "options": [
+   "know",
+   "wind",
+   "famous",
+   "close"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：知道",
+  "answers": [
+   "know"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“before” 的中文意思是：",
+  "options": [
+   "在…之前",
+   "高山",
+   "担心",
+   "危险的"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“在…之前” 用英语怎么说？",
+  "options": [
+   "before",
+   "umbrella",
+   "fine",
+   "forest"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：在…之前",
+  "answers": [
+   "before"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“go hiking” 的中文意思是：",
+  "options": [
+   "徒步旅行",
+   "火；火灾",
+   "知道",
+   "旅馆"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“徒步旅行” 用英语怎么说？",
+  "options": [
+   "go hiking",
+   "fire",
+   "forest",
+   "famous"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：徒步旅行",
+  "answers": [
+   "go hiking"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“bring” 的中文意思是：",
+  "options": [
+   "带来",
+   "危险的",
+   "雾",
+   "关闭"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "“带来” 用英语怎么说？",
+  "options": [
+   "bring",
+   "fire",
+   "fine",
+   "worry"
+  ]
+ },
+ {
+  "type": "fill",
+  "subject": "英语",
+  "topic": "单词",
+  "unit": "Unit 6 Nature and us",
+  "q": "写出英文单词（不区分大小写）：带来",
+  "answers": [
+   "bring"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Different friends",
+  "q": "— What's he like?\n— ______",
+  "options": [
+   "He's tall and strong.",
+   "He likes football.",
+   "He's from Australia.",
+   "He's my classmate."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Different friends",
+  "q": "— Can you play the piano?\n— No, I ______. But I can play the erhu.",
+  "options": [
+   "can't",
+   "don't",
+   "am not",
+   "isn't"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Different friends",
+  "q": "I like ______ robots too.",
+  "options": [
+   "making",
+   "make",
+   "makes",
+   "made"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 1 Different friends",
+  "q": "选出不同类的一项：clever、lovely、piano、young",
+  "options": [
+   "piano",
+   "clever",
+   "lovely",
+   "young"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 My feelings",
+  "q": "You look sad. What's the ______?",
+  "options": [
+   "matter",
+   "project",
+   "centre",
+   "wrong"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 My feelings",
+  "q": "We have to finish our project ______ Monday.",
+  "options": [
+   "by",
+   "of",
+   "to",
+   "from"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 My feelings",
+  "q": "It's important to listen ______ each other.",
+  "options": [
+   "to",
+   "at",
+   "for",
+   "of"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 2 My feelings",
+  "q": "选出不同类的一项：angry、parent、sad、worried",
+  "options": [
+   "parent",
+   "sad",
+   "angry",
+   "worried"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Work and play",
+  "q": "— What do you have on Wednesdays?\n— ______",
+  "options": [
+   "I have Chinese, maths, music and PE.",
+   "I often play football.",
+   "It's Wednesday.",
+   "Yes, I do."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Work and play",
+  "q": "— What do you usually do at the weekend?\n— ______",
+  "options": [
+   "I often play football.",
+   "I have maths.",
+   "It's Saturday.",
+   "Yes, I do."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Work and play",
+  "q": "— Does your mother work on both Saturdays and Sundays?\n— Yes, she ______.",
+  "options": [
+   "does",
+   "do",
+   "is",
+   "can"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 3 Work and play",
+  "q": "选出不同类的一项：Friday、lesson、Monday、Sunday",
+  "options": [
+   "lesson",
+   "Monday",
+   "Friday",
+   "Sunday"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Healthy habits",
+  "q": "Mike has a cold today. He ______ have a good rest.（他应该好好休息。）",
+  "options": [
+   "should",
+   "shouldn't",
+   "can't",
+   "isn't"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Healthy habits",
+  "q": "You ______ play on a phone so often.（你不应该经常玩手机。）",
+  "options": [
+   "shouldn't",
+   "should",
+   "can",
+   "are"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 4 Healthy habits",
+  "q": "— We should eat healthy food.\n— Good. And what ______?",
+  "options": [
+   "else",
+   "also",
+   "too",
+   "then"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Food we eat",
+  "q": "— What would you like to eat?\n— ______",
+  "options": [
+   "I'd like beef and rice.",
+   "I'm hungry.",
+   "Yes, please.",
+   "It's delicious."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Food we eat",
+  "q": "— Would you like some chicken soup too?\n— ______",
+  "options": [
+   "Yes, please.",
+   "No problem.",
+   "I'd like.",
+   "Here you are."
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Food we eat",
+  "q": "— Can I have some ice cream, please?\n— Yes, but just a ______.",
+  "options": [
+   "little",
+   "lot",
+   "many",
+   "few"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Food we eat",
+  "q": "— Why do you like coconuts?\n— ______ coconut water is nice.",
+  "options": [
+   "Because",
+   "But",
+   "So",
+   "And"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 5 Food we eat",
+  "q": "选出不同类的一项：beef、dumpling、hamburger、seed",
+  "options": [
+   "seed",
+   "beef",
+   "hamburger",
+   "dumpling"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Nature and us",
+  "q": "— Is there a waterfall in the forest?\n— Yes, ______.",
+  "options": [
+   "there is",
+   "it is",
+   "there are",
+   "they are"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Nature and us",
+  "q": "There ______ also be rain this afternoon.",
+  "options": [
+   "will",
+   "is",
+   "are",
+   "does"
+  ]
+ },
+ {
+  "type": "choice",
+  "subject": "英语",
+  "topic": "综合",
+  "unit": "Unit 6 Nature and us",
+  "q": "选出不同类的一项：forest、mountain、river、umbrella",
+  "options": [
+   "umbrella",
+   "river",
+   "forest",
+   "mountain"
+  ]
+ }
+]
