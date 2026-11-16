@@ -41,6 +41,12 @@ class GuardService : Service() {
         // UsageEvents 事件类型（Android 10+ 的 ACTIVITY_RESUMED/PAUSED 与旧的 MOVE_TO_FOREGROUND/BACKGROUND 数值相同）
         private const val EVENT_RESUMED = 1
         private const val EVENT_PAUSED = 2
+        private const val EVENT_SCREEN_ON = 15
+        private const val EVENT_SCREEN_OFF = 16
+        private const val EVENT_KEYGUARD_SHOWN = 17
+        private const val EVENT_KEYGUARD_HIDDEN = 18
+        private const val EVENT_STOPPED = 23
+        private const val EVENT_DESTROYED = 24
 
         @Volatile
         var running = false
@@ -134,6 +140,7 @@ class GuardService : Service() {
             ACTION_LOCK_NOW -> prefs.lockRequested = true
             ACTION_RESET -> {
                 prefs.resetRound()
+                lastEventTime = System.currentTimeMillis()
                 lastTick = SystemClock.elapsedRealtime()
                 lastNotificationText = ""
             }
@@ -173,11 +180,17 @@ class GuardService : Service() {
 
     // ───────────────────────── 计时循环 ─────────────────────────
 
+    /**
+     * 计时不再靠“每 2 秒减 2 秒”，而是按系统的使用事件时间戳累计：
+     * 两次循环之间（哪怕服务被 ColorOS 冻结了几分钟），只要事件显示计时 App 在前台且屏幕亮着，就把这段时间都算上。
+     * 这样剩余秒数不会因为服务被冻结、某次识别失误而停住。
+     */
     private fun tick() {
-        val now = SystemClock.elapsedRealtime()
-        val elapsed = ((now - lastTick) / 1000f).coerceIn(0f, MAX_STEP_SECONDS)
-        lastTick = now
-        prefs.lastTickAt = System.currentTimeMillis()
+        val nowElapsed = SystemClock.elapsedRealtime()
+        val nowWall = System.currentTimeMillis()
+        val tickElapsed = ((nowElapsed - lastTick) / 1000f).coerceIn(0f, MAX_STEP_SECONDS)
+        lastTick = nowElapsed
+        prefs.lastTickAt = nowWall
 
         if (!prefs.setupDone) {
             stopSelf()
@@ -191,8 +204,9 @@ class GuardService : Service() {
         }
         var remaining = prefs.remainingSeconds.coerceAtMost(roundSeconds)
 
-        // 不论是否计时都检测前台 App，供家长页诊断
-        val pkg = currentForegroundPackage()
+        // 读取事件并算出这段时间里“计时 App 在前台、屏幕亮着”的毫秒数
+        val countedMs = advanceEvents(nowWall)
+        val pkg = currentForeground()
         prefs.lastForegroundPackage = pkg ?: ""
         prefs.lastForegroundSource = foregroundSource
 
@@ -211,7 +225,6 @@ class GuardService : Service() {
 
         if (prefs.locked) {
             prefs.watching = false
-            // 被关掉或被系统移除时重新显示
             if (!overlay.isShowing) overlay.show()
             updateNotification(if (Permissions.canDrawOverlays(this)) "答题中：答对后可继续观看" else "需要“悬浮窗/显示在其他应用上层”权限才能出题")
             return
@@ -220,14 +233,19 @@ class GuardService : Service() {
         val counted = pkg != null && isCounted(pkg)
         val watching = counted && screenOnAndUnlocked()
         prefs.watching = watching
-        if (watching) {
-            remaining = (remaining - elapsed).coerceAtLeast(0f)
+        val used = when {
+            countedMs >= 0L -> countedMs / 1000f            // 按事件时间戳精确累计
+            watching -> tickElapsed                          // 没有事件数据时退回按循环间隔累计
+            else -> 0f
+        }
+        if (used > 0f) {
+            remaining = (remaining - used).coerceAtLeast(0f)
             prefs.remainingSeconds = remaining
-            if (remaining <= 0f) {
-                prefs.watching = false
-                lock()
-                return
-            }
+        }
+        if (remaining <= 0f && (watching || used > 0f)) {
+            prefs.watching = false
+            lock()
+            return
         }
         val leftText = if (prefs.minutes <= 2) {
             "${kotlin.math.ceil(remaining).toInt()} 秒"
@@ -277,66 +295,134 @@ class GuardService : Service() {
         return pm.isInteractive && !km.isKeyguardLocked
     }
 
+    // ── 前台识别：按事件维护“当前处于 RESUMED 的界面”集合 ──
+    // key = 包名/界面类名，value = 包名；LinkedHashMap 的顺序就是 RESUMED 的先后，最后一个就是前台。
+    private val resumed = LinkedHashMap<String, String>()
+    private var eventsReady = false
+    private var lastEventTime = 0L      // 已处理到的事件时间（毫秒，System.currentTimeMillis 基准）
+    private var screenOn = true
+    private var keyguardOn = false
+
+    private fun topResumed(): String? = resumed.values.lastOrNull()
+
+    /** 当前段是否在计时：前台是计时 App 且屏幕亮着、没锁屏。 */
+    private fun segmentCounts(): Boolean {
+        val p = topResumed() ?: return false
+        return screenOn && !keyguardOn && isCounted(p)
+    }
+
     /**
-     * 找出当前前台应用。
-     * 1) 每次都查最近 60 秒的 UsageEvents（滑动窗口），按时间顺序重放 RESUMED(1)/PAUSED(2)：
-     *    最后一个 RESUMED 的包就是前台；如果它之后又 PAUSED 且没有新的 RESUMED，就认为没有前台 App。
-     * 2) 窗口内没有任何事件（例如一直在看同一个视频）时，沿用上次识别的结果。
-     * 3) 还没有缓存时，用 queryUsageStats(INTERVAL_DAILY) 取 lastTimeUsed 最大的包。
-     * 返回值可能是桌面/本应用，计时与否由 isCounted() 决定。
+     * 处理 [lastEventTime, now] 之间的使用事件，返回其中“计时”的毫秒数。
+     * 返回 -1 表示没有使用情况权限或读取失败（调用方改用按循环间隔计时）。
      */
-    private fun currentForegroundPackage(): String? {
+    private fun advanceEvents(now: Long): Long {
+        if (!Permissions.hasUsageAccess(this)) {
+            foregroundSource = "no_permission"
+            eventsReady = false
+            return -1L
+        }
+        refreshIgnored()
+        val usm = getSystemService(Context.USAGE_STATS_SERVICE) as UsageStatsManager
+        val pm = getSystemService(Context.POWER_SERVICE) as PowerManager
+        val km = getSystemService(Context.KEYGUARD_SERVICE) as KeyguardManager
+
+        if (!eventsReady) {
+            // 第一次：回放最近 10 分钟，只用来建立“当前前台”状态，不计时
+            resumed.clear()
+            screenOn = pm.isInteractive
+            keyguardOn = km.isKeyguardLocked
+            try {
+                val events = usm.queryEvents(now - FIRST_EVENT_WINDOW_MS, now)
+                val e = UsageEvents.Event()
+                while (events.hasNextEvent()) {
+                    events.getNextEvent(e)
+                    applyEvent(e, updateScreen = false)
+                }
+            } catch (e: Exception) {
+                prefs.lastError = "读取使用事件失败：${e.javaClass.simpleName}: ${e.message ?: ""}"
+                return -1L
+            }
+            screenOn = pm.isInteractive
+            keyguardOn = km.isKeyguardLocked
+            lastEventTime = now
+            eventsReady = true
+            return 0L
+        }
+
+        var counted = 0L
+        var cursor = lastEventTime
+        try {
+            val events = usm.queryEvents(lastEventTime, now)
+            val e = UsageEvents.Event()
+            while (events.hasNextEvent()) {
+                events.getNextEvent(e)
+                val t = e.timeStamp.coerceIn(cursor, now)
+                if (segmentCounts()) counted += t - cursor
+                cursor = t
+                applyEvent(e, updateScreen = true)
+            }
+        } catch (ex: Exception) {
+            prefs.lastError = "读取使用事件失败：${ex.javaClass.simpleName}: ${ex.message ?: ""}"
+        }
+        // 最后一段：以当前真实的屏幕状态为准
+        screenOn = pm.isInteractive
+        keyguardOn = km.isKeyguardLocked
+        if (segmentCounts()) counted += now - cursor
+        lastEventTime = now
+        // 防止时钟被改等异常情况一次扣太多
+        return counted.coerceIn(0L, 15 * 60_000L)
+    }
+
+    private fun applyEvent(e: UsageEvents.Event, updateScreen: Boolean) {
+        val p = e.packageName ?: return
+        val key = p + "/" + (e.className ?: "")
+        when (e.eventType) {
+            EVENT_RESUMED -> {
+                if (p == "com.android.systemui") return
+                resumed.remove(key)
+                resumed[key] = p
+                // 全屏 App 切换时旧界面一般会先 PAUSED；万一漏了事件，同一时刻别的包的旧条目也清掉，避免卡在旧 App
+                if (p !in ignored || p == packageName) {
+                    val it = resumed.entries.iterator()
+                    while (it.hasNext()) {
+                        val en = it.next()
+                        if (en.value != p && en.key != key && en.value != "com.android.systemui") {
+                            // 只保留本包；多窗口极少见，按最后打开的为准
+                            it.remove()
+                        }
+                    }
+                } else {
+                    // 桌面：所有 App 都算退到后台
+                    val it = resumed.entries.iterator()
+                    while (it.hasNext()) { if (it.next().value != p) it.remove() }
+                }
+            }
+            EVENT_PAUSED, EVENT_STOPPED, EVENT_DESTROYED -> resumed.remove(key)
+            EVENT_SCREEN_ON -> if (updateScreen) screenOn = true
+            EVENT_SCREEN_OFF -> if (updateScreen) screenOn = false
+            EVENT_KEYGUARD_SHOWN -> if (updateScreen) keyguardOn = true
+            EVENT_KEYGUARD_HIDDEN -> if (updateScreen) keyguardOn = false
+        }
+    }
+
+    /** 当前前台 App（供显示和判断是否计时）。 */
+    private fun currentForeground(): String? {
         if (!Permissions.hasUsageAccess(this)) {
             foregroundSource = "no_permission"
             return null
         }
-        refreshIgnored()
+        val top = topResumed()
+        if (top != null) {
+            foregroundPackage = top
+            foregroundSource = "events"
+            return top
+        }
+        // 没有任何 RESUMED 界面（例如刚开机或事件被清理）：用使用统计兜底，只用于显示，计时仍按事件
         val usm = getSystemService(Context.USAGE_STATS_SERVICE) as UsageStatsManager
-        val end = System.currentTimeMillis()
-        val window = if (foregroundPackage == null) FIRST_EVENT_WINDOW_MS else EVENT_WINDOW_MS
-        var sawEvent = false
-        var fg: String? = null
-        try {
-            val events = usm.queryEvents(end - window, end + 1000L)
-            val e = UsageEvents.Event()
-            while (events.hasNextEvent()) {
-                events.getNextEvent(e)
-                val p = e.packageName ?: continue
-                when (e.eventType) {
-                    EVENT_RESUMED -> {
-                        if (p == "com.android.systemui") continue  // 系统界面不改变“前台 App”
-                        fg = p
-                        sawEvent = true
-                    }
-                    EVENT_PAUSED -> {
-                        sawEvent = true
-                        if (p == fg) fg = null
-                    }
-                }
-            }
-        } catch (e: Exception) {
-            prefs.lastError = "读取使用事件失败：${e.javaClass.simpleName}: ${e.message ?: ""}"
-        }
-        if (sawEvent) {
-            if (fg != null) {
-                foregroundPackage = fg
-                foregroundSource = "events"
-                return fg
-            }
-            // 最后的事件是暂停（例如锁屏或切换中）——试试使用统计
-            val fromStats = fromUsageStats(usm, end)
-            foregroundPackage = fromStats
-            foregroundSource = if (fromStats != null) "usage_stats" else "none"
-            return fromStats
-        }
-        if (foregroundPackage != null) {
-            foregroundSource = "cache"
-            return foregroundPackage
-        }
-        val fromStats = fromUsageStats(usm, end)
+        val fromStats = fromUsageStats(usm, System.currentTimeMillis())
         foregroundPackage = fromStats
         foregroundSource = if (fromStats != null) "usage_stats" else "none"
-        return fromStats
+        return null
     }
 
     /** 兜底：最近 60 秒（以及当天）里 lastTimeUsed 最大的包，跳过本应用和系统界面/桌面。 */
@@ -371,6 +457,7 @@ class GuardService : Service() {
 
     private fun onQuizPassed() {
         unlock()
+        lastEventTime = System.currentTimeMillis()
         lastTick = SystemClock.elapsedRealtime()
         tick()
     }
