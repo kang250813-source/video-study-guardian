@@ -25,8 +25,8 @@ android {
         applicationId = "io.github.videostudyguardian"
         minSdk = 26
         targetSdk = 34
-        versionCode = (System.getenv("VSG_VERSION_CODE") ?: "1").toInt()
-        versionName = System.getenv("VSG_VERSION_NAME") ?: "1.0"
+        versionCode = (System.getenv("VSG_VERSION_CODE") ?: "2").toInt()
+        versionName = System.getenv("VSG_VERSION_NAME") ?: "1.0.1"
     }
 
     signingConfigs {

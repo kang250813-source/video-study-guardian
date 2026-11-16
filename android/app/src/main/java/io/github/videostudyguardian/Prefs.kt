@@ -26,7 +26,21 @@ class Prefs(context: Context) {
             "com.youku.phone" to "优酷",
             "com.hunantv.imgo.activity" to "芒果TV",
             "com.google.android.youtube" to "YouTube",
+            "com.ss.android.ugc.live" to "抖音火山版",
+            "com.xingin.xhs" to "小红书",
+            "com.tencent.weishi" to "微视",
+            "com.baidu.haokan" to "好看视频",
+            "com.heytap.yoli" to "OPPO 视频",
         )
+
+        /** 默认列表版本；升级时把新加入的默认 App 合并进已保存的列表。 */
+        const val DEFAULT_APPS_VERSION = 2
+
+        /** 计时范围 */
+        const val SCOPE_SELECTED = "selected"
+        const val SCOPE_ALL = "all"
+        val SCOPES = listOf(SCOPE_SELECTED, SCOPE_ALL)
+        val SCOPE_LABELS = listOf("仅选中的视频 App", "除桌面和本应用外的所有 App")
 
         /** 和电脑版一样：8 月到次年 1 月默认上册，其余默认下册。 */
         fun defaultTerm(): String {
@@ -85,8 +99,27 @@ class Prefs(context: Context) {
         set(v) = sp.edit().putBoolean("paused", v).apply()
 
     var videoApps: Set<String>
-        get() = HashSet(sp.getStringSet("video_apps", DEFAULT_VIDEO_APPS.keys) ?: DEFAULT_VIDEO_APPS.keys)
-        set(v) = sp.edit().putStringSet("video_apps", HashSet(v)).apply()
+        get() {
+            val saved = sp.getStringSet("video_apps", null) ?: return HashSet(DEFAULT_VIDEO_APPS.keys)
+            val result = HashSet(saved)
+            if (sp.getInt("default_apps_version", 1) < DEFAULT_APPS_VERSION) {
+                // 老版本升级：补上新加入的默认 App（家长之前取消勾选的旧默认项不会被加回）
+                val v1 = setOf(
+                    "com.ss.android.ugc.aweme", "com.ss.android.ugc.aweme.lite", "com.smile.gifmaker", "com.kuaishou.nebula",
+                    "tv.danmaku.bili", "com.ss.android.article.video", "com.tencent.qqlive", "com.qiyi.video",
+                    "com.youku.phone", "com.hunantv.imgo.activity", "com.google.android.youtube",
+                )
+                result.addAll(DEFAULT_VIDEO_APPS.keys - v1)
+                sp.edit().putStringSet("video_apps", HashSet(result)).putInt("default_apps_version", DEFAULT_APPS_VERSION).apply()
+            }
+            return result
+        }
+        set(v) = sp.edit().putStringSet("video_apps", HashSet(v)).putInt("default_apps_version", DEFAULT_APPS_VERSION).apply()
+
+    /** 计时范围：SCOPE_SELECTED（默认）或 SCOPE_ALL */
+    var scope: String
+        get() = sp.getString("scope", SCOPE_SELECTED).takeIf { it in SCOPES } ?: SCOPE_SELECTED
+        set(v) = sp.edit().putString("scope", if (v in SCOPES) v else SCOPE_SELECTED).apply()
 
     // ── 运行状态（服务写入，界面读取）──
     var remainingSeconds: Float
@@ -106,6 +139,40 @@ class Prefs(context: Context) {
     var lockRequested: Boolean
         get() = sp.getBoolean("lock_requested", false)
         set(v) = sp.edit().putBoolean("lock_requested", v).apply()
+
+    // ── 诊断信息（服务写入，家长页读取）──
+    /** 服务最近一次检测到的前台 App 包名（空 = 未检测到） */
+    var lastForegroundPackage: String
+        get() = sp.getString("diag_fg_pkg", "") ?: ""
+        set(v) = sp.edit().putString("diag_fg_pkg", v).apply()
+
+    /** 前台 App 是怎么判断出来的：events / cache / usage_stats / none */
+    var lastForegroundSource: String
+        get() = sp.getString("diag_fg_source", "") ?: ""
+        set(v) = sp.edit().putString("diag_fg_source", v).apply()
+
+    /** 最近一次计时循环时是否正在计时 */
+    var watching: Boolean
+        get() = sp.getBoolean("diag_watching", false)
+        set(v) = sp.edit().putBoolean("diag_watching", v).apply()
+
+    /** 计时循环最近一次运行的时间（System.currentTimeMillis） */
+    var lastTickAt: Long
+        get() = sp.getLong("diag_last_tick", 0L)
+        set(v) = sp.edit().putLong("diag_last_tick", v).apply()
+
+    /** 最近一次服务错误（启动失败、循环异常等），空 = 无 */
+    var lastError: String
+        get() = sp.getString("diag_last_error", "") ?: ""
+        set(v) = sp.edit().putString("diag_last_error", v).apply()
+
+    /** 把剩余时间重置为一整轮（家长保存设置后调用） */
+    fun resetRound() {
+        sp.edit()
+            .putFloat("remaining_seconds", minutes * 60f)
+            .putInt("applied_minutes", minutes)
+            .apply()
+    }
 
     fun quizConfig() = QuestionBank.Config(grade, term, mode, subjects, englishEdition)
 }

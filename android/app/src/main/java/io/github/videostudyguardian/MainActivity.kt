@@ -35,9 +35,12 @@ class MainActivity : Activity() {
     private var authed = false
     private var leavingForSettings = false
     private var statusView: TextView? = null
+    private var diagView: TextView? = null
     private val refreshStatus = object : Runnable {
         override fun run() {
             statusView?.text = statusText()
+            diagView?.text = diagnosticsText()
+            handler.removeCallbacks(this)
             handler.postDelayed(this, 2000)
         }
     }
@@ -52,7 +55,10 @@ class MainActivity : Activity() {
     override fun onResume() {
         super.onResume()
         leavingForSettings = false
-        if (prefs.setupDone) GuardService.start(this)
+        // 服务没在跑（或计时循环超过 10 秒没动）就重新拉起；失败时 start() 会弹 Toast 并记录错误
+        if (prefs.setupDone && (!GuardService.running || System.currentTimeMillis() - prefs.lastTickAt > 10_000L)) {
+            GuardService.start(this)
+        }
         render()
         handler.post(refreshStatus)
     }
@@ -79,6 +85,8 @@ class MainActivity : Activity() {
     // ───────────────────────── 通用布局 ─────────────────────────
 
     private fun page(build: LinearLayout.() -> Unit) {
+        statusView = null
+        diagView = null
         val scroll = ScrollView(this)
         val box = Ui.vertical(this, 10)
         val p = Ui.dp(this, 20)
@@ -211,6 +219,7 @@ class MainActivity : Activity() {
         addView(ok, Ui.matchWidth(8, context))
         statusView = Ui.text(context, statusText(), 15f, Ui.MUTED)
         addView(statusView, Ui.matchWidth(16, context))
+        diagnosticsCard(this)
         ok.setOnClickListener {
             val input = pw.text.toString()
             if (input.isEmpty()) return@setOnClickListener
@@ -231,7 +240,7 @@ class MainActivity : Activity() {
 
     private fun statusText(): String {
         if (!prefs.setupDone) return ""
-        val left = kotlin.math.ceil(prefs.remainingSeconds / 60f).toInt().coerceAtLeast(0)
+        val left = kotlin.math.ceil(prefs.remainingSeconds.coerceAtMost(prefs.minutes * 60f) / 60f).toInt().coerceAtLeast(0)
         val state = when {
             prefs.paused -> "已暂停"
             prefs.locked -> "答题中"
@@ -244,12 +253,72 @@ class MainActivity : Activity() {
         return "状态：$state · 本轮剩余约 $left 分钟" + if (missing.isEmpty()) "" else "\n缺少权限：${missing.joinToString("、")}"
     }
 
+    // ───────────────────────── 诊断 ─────────────────────────
+
+    private fun diagnosticsCard(parent: LinearLayout) {
+        val card = Ui.vertical(this, 4)
+        val p = Ui.dp(this, 14)
+        card.setPadding(p, p, p, p)
+        card.background = Ui.rounded(this, Ui.OPTION_BG, 14, 1, Ui.OPTION_BORDER)
+        card.addView(Ui.text(this, "运行诊断（每 2 秒刷新）", 16f, Ui.PURPLE, bold = true), Ui.matchWidth())
+        val tv = Ui.text(this, diagnosticsText(), 14f, Ui.INK).apply { setLineSpacing(0f, 1.25f) }
+        card.addView(tv, Ui.matchWidth())
+        diagView = tv
+        parent.addView(card, Ui.matchWidth(8, this))
+    }
+
+    private fun yesNo(b: Boolean) = if (b) "✅ 是" else "❌ 否"
+
+    private fun diagnosticsText(): String {
+        if (!prefs.setupDone) return ""
+        val now = System.currentTimeMillis()
+        val lastTick = prefs.lastTickAt
+        val tickAge = if (lastTick > 0) (now - lastTick) / 1000 else -1
+        val serviceOk = GuardService.running && tickAge in 0..10
+        val serviceLine = when {
+            serviceOk -> "✅ 运行中（${tickAge} 秒前计时循环）"
+            GuardService.running -> "⚠️ 服务在但计时循环 ${if (tickAge < 0) "从未运行" else "已 $tickAge 秒没动"}"
+            else -> "❌ 未运行"
+        }
+        val pkg = prefs.lastForegroundPackage
+        val source = when (prefs.lastForegroundSource) {
+            "events" -> "使用事件"
+            "cache" -> "沿用上次"
+            "usage_stats" -> "使用统计兜底"
+            "no_permission" -> "无权限"
+            else -> "未识别"
+        }
+        val fgLine = if (pkg.isEmpty()) "（未检测到）· $source" else "${appLabel(pkg)}（$pkg）· $source"
+        val ignored = GuardService.ignoredPackages(this)
+        val inScope = pkg.isNotEmpty() && pkg !in ignored &&
+            (prefs.scope == Prefs.SCOPE_ALL || pkg in prefs.videoApps)
+        val scopeLabel = Prefs.SCOPE_LABELS[Prefs.SCOPES.indexOf(prefs.scope).coerceAtLeast(0)]
+        val remaining = kotlin.math.ceil(prefs.remainingSeconds.coerceIn(0f, prefs.minutes * 60f)).toInt()
+        val sb = StringBuilder()
+        sb.append("服务：").append(serviceLine).append('\n')
+        sb.append("使用情况访问：").append(yesNo(Permissions.hasUsageAccess(this))).append('\n')
+        sb.append("悬浮窗：").append(yesNo(Permissions.canDrawOverlays(this))).append('\n')
+        sb.append("通知：").append(yesNo(Permissions.hasNotifications(this))).append('\n')
+        sb.append("计时范围：").append(scopeLabel).append('\n')
+        sb.append("当前前台 App：").append(fgLine).append('\n')
+        if (pkg.isNotEmpty()) sb.append("该 App 是否计入：").append(yesNo(inScope)).append('\n')
+        sb.append("正在计时：").append(yesNo(serviceOk && prefs.watching))
+        if (prefs.paused) sb.append("（已暂停守护）")
+        if (prefs.locked) sb.append("（答题中）")
+        sb.append('\n')
+        sb.append("本轮剩余：").append(remaining).append(" 秒（每轮 ").append(prefs.minutes).append(" 分钟）")
+        val err = prefs.lastError
+        if (err.isNotEmpty()) sb.append("\n最近错误：").append(err)
+        return sb.toString()
+    }
+
     // ───────────────────────── 设置 ─────────────────────────
 
     private fun showSettings() = page {
         title("家长设置")
         statusView = Ui.text(context, statusText(), 15f, Ui.INK)
         addView(statusView, Ui.matchWidth())
+        diagnosticsCard(this)
 
         // 权限放在最前面，第一次进来最需要
         section("权限（全部打勾才能正常工作）")
@@ -303,6 +372,21 @@ class MainActivity : Activity() {
         label("每轮观看分钟数（${Prefs.MIN_MINUTES}–${Prefs.MAX_MINUTES}）")
         val minutes = numberField(prefs.minutes)
         addView(minutes, Ui.matchWidth())
+        label("计时范围")
+        val scopeGroup = RadioGroup(context).apply {
+            orientation = RadioGroup.VERTICAL
+            for ((i, key) in Prefs.SCOPES.withIndex()) {
+                addView(RadioButton(this@MainActivity).apply {
+                    id = View.generateViewId()
+                    text = Prefs.SCOPE_LABELS[i]
+                    setTextSize(TypedValue.COMPLEX_UNIT_SP, 17f)
+                    tag = key
+                    if (key == prefs.scope) isChecked = true
+                })
+            }
+        }
+        addView(scopeGroup, Ui.matchWidth())
+        note("“所有 App”模式下，除了桌面、系统界面和本应用，用任何 App 都会计时。修改后点下方“保存设置”生效。")
         val pause = Switch(context).apply {
             text = "暂停守护（不计时、不出题）"
             setTextSize(TypedValue.COMPLEX_UNIT_SP, 17f)
@@ -345,13 +429,16 @@ class MainActivity : Activity() {
                 toast("分钟数必须是 ${Prefs.MIN_MINUTES} 到 ${Prefs.MAX_MINUTES} 的整数"); return@setOnClickListener
             }
             prefs.minutes = m
+            prefs.scope = (scopeGroup.findViewById<RadioButton>(scopeGroup.checkedRadioButtonId)?.tag as? String) ?: Prefs.SCOPE_SELECTED
             prefs.grade = grade.selectedItemPosition + 1
             prefs.term = term.selectedTerm()
             prefs.subjects = Prefs.SUBJECTS.filterIndexed { i, _ -> boxes[i].isChecked }.ifEmpty { Prefs.SUBJECTS }
             prefs.mode = Prefs.MODES[mode.selectedItemPosition.coerceIn(0, Prefs.MODES.size - 1)]
             prefs.englishEdition = editions[edition.selectedItemPosition.coerceIn(0, 1)]
             val n = QuestionBank(assets).count(prefs.quizConfig())
-            toast("已保存：${prefs.grade} 年级${prefs.term}册，当前题库 $n 题")
+            // 重启服务并把本轮剩余时间重置为新的分钟数
+            val err = GuardService.restart(this@MainActivity)
+            if (err == null) toast("已保存：每轮 ${prefs.minutes} 分钟，${prefs.grade} 年级${prefs.term}册，当前题库 $n 题；已重新开始计时")
             render()
         }
 
@@ -454,6 +541,7 @@ class MainActivity : Activity() {
             .setMultiChoiceItems(labels, checked) { _, which, isChecked -> checked[which] = isChecked }
             .setPositiveButton("保存") { _, _ ->
                 prefs.videoApps = all.filterIndexed { i, _ -> checked[i] }.map { it.first }.toSet()
+                GuardService.start(this)
                 done()
                 toast("已保存视频 App 列表")
             }
